@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://yoursitehere/</loc>
-    <lastmod>2014-11-28T12:55:29-08:00</lastmod>
+    <lastmod>2014-11-28T12:57:10-08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursitehere/post/first/</loc>
+    <lastmod>2014-11-28T12:57:10-08:00</lastmod>
   </url>
   
   <url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on my new hugo site </title>
+      <title>Posts on my new hugo site </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://yourSiteHere/index.xml/</link>
+    <link>http://yourSiteHere/post/index.xml/</link>
     <language>en-us</language>
     
     
@@ -15,15 +15,6 @@
       <pubDate>Fri, 28 Nov 2014 12:57:10 PST</pubDate>
       
       <guid>http://yoursitehere/post/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://yoursitehere/about/</link>
-      <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
-      
-      <guid>http://yoursitehere/about/</guid>
       <description></description>
     </item>
     
