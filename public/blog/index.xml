@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on Musings on Design </title>
+      <title>Blogs on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://localhost:1313/blog/index.xml/</link>
     
     
     
-    <updated>Fri, 28 Nov 2014 17:09:06 PST</updated>
-    
-    <item>
-      <title>Stay In Touch</title>
-      <link>http://localhost:1313/stay_in_touch/</link>
-      <pubDate>Fri, 28 Nov 2014 17:09:06 PST</pubDate>
-      
-      <guid>http://localhost:1313/stay_in_touch/</guid>
-      <description></description>
-    </item>
+    <updated>Fri, 28 Nov 2014 16:17:54 PST</updated>
     
     <item>
       <title>The Elements of User Experience</title>
@@ -118,15 +109,6 @@ Next Steps:&lt;/p&gt;
     </item>
     
     <item>
-      <title>My Work</title>
-      <link>http://localhost:1313/portfolio/first/</link>
-      <pubDate>Fri, 28 Nov 2014 13:50:41 PST</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Journey From Journalism to Design</title>
       <link>http://localhost:1313/blog/first%20post/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
@@ -153,17 +135,6 @@ Next Steps:&lt;/p&gt;
 &lt;p&gt;In a way, my childhood passion has come full circle. When I was a journalist, the audience was my main focus. It mattered most that I understood my audience and how to communicate with them.  In critical times, if I did not understand them, I would fail  as a communicator.&lt;/p&gt;
 
 &lt;p&gt;The audience- the user- will continue to be my main focus. I have a lot to learn but between you and me, I haven’t been this excited since I was a kid, reading articles from the Picayune Item into my tape recorder. So raise your glass with me. Here&amp;rsquo;s to a new journey.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.
-I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
 </description>
     </item>
     

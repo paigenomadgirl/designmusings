@@ -1,9 +1,10 @@
-+++
-date = "2014-11-28T12:55:29-08:00"
-draft = false
-title = "About Me"
+---
+date: 2014-11-28T12:55:29-08:00
+title: About Me
 
-+++
+authorname: Paige Bennett
+authorbio: Kicking some design ideas around
+---
 
 
 Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way. 
