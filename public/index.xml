@@ -3,165 +3,18 @@
   <channel>
       <title>Recent Content on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>paigebennett.com/index.xml/</link>
     
     
     
-    <updated>Fri, 28 Nov 2014 17:09:06 PST</updated>
-    
-    <item>
-      <title>Stay In Touch</title>
-      <link>http://localhost:1313/stay_in_touch/</link>
-      <pubDate>Fri, 28 Nov 2014 17:09:06 PST</pubDate>
-      
-      <guid>http://localhost:1313/stay_in_touch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Elements of User Experience</title>
-      <link>http://localhost:1313/blog/third/</link>
-      <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
-      
-      <guid>http://localhost:1313/blog/third/</guid>
-      <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
-His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
-
-&lt;p&gt;Garrett described user experience as “the experience the product creates for the people who use it in the real world.” Sometimes we have great experiences with products (I’m looking at you, nostalgic Timehop), other times the experience is frustrating (like anytime I try to navigate Netflix on my tv). Our jobs as designers are to make that experience one of joy, delight and ease.&lt;/p&gt;
-
-&lt;p&gt;While there are many things that Garrett’s book helped me understand better, I’ll share with you my top highlights:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The Five Planes&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Garrett describes the five planes as layers that build upon one another and influence how a site looks and behaves. His five planes are: Surface, Skeleton, Structure, Scope and Strategy. What I loved about this is how it broke down a site into the many, many different facets, from abstract (strategy) to concrete (surface). Garrett emphasized the importance of each plane’s dependence on the other. For example, if you miss getting the strategy right, it will affect the scope.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The Plane Approach&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While each plane is dependent on one another, that doesn’t mean that you have to finish each plane before you can start work on the next section. That could lead to frustration for everyone involved. Instead, Garrett provided a straight-forward, great piece of advice to keep in mind: “have work on each plane &lt;strong&gt;finish&lt;/strong&gt; before work on the next can finish.” I appreciated this clarification because I have been a part of teams before that have tried to finish one plane before starting another. It did lead to frustration- both from the team and our users. Had we taken Garrett’s advice, perhaps we would have all been better off.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;“Understand the consequences of your solution to the problem.”&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This was one of the most influential statements that Garrett made and I hope that it’s one I will always keep top of mind. Sometimes we can be so focused on fixing the problem that we don’t take a step back to consider how that solution could possibly cause a ripple effect throughout the design. It takes your team thinking about each plane to avoid this. Garrett provided this helpful diagram to show what this might look like:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/image/image.png&#34; alt=&#34;Image&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;“If you approach your product development process with the complete user experience in mind, you can come out of it with a product that’s an asset, not a liability.” Yes, Mr. Garrett. Yes indeed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://localhost:1313/blog/second%20post/</link>
-      <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
-      
-      <guid>http://localhost:1313/blog/second%20post/</guid>
-      <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
-
-&lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
-
-&lt;p&gt;I should set the stage now and share with you that up to this point, my experience with user studies have been purely grassroots. Really grassroots. But, since my goal for this blog is to be one that highlights (hopefully) progress, let me introduce you to User Study #1: The Grassroots Edition.&lt;/p&gt;
-
-&lt;p&gt;Right off the bat, I can tell you how we wrongly went about this study: we didn’t first form a hypothesis that we were trying to answer.&lt;/p&gt;
-
-&lt;p&gt;Here’s what we assumed: our website messaging wasn’t clear, the website flow made no sense and our checkout system was confusing.&lt;/p&gt;
-
-&lt;p&gt;Basically we went into the user study looking for validation for what we wanted to do, which was completely rework the website and messaging.&lt;/p&gt;
-
-&lt;p&gt;I joined the startup after the website had launched but I wished this study had been done prior to launching the site. Again, that’s where the lean startup school of thought makes so much sense.&lt;/p&gt;
-
-&lt;p&gt;We started by interviewing 16 people, all non-users of our product. With the exception of 4, they had never heard of us.&lt;/p&gt;
-
-&lt;p&gt;We had them walk through our booking process, from the homepage to choosing a product they were interested in, booking and reserving that product. Finally, we asked them about a couple of specific pages we felt were lacking in clarity and flow.&lt;/p&gt;
-
-&lt;p&gt;“$60 is too much. What am I getting for that?”&lt;/p&gt;
-
-&lt;p&gt;Validation:&lt;/p&gt;
-
-&lt;p&gt;The user study validated a lot of what we already knew, like:&lt;/p&gt;
-
-&lt;p&gt;Messaging: It wasn’t clear to the user what exactly we were offering or where they could have the meal. Would the chef come to their house? Was it at the chef’s house? Was it delivery? The user really didn’t know.
-Dynamic Pricing: The need for pricing that changed depending on how many people you have at a dinner. The price displayed isn’t what you would pay if there was only 2 people&amp;hellip;or a larger group like 15. Users were unaware that booking a dinner under the minimum number of people shown would result in a higher price per person.
-Flow: From the homepage to the meals page, filtering down to what you wanted to see (cooking classes, meals, tours) wasn’t intuitive. Part of that stemmed from hazy messaging.&lt;/p&gt;
-
-&lt;p&gt;“I thought you served only Italian food.”&lt;/p&gt;
-
-&lt;p&gt;New Insights:&lt;/p&gt;
-
-&lt;p&gt;We also got a lot of great feedback on issues we didn’t know were issues:&lt;/p&gt;
-
-&lt;p&gt;Consistent Images: One thing we heard was about our H1 image on our homepage. It conveyed (to a couple of users) that we offered one genre of food. Of course, there’s no way a picture of food will convey every genre but still, this was interesting feedback. If only to reiterate how important visuals are to our site.
-Menu Clarity: We have pictures of food and a menu listed on the meals page but you’ll notice they’re not listed side-by-side. We heard from some users that this added to their confusion, especially when the menu featured food they were unfamiliar with.
-Social Trust: We offer Facebook login but not using the Facebook symbol (it simply says “Login”). The study showed us that users wanted to see the Facebook symbol. To them, it added validity and trust.
-Next Steps:&lt;/p&gt;
-
-&lt;p&gt;The raw feedback was enlightening enough but when it came to actionable items to provide backend, we focused on three areas:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Messaging on the home and meals pages&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dynamic pricing&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;How it Works&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;(Our reasoning for putting How it Works as a high priority was because of heavy site traffic to that page.)&lt;/p&gt;
-
-&lt;p&gt;I would love to share the before and after images but my path took a quick turn while in the middle of this study. Instead, I handed it over to my very capable coworkers and look forward to seeing the end result as a user.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My Work</title>
-      <link>http://localhost:1313/portfolio/first/</link>
-      <pubDate>Fri, 28 Nov 2014 13:50:41 PST</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Journey From Journalism to Design</title>
-      <link>http://localhost:1313/blog/first%20post/</link>
-      <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
-      
-      <guid>http://localhost:1313/blog/first%20post/</guid>
-      <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
-
-&lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
-
-&lt;p&gt;Enter college. No major change, no shift, no worries. Print journalism was dying and I was told that the probability of anchoring in a large market was small. Still, that didn’t deter me. There was something about communication- pure and simple with your audience- that was innate.&lt;/p&gt;
-
-&lt;p&gt;But things changed and sands shifted. Like many journalists, the allure of PR drew me in. It was a semi-regular schedule, semi-regular hours and more pay that my measly producer salary drew. And though I didn’t love it, it taught me well. Through PR, I was introduced to tech. I was still a storyteller and (in theory) the audience was still my main priority.&lt;/p&gt;
-
-&lt;p&gt;I found, though, that I increasingly wanted to connect with a brand’s audience in a deeper way- to help build the trust and customer experience. Essentially, I wanted to manage the community. And so, earlier this summer, I jumped at a chance to direct the community for an early stage startup.&lt;/p&gt;
-
-&lt;p&gt;It was lean&amp;hellip;.incredibly so. But almost immediately after accepting, my role shifted completely. And while that’s to be expected to a certain point in the startup world, it became something that I didn’t recognize for a vision I didn&amp;rsquo;t understand. But nonetheless, there were opportunities to learn everyday.&lt;/p&gt;
-
-&lt;p&gt;We were building everything on our own. The messaging, the voice, the experience. It was all on us. And these things I loved. I loved conducting a grassroots study to figure out how people perceive us and our website. I loved figuring out what people liked and what they hated and why. I don’t think I realized I was doing user experience. But what I realized is that I really, really liked it.&lt;/p&gt;
-
-&lt;p&gt;And so a few weeks ago, when I received word that funding wasn’t going as expected and that wasn’t any money to pay me…well, I guess you could say that it was my first taste of the not so glamorous world of startups. They’re not all the 1% success stories. Some crash and burn. And while it hurts, it can also be a chance for a new chapter (&amp;ldquo;One door closes&amp;rdquo; and all that jazz….).&lt;/p&gt;
-
-&lt;p&gt;So on November 24th, I began a new journey, studying UX at Tradecraft, under the visionary Kate Rutter.&lt;/p&gt;
-
-&lt;p&gt;In a way, my childhood passion has come full circle. When I was a journalist, the audience was my main focus. It mattered most that I understood my audience and how to communicate with them.  In critical times, if I did not understand them, I would fail  as a communicator.&lt;/p&gt;
-
-&lt;p&gt;The audience- the user- will continue to be my main focus. I have a lot to learn but between you and me, I haven’t been this excited since I was a kid, reading articles from the Picayune Item into my tape recorder. So raise your glass with me. Here&amp;rsquo;s to a new journey.&lt;/p&gt;
-</description>
-    </item>
+    <updated>Fri, 28 Nov 2014 12:55:29 PST</updated>
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>/paigebennett.com/about/</link>
       <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>/paigebennett.com/about/</guid>
       <description>&lt;p&gt;Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.
 I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
 </description>
