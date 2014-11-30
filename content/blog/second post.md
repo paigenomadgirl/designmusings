@@ -1,6 +1,6 @@
 +++
 date = "2014-11-28T13:58:43-08:00"
-draft = true
+draft = false
 title = "My First User Study (The Shaky, Grass Roots Edition) "
 
 +++

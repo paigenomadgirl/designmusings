@@ -1,6 +1,6 @@
 +++
 date = "2014-11-28T13:42:29-08:00"
-draft = true
+draft = false
 title = "The Journey From Journalism to Design"
 
 +++
