@@ -20,6 +20,13 @@ commit
 
 git push // to send/push commit to github
 
+<code>
+hugo --theme=hugo-incorporated --baseUrl=paigebennett.com
+
+//to generate the static pages
+</code>
+
+
 git subtree push --prefix public heroku master // to deploy to heroku
 
 ### What to do if Heroku says the Head is not uptodate???
