@@ -1,0 +1,10 @@
+baseurl:            http://paigebennett.com/
+theme:              hugo-incorporated
+title:  				Musings on Design
+
+params:
+  inc:
+    # Blog Information
+    title:        "nil productions blog"
+    cover_image:  blog-cover.jpg
+    logo:         logo.png
