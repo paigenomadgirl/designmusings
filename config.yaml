@@ -5,6 +5,11 @@ title:  				Musings on Design
 params:
   inc:
     # Blog Information
-    title:        "nil productions blog"
-    cover_image:  blog-cover.jpg
-    logo:         logo.png
+    title:        "Musings on Design"
+    cover_image:  cover_image.jpg
+    logo:         logo.jpg
+    url:          http://paigebennett.com/
+    facebook:     paige.bennett
+    github:       paigenomadgirl
+    twitter:      paigenomadgirl
+    about_link:   /about/
