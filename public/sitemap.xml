@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2014-11-28T13:50:41-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/blog/first/</loc>
     <lastmod>2014-11-28T13:42:29-08:00</lastmod>
   </url>
