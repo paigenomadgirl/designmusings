@@ -7,7 +7,7 @@ params:
     # Blog Information
     title:        "Musings on Design"
     cover_image:  cover_image.jpg
-    logo:         logo.jpg
+    logo:         logo_paige.png
     url:          http://paigebennett.com/
     facebook:     paige.bennett
     github:       paigenomadgirl
