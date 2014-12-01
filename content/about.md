@@ -1,6 +1,7 @@
 ---
 date: 2014-11-28T12:55:29-08:00
 title: About Me
+type: about
 
 authorname: Paige Bennett
 authorbio: Kicking some design ideas around

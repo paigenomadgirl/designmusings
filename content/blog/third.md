@@ -25,7 +25,7 @@ While each plane is dependent on one another, that doesn’t mean that you have 
 
 This was one of the most influential statements that Garrett made and I hope that it’s one I will always keep top of mind. Sometimes we can be so focused on fixing the problem that we don’t take a step back to consider how that solution could possibly cause a ripple effect throughout the design. It takes your team thinking about each plane to avoid this. Garrett provided this helpful diagram to show what this might look like:
 
-![Image](/image/image.png)
+{{% figure src="/images/third_diagram.png" title="Diagram" %}}
 
 “If you approach your product development process with the complete user experience in mind, you can come out of it with a product that’s an asset, not a liability.” Yes, Mr. Garrett. Yes indeed. 
 					

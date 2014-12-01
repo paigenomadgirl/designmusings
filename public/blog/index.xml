@@ -3,7 +3,7 @@
   <channel>
       <title>Blogs on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://paigebennett.com/blog/index.xml/</link>
+    <link>http://localhost:1313/blog/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>The Elements of User Experience</title>
-      <link>http://paigebennett.com/blog/third/</link>
+      <link>http://localhost:1313/blog/third/</link>
       <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/third/</guid>
+      <guid>http://localhost:1313/blog/third/</guid>
       <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
 His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
 
@@ -40,8 +40,17 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
 
 &lt;p&gt;This was one of the most influential statements that Garrett made and I hope that it’s one I will always keep top of mind. Sometimes we can be so focused on fixing the problem that we don’t take a step back to consider how that solution could possibly cause a ripple effect throughout the design. It takes your team thinking about each plane to avoid this. Garrett provided this helpful diagram to show what this might look like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/image/image.png&#34; alt=&#34;Image&#34; /&gt;
-&lt;/p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/third_diagram.png&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Diagram&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
 
 &lt;p&gt;“If you approach your product development process with the complete user experience in mind, you can come out of it with a product that’s an asset, not a liability.” Yes, Mr. Garrett. Yes indeed.&lt;/p&gt;
 </description>
@@ -49,10 +58,10 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
     
     <item>
       <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://paigebennett.com/blog/second%20post/</link>
+      <link>http://localhost:1313/blog/second/</link>
       <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/second%20post/</guid>
+      <guid>http://localhost:1313/blog/second/</guid>
       <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
 
 &lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
@@ -110,10 +119,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>The Journey From Journalism to Design</title>
-      <link>http://paigebennett.com/blog/first%20post/</link>
+      <link>http://localhost:1313/blog/first/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/first%20post/</guid>
+      <guid>http://localhost:1313/blog/first/</guid>
       <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
 
 &lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
