@@ -18,7 +18,7 @@ Now to be honest, my first few interactions with the app were a bit frustrating.
 
 **Users**: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos <a href="https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0" target="_blank">here</a>.
 
-{{% figure src="/images/cafe.jpg" %}}
+{{% figure src="/images/Cafe.jpg" %}}
 
 I began by asking them the following filter questions:
 
