@@ -7,28 +7,29 @@ title = "Vint: A Usability Study"
 
 My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue-- my wedding dress (and fitting nicely into it).
 
-That concern is largely want made new fitness app Vint catch my eye last week. <a href="https://www.joinvint.com/" target="_blank">Vint</a> touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer near my area for less than what I would pay in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint as helping me reach my wedding fitness goal.
+That concern is largely want made new fitness app Vint catch my eye last week. <a href="https://www.joinvint.com/" target="_blank">Vint</a> touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.
 
-But to be honest, my first few interactions with the app were a bit frustrating. It took me several attempts to find and book a trainer. So in the vein of improvement (and because I want Vint to succeed), I decided to focus a guerrilla usability study on the app.
+Now to be honest, my first few interactions with the app were a bit frustrating. It took me several attempts to find and successfully book a trainer. So in the vein of improvement (and because I want Vint to succeed), I decided to focus a guerrilla usability study on this app.
 
 **Platform**: Android HTC
 
 **Problem**: I use Vint to locate and book personal trainers in my area for early morning training sessions. I’ve had some trouble successfully finding and booking a trainer and wanted to test and see if other people had the same issues.
 
 
-**Users**: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. 
+**Users**: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos <a href="https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0" target="_blank">here</a>.
+
+{{% figure src="/images/cafe.jpg" %}}
 
 I began by asking them the following filter questions:
 
-1. You’ve been given $500 for a personal trainer. 
-2. How would you go about finding one?
-3. Have you used a personal trainer?
-4. What do you look for in a personal trainer? Tell me about price, type and location.
-5. What was the process of finding a personal trainer process like?
-6. If you haven’t used a personal trainer, are you interested in getting one?
-7. Tell me about why you haven’t used a personal trainer before.
+1. You’ve been given $500 for a personal trainer. How would you go about finding one?
+2. Have you used a personal trainer?
+3. What do you look for in a personal trainer? Tell me about price, type and location.
+4. What was the process of finding a personal trainer process like?
+5. If you haven’t used a personal trainer, are you interested in getting one?
+6. Tell me about why you haven’t used a personal trainer before.
 
-**Tasks**: I asked users to complete 4 common tasks that I often do within the app:
+**Tasks**: I then asked users to complete 4 common tasks that I do most often within the app:
 
 * Find an instructor
 * Book a session
@@ -37,13 +38,15 @@ I began by asking them the following filter questions:
 
 **Analysis**: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.
 
+{{% figure src="/images/Painpoints.jpg" %}}
+
 **Pain Point #1: Canceling a Session**
 
 *“I don’t know, I really don’t know.” –Paul*
 
 This is a pain point that I am intimately familiar with. The first time I used Vint, I accidentally booked a session and could not find how to cancel it. As I found from talking to users, I am not the only one who had trouble with this task.
 
-To cancel a session, you must visit your profile page to view and cancel your bookings. Two of the users did not make it to this page and shared that they would contact the trainer directly to cancel. Two other users  gave up on the task and said that it was not possible to cancel a session.  Only one user was able to find and cancel a session without visiting other pages first.
+To cancel a session, you must visit your profile page to view and cancel your bookings. Two of the users gave up during this task, not ever making it to the profile page and sharing with me that they would contact the trainer directly to cancel. Two other users gave up on the task and said that it was "just not possible to cancel a session." Only one user was able to find and cancel a session without visiting other pages first.
 
 *“I’d rather something be in this first page than have to go back to my profile.” –Lisa*
 
@@ -51,7 +54,7 @@ To cancel a session, you must visit your profile page to view and cancel your bo
 
 I used Urban Sitter as my inspiration:
 
-{{% figure src="/images/Urban.jpg" %}}
+{{% figure src="/images/baby.jpg" %}}
 
 {{% figure src="/images/CurrentCancel.png" %}}
 
@@ -79,12 +82,12 @@ Users would click on the Vint logo expecting it to take them back a page. Instea
 
 {{% figure src="/images/Category.jpg" %}}
 
-If you compare the Vint logo to another app's logo (in this case, gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:
+If you compare the Vint logo to another app's logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:
 
 {{% figure src="/images/Logos.png" %}}
 
+I realize that Vint's design is in keeping with Andriod's design principles but the logo isn't needed- users know what app they're in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow. 
 
-I realize that this design is in keeping with Andriod's design principles but the logo isn't needed- users know what app they're in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow. 
 {{% figure src="/images/AfterLogo.jpg" %}}
 
 This is similar to Airbnb's app:
@@ -98,11 +101,12 @@ This is similar to Airbnb's app:
 There are several other recommendations that I will be addressing in the near future. Like....onboarding! This wasn't something I could complete within a short timeframe but designing an onboarding experience would solve several problems I noticed, including cancelation, confusing profiles and unclear categorization. 
 
 I really like how Pinterest does onboarding and recommend that Vint create a similar experience. 
-{{% figure src="/images/Pinterest1.jpg" %}}
-{{% figure src="/images/Pinterest2.jpg" %}}
-{{% figure src="/images/Pinterest3.jpg" %}}
-{{% figure src="/images/Pinterest4.jpg" %}}
+{{% figure src="/images/Pinterest 1.jpg" %}}
+{{% figure src="/images/Pinterest 4.jpg" %}}
+
 This design is also a little less intensive to create. 
 
 So stay tuned for Vint: Part deux (and updates on how that wedding dress fits). 
+
+*I do not work for Vint and am not affiliated with them in any way. I do use the app and am passionate about providing delightful user experiences.* 
 
