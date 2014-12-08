@@ -37,7 +37,6 @@ I began by asking them the following filter questions:
 * Cancel a session
 
 **Analysis**: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.
-
 {{% figure src="/images/Painpoints.jpg" %}}
 
 **Pain Point #1: Canceling a Session**
@@ -46,19 +45,15 @@ I began by asking them the following filter questions:
 
 This is a pain point that I am intimately familiar with. The first time I used Vint, I accidentally booked a session and could not find how to cancel it. As I found from talking to users, I am not the only one who had trouble with this task.
 
-To cancel a session, you must visit your profile page to view and cancel your bookings. Two of the users gave up during this task, not ever making it to the profile page and sharing with me that they would contact the trainer directly to cancel. Two other users gave up on the task and said that it was "just not possible to cancel a session." Only one user was able to find and cancel a session without visiting other pages first.
+To cancel a session, you must visit your profile page to view and cancel your bookings. Two of the users gave up during this task, not ever making it to the profile page. They shared with me that they would have contacted the trainer directly to cancel. Two other users who gave up on the task said that it was "just not possible to cancel a session." Only one user was able to find and cancel a session without visiting other pages first in search of their booking.
 
 *“I’d rather something be in this first page than have to go back to my profile.” –Lisa*
 
 **My Recommendation**: One of my users referenced what she called her favorite app- Urban Sitter. She said she would have liked to see Vint display recent bookings (with a cancel option) on the main page.
 
 I used Urban Sitter as my inspiration:
-
 {{% figure src="/images/baby.jpg" %}}
-
-{{% figure src="/images/CurrentCancel.png" %}}
-
-{{% figure src="/images/Cancel.jpg" %}}
+{{% figure src="/images/Cancel2.jpg" %}}
 
 (One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I've contacted Vint and they've since fixed the bug.)
 
@@ -68,11 +63,7 @@ I used Urban Sitter as my inspiration:
 
 None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.
 
-{{% figure src="/images/CurrentCategory.jpg" %}}
-
-**My Recommendation**:   
-  
-{{% figure src="/images/Recommended.jpg" %}}
+{{% figure src="/images/Category2.jpg" %}}
 
 **Pain Point #3: Confusing Function of the Vint Logo**
 
@@ -80,15 +71,13 @@ None of the users I spoke with noticed the exercise categories, dates and times 
 
 Users would click on the Vint logo expecting it to take them back a page. Instead, the logo took them to the main page. Once in the main page, clicking on the logo would exit users out of the app. Get rid of the Vint logo after the homepage. It’s not needed because you know what app you are in. Instead, include the back arrow to show users how to go back in a page. (leaning on material design). They couldn’t see the back button because the logo asset is too big.
 
-{{% figure src="/images/Category.jpg" %}}
-
 If you compare the Vint logo to another app's logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:
 
-{{% figure src="/images/Logos.png" %}}
+{{% figure src="/images/gmail.jpg" %}}
 
 I realize that Vint's design is in keeping with Andriod's design principles but the logo isn't needed- users know what app they're in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow. 
 
-{{% figure src="/images/AfterLogo.jpg" %}}
+{{% figure src="/images/Backbutton.jpg" %}}
 
 This is similar to Airbnb's app:
 
