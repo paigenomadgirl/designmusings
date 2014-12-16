@@ -3,76 +3,18 @@
   <channel>
       <title>Recent Content on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://paigebennett.com/index.xml/</link>
     
     
     
-    <updated>Mon, 15 Dec 2014 17:55:14 PST</updated>
-    
-    <item>
-      <title>Pinterest: Persona to Prototype Part 1</title>
-      <link>http://localhost:1313/blog/pinterest/</link>
-      <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
-      
-      <guid>http://localhost:1313/blog/pinterest/</guid>
-      <description>&lt;p&gt;Pinterest. The name needs no introduction. Nary is there a wedding or birthday party nowdays without at least &lt;em&gt;some&lt;/em&gt; aspect of Pinterest influence.
-I admit that I am a fan and an avid user of the mobile app. My love of Pinterest was a big inspiration behind choosing this as my P2P project.&lt;/p&gt;
-
-&lt;p&gt;I focused this project on Pinterest&amp;rsquo;s mobile app for Android and looked at ways to maximize a user&amp;rsquo;s main feed. Specifically, I addressed adding a filter feature to the main feed. This would allow users to filter their main feed to feature only those categories they&amp;rsquo;re interested in.&lt;/p&gt;
-
-&lt;p&gt;You can currently search for a category but it will pull in all pins, as opposed to only those you followed have pinned.&lt;/p&gt;
-
-&lt;p&gt;My thinking: you&amp;rsquo;ve already curated your content. A filter button would allow you to curate it further.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Persona Development&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I began by building a persona around Alee, a busy mother who looks to Pinterest for inspiration in her DIY home.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Persona.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Design Stories&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After creating my persona and flushing out Alee&amp;rsquo;s behaviors, wants and needs, I moved to my design stories. This helped me understand what exactly the Pinterest filter feature will allow Alee to do (Alee can&amp;hellip;).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Task Flow&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Design stories greatly influence task flows and as such, I was now ready to move onto building out how the user (Alee) would go from logging into Pinterest to filtering her main feed.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/TaskFlow.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Wire Frames&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wire frames are when the theoretical come to life. They&amp;rsquo;re an exciting part of the design process because they&amp;rsquo;re your first taste at interaction.&lt;/p&gt;
-
-&lt;p&gt;I created my wireframes based on my task flow and design stories. During this process, I continuously referenced the task flow to ensure that every action was represented.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Wireframes.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;Stay tuned&amp;hellip;in &lt;strong&gt;Part 2&lt;/strong&gt; of my project, I will take these foundational assets and create low and high fidelity prototypes.&lt;/p&gt;
-</description>
-    </item>
+    <updated>Sat, 06 Dec 2014 19:29:32 PST</updated>
     
     <item>
       <title>Vint: A Usability Study</title>
-      <link>http://localhost:1313/blog/vint/</link>
+      <link>http://paigebennett.com/blog/vint/</link>
       <pubDate>Sat, 06 Dec 2014 19:29:32 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/vint/</guid>
+      <guid>http://paigebennett.com/blog/vint/</guid>
       <description>&lt;p&gt;My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue&amp;ndash; my wedding dress (and fitting nicely into it).&lt;/p&gt;
 
 &lt;p&gt;That concern is largely want made new fitness app Vint catch my eye last week. &lt;a href=&#34;https://www.joinvint.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt; touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.&lt;/p&gt;
@@ -229,28 +171,19 @@ I admit that I am a fan and an avid user of the mobile app. My love of Pinterest
     
     <item>
       <title>Vint</title>
-      <link>http://localhost:1313/portfolio/vint/</link>
+      <link>http://paigebennett.com/portfolio/vint/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
-      <guid>http://localhost:1313/portfolio/vint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stay In Touch</title>
-      <link>http://localhost:1313/stay_in_touch/</link>
-      <pubDate>Fri, 28 Nov 2014 17:09:06 PST</pubDate>
-      
-      <guid>http://localhost:1313/stay_in_touch/</guid>
+      <guid>http://paigebennett.com/portfolio/vint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Elements of User Experience</title>
-      <link>http://localhost:1313/blog/third/</link>
+      <link>http://paigebennett.com/blog/third/</link>
       <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/third/</guid>
+      <guid>http://paigebennett.com/blog/third/</guid>
       <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
 His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
 
@@ -294,10 +227,10 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
     
     <item>
       <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://localhost:1313/blog/second/</link>
+      <link>http://paigebennett.com/blog/second/</link>
       <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/second/</guid>
+      <guid>http://paigebennett.com/blog/second/</guid>
       <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
 
 &lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
@@ -355,10 +288,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>The Journey From Journalism to Design</title>
-      <link>http://localhost:1313/blog/first/</link>
+      <link>http://paigebennett.com/blog/first/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/first/</guid>
+      <guid>http://paigebennett.com/blog/first/</guid>
       <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
 
 &lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
@@ -385,10 +318,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://paigebennett.com/about/</link>
       <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://paigebennett.com/about/</guid>
       <description>&lt;p&gt;Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.
 I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
 </description>
