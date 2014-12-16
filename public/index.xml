@@ -7,7 +7,65 @@
     
     
     
-    <updated>Sat, 06 Dec 2014 19:29:32 PST</updated>
+    <updated>Mon, 15 Dec 2014 17:55:14 PST</updated>
+    
+    <item>
+      <title>Pinterest: Persona to Prototype Part 1</title>
+      <link>http://paigebennett.com/blog/pinterest/</link>
+      <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
+      
+      <guid>http://paigebennett.com/blog/pinterest/</guid>
+      <description>&lt;p&gt;Pinterest. The name needs no introduction. Nary is there a wedding or birthday party nowdays without at least &lt;em&gt;some&lt;/em&gt; aspect of Pinterest influence.
+I admit that I am a fan and an avid user of the mobile app. My love of Pinterest was a big inspiration behind choosing this as my P2P project.&lt;/p&gt;
+
+&lt;p&gt;I focused this project on Pinterest&amp;rsquo;s mobile app for Android and looked at ways to maximize a user&amp;rsquo;s main feed. Specifically, I addressed adding a filter feature to the main feed. This would allow users to filter their main feed to feature only those categories they&amp;rsquo;re interested in.&lt;/p&gt;
+
+&lt;p&gt;You can currently search for a category but it will pull in all pins, as opposed to only those you followed have pinned.&lt;/p&gt;
+
+&lt;p&gt;My thinking: you&amp;rsquo;ve already curated your content. A filter button would allow you to curate it further.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Persona Development&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I began by building a persona around Alee, a busy mother who looks to Pinterest for inspiration in her DIY home.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/Persona.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Design Stories&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After creating my persona and flushing out Alee&amp;rsquo;s behaviors, wants and needs, I moved to my design stories. This helped me understand what exactly the Pinterest filter feature will allow Alee to do (Alee can&amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Task Flow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Design stories greatly influence task flows and as such, I was now ready to move onto building out how the user (Alee) would go from logging into Pinterest to filtering her main feed.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/TaskFlow.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Wire Frames&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wire frames are when the theoretical come to life. They&amp;rsquo;re an exciting part of the design process because they&amp;rsquo;re your first taste at interaction.&lt;/p&gt;
+
+&lt;p&gt;I created my wireframes based on my task flow and design stories. During this process, I continuously referenced the task flow to ensure that every action was represented.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/Wireframes.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;p&gt;Stay tuned&amp;hellip;in &lt;strong&gt;Part 2&lt;/strong&gt; of my project, I will take these foundational assets and create low and high fidelity prototypes.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Vint: A Usability Study</title>

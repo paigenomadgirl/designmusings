@@ -1,6 +1,6 @@
 +++
 date = "2014-12-15T17:55:14-08:00"
-draft = true
+draft = false
 title = "Pinterest: Persona to Prototype Part 1"
 
 +++
