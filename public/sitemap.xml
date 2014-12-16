@@ -3,13 +3,32 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
+<<<<<<< HEAD
     <lastmod>2014-12-15T17:55:14-08:00</lastmod>
+=======
+    <lastmod>2014-12-07T19:39:28-08:00</lastmod>
+>>>>>>> 875e8e3... bootstrap stuff
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/blog/pinterest/</loc>
     <lastmod>2014-12-15T17:55:14-08:00</lastmod>
+=======
+    <loc>http://localhost:1313/portfolio/new3/</loc>
+    <lastmod>2014-12-07T19:39:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/new2/</loc>
+    <lastmod>2014-12-07T19:39:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/portfolio/new/</loc>
+    <lastmod>2014-12-07T19:36:18-08:00</lastmod>
+>>>>>>> 875e8e3... bootstrap stuff
   </url>
   
   <url>

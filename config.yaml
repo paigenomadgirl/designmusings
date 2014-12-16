@@ -1,6 +1,6 @@
 baseurl:            http://paigebennett.com/
 theme:              hugo-incorporated
-title:  				Musings on Design
+title:  			Musings on Design
 
 params:
   inc:

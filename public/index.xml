@@ -7,6 +7,7 @@
     
     
     
+<<<<<<< HEAD
     <updated>Mon, 15 Dec 2014 17:55:14 PST</updated>
     
     <item>
@@ -151,6 +152,35 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration&lt;/em&gt;&lt;/p&gt;
 </description>
+=======
+    <updated>Sun, 07 Dec 2014 19:39:28 PST</updated>
+    
+    <item>
+      <title>new3</title>
+      <link>http://localhost:1313/portfolio/new3/</link>
+      <pubDate>Sun, 07 Dec 2014 19:39:28 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/new3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new2</title>
+      <link>http://localhost:1313/portfolio/new2/</link>
+      <pubDate>Sun, 07 Dec 2014 19:39:23 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/new2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>http://localhost:1313/portfolio/new/</link>
+      <pubDate>Sun, 07 Dec 2014 19:36:18 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/new/</guid>
+      <description></description>
+>>>>>>> 875e8e3... bootstrap stuff
     </item>
     
     <item>

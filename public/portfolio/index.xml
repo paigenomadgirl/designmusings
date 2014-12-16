@@ -7,7 +7,7 @@
     
     
     
-    <updated>Sat, 06 Dec 2014 12:07:32 PST</updated>
+    <updated>Sun, 07 Dec 2014 19:39:28 PST</updated>
     
     <item>
       <title>Vint</title>
@@ -15,6 +15,33 @@
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
       <guid>http://localhost:1313/portfolio/vint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>http://localhost:1313/portfolio/new/</link>
+      <pubDate>Sun, 07 Dec 2014 19:36:18 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new2</title>
+      <link>http://localhost:1313/portfolio/new2/</link>
+      <pubDate>Sun, 07 Dec 2014 19:39:23 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/new2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new3</title>
+      <link>http://localhost:1313/portfolio/new3/</link>
+      <pubDate>Sun, 07 Dec 2014 19:39:28 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/new3/</guid>
       <description></description>
     </item>
     
