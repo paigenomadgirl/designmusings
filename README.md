@@ -16,6 +16,12 @@ hugo server --theme=hugo-incorporated --watch --buildDrafts=true
 
 ### How to commit new post
 
+Kill debug server before commit
+
+To generate the static pages
+```
+hugo --theme=hugo-incorporated
+
 To see changes
 ```shell
 git status -s
@@ -33,11 +39,6 @@ git commit -m 'some commit message'
 To send/push commit to github
 ```
 git push
-```
-
-To generate the static pages
-```
-hugo --theme=hugo-incorporated
 ```
 
 To deploy to heroku
