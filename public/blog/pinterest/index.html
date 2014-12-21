@@ -9,12 +9,12 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" >
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/images/logo_paige.png"/>
-    <link href="http://paigebennett.com/index.xml" rel="alternate" type="application/rss+xml" title="Musings on Design" />
-    <meta name="title" content="http://paigebennett.com">
-    <link rel="canonical" href="http://paigebennett.com">
+    <link href="http://localhost:57287/index.xml" rel="alternate" type="application/rss+xml" title="Musings on Design" />
+    <meta name="title" content="http://localhost:57287">
+    <link rel="canonical" href="http://localhost:57287">
     <meta property="og:title" content="Musings on Design"/>
-    <meta property="og:url" content="http://paigebennett.com"/>
-    <meta property="og:image" content="http://paigebennett.com/images/logo_paige.png"/>   
+    <meta property="og:url" content="http://localhost:57287"/>
+    <meta property="og:image" content="http://localhost:57287/images/logo_paige.png"/>   
     <meta property="og:site_name" content="Musings on Design">
 </head>
 <body>
@@ -44,51 +44,65 @@
             <div class="meta">
                 <time pubdate datetime="2014-12-15" title="2014-12-15">December 15, 2014</time>
             </div>
-            <h1 class="title">Pinterest: Persona to Prototype Part 1</h1>
+            <h1 class="title">Pinterest: Persona to Prototype</h1>
             <h2 class="subtitle"></h2>
         </header>
 
         <section>
-            <p>Pinterest. The name needs no introduction. Nary is there a wedding or birthday party nowdays without at least <em>some</em> aspect of Pinterest influence.
-I admit that I am a fan and an avid user of the mobile app. My love of Pinterest was a big inspiration behind choosing this as my P2P project.</p>
+            <iframe width="560" height="420" src="//www.youtube.com/embed/o3G0VbCgDjo" frameborder="0" allowfullscreen></iframe>
 
-<p>I focused this project on Pinterest&rsquo;s mobile app for Android and looked at ways to maximize a user&rsquo;s main feed. Specifically, I addressed adding a filter feature to the main feed. This would allow users to filter their main feed to feature only those categories they&rsquo;re interested in.</p>
+<p>Meet Alee. She&rsquo;s a busy stay-at-home mom with an 8 month old baby. Redecorating her home room by room and entertaining an extended family.</p>
 
-<p>You can currently search for a category but it will pull in all pins, as opposed to only those you followed have pinned.</p>
+<p>Alee loves DIY projects and turns to Pinterest for inspiration. She curates the content on her Pinterest feed by following &ldquo;pinners&rdquo; that reflect a similar style as Alee&rsquo;s. Even so, her main feed is a mixture of pins ranging from various categories. This is not always helpful, especially when Alee scrolls through her main feed while on mobile.</p>
 
-<p>My thinking: you&rsquo;ve already curated your content. A filter button would allow you to curate it further.</p>
-
-<p><strong>Persona Development</strong></p>
-
-<p>I began by building a persona around Alee, a busy mother who looks to Pinterest for inspiration in her DIY home.</p>
+<p>Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&rsquo;s interested in.</p>
 
 <figure >
     
-        <img src="/images/Persona.jpg"  />
+        <img src="/images/AleePersona.jpg"  />
     
     
 </figure>
+
+<p>With Alee in mind, I decided to created a <strong>Filter Button</strong> for a Pinterest user&rsquo;s main feed.</p>
 
 <p><strong>Design Stories</strong></p>
 
-<p>After creating my persona and flushing out Alee&rsquo;s behaviors, wants and needs, I moved to my design stories. This helped me understand what exactly the Pinterest filter feature will allow Alee to do (Alee can&hellip;).</p>
+<p>This feature will allow Alee to:</p>
+
+<ul>
+<li>filter her feed by category</li>
+<li>select a category to view</li>
+<li>view her main feed based on a preset category</li>
+<li>add a filter to her feed</li>
+<li>remove a filter from her feed</li>
+<li>find a pin based on her category preference</li>
+<li>(and with much more ease), &ldquo;Heart&rdquo; and/or &ldquo;Pin&rdquo; a pin she likes</li>
+</ul>
+
+<p><strong>Purpose</strong>
+The purpose of the filter button is to display content within a set of specific criteria. This feature will shape the content Alee sees into pins that are most helpful to her. So that outdated living room Alee wants to update? She may find inspiration faster because her main feed has become more dynamic and impactful.</p>
+
+<p><strong>Learnings</strong></p>
+
+<p>As I worked through the process of creating this feature, I learned that the most obvious answer isn&rsquo;t always the best one. I also learned that Jesse James Garrett is righter than rain- &ldquo;understand the consequences of your solution.&rdquo; While I did not have the time to address some of the consequences that came from my filter button, they should be addressed so that the user can have the best experience possible. (I&rsquo;ll share more later on about some ways to address them).</p>
+
+<p><strong>Process</strong></p>
+
+<p>It all started with Alee and her needs and goals. To create this feature, I started with my persona: hard-working mom Alee. After rounding out my persona to include richer behavioral and needs insights, I created the design stories and task flows. This influenced the wire frames and prototype that I was then able to create. Let&rsquo;s take a look at these different components.</p>
 
 <p><strong>Task Flow</strong></p>
 
-<p>Design stories greatly influence task flows and as such, I was now ready to move onto building out how the user (Alee) would go from logging into Pinterest to filtering her main feed.</p>
+<p>Alee&rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &ldquo;heart&rdquo; a pin or &ldquo;pin&rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.</p>
 
 <figure >
     
-        <img src="/images/TaskFlow.jpg"  />
+        <img src="/images/AleeTaskFlow.jpg"  />
     
     
 </figure>
 
-<p><strong>Wire Frames</strong></p>
-
-<p>Wire frames are when the theoretical come to life. They&rsquo;re an exciting part of the design process because they&rsquo;re your first taste at interaction.</p>
-
-<p>I created my wireframes based on my task flow and design stories. During this process, I continuously referenced the task flow to ensure that every action was represented.</p>
+<p><strong>UI Sketches</strong></p>
 
 <figure >
     
@@ -97,7 +111,75 @@ I admit that I am a fan and an avid user of the mobile app. My love of Pinterest
     
 </figure>
 
-<p>Stay tuned&hellip;in <strong>Part 2</strong> of my project, I will take these foundational assets and create low and high fidelity prototypes.</p>
+<p>One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.</p>
+
+<p><strong>Wireframes (and a few fun surprises)</strong></p>
+
+<p>After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
+I had used the filter icon that&rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&hellip;.not choose a category. Uh oh!</p>
+
+<figure >
+    
+        <img src="/images/FilterExample.jpg"  />
+    
+    
+</figure>
+ 
+
+<p>At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Andriod apps displayed their filter button, I used Fitmob as inspiration.</p>
+
+<figure >
+    
+        <img src="/images/FitmobExample.png"  />
+    
+    
+</figure>
+ 
+
+<p>It&rsquo;s simple and direct. There&rsquo;s no doubting what this button does.</p>
+
+<p>My wireframes will help explain:</p>
+
+<p><img src="/images/Wireframes1.jpg" height="500" width="500"></p>
+
+<p><img src="/images/Wireframes4-6.png" height="500" width="500"></p>
+
+<p><img src="/images/Wireframes3.jpg" height="500" width="500"></p>
+
+<p><strong>Prototype</strong></p>
+
+<p>My prototype will help give you a taste at how this feature would work.</p>
+
+<iframe width="560" height="420" src="//www.youtube.com/embed/o3G0VbCgDjo" frameborder="0" allowfullscreen></iframe>
+
+<p>Here&rsquo;s an example of how this feature might look on the app.</p>
+
+<figure >
+    
+        <img src="/images/HighFidelity.jpg"  />
+    
+    
+</figure>
+
+<p><strong>Next Steps</strong>
+- Consequences</p>
+
+<p>In the words of Jesse James Garrett, my filter feature does have a few consequences. For example: lets say Alee chooses the Cars &amp; Motorcycles category and none of the pinners she follows have users this category of content. What message would she see? Or while Pinterest has &lsquo;Recent Categories,&rsquo; would it be of value to also include the ability to preset a list of categories?</p>
+
+<p>These are both questions that have cropped up <em>because</em> of my feature. Next steps would include working through this and figuring out the best solution.</p>
+
+<ul>
+<li>Icons
+I am not convinced that the current filter button is the best way to represent the button&rsquo;s functionality. There could be other icons that also communicate the intent, while staying in line with the Pinterest look and feel. I would want to explore this further.</li>
+</ul>
+
+<p><strong>Summary</strong></p>
+
+<p>While the filter button helps users curate their content, I believe that there&rsquo;s much more to explore. This one feature only scratched the surface. So stay tuned for more. This story is certainly not over.</p>
+
+<p>Questions or feedback? Reach out to me: <a href="https://paige@tradecrafted.com/" target="_blank">Vint</a></p>
+
+<p><em>I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration</em></p>
 
             
 
@@ -140,6 +222,9 @@ I admit that I am a fan and an avid user of the mobile app. My love of Pinterest
 
 
   
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':57287/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

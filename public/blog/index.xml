@@ -3,58 +3,72 @@
   <channel>
       <title>Blogs on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://paigebennett.com/blog/index.xml/</link>
+    <link>http://localhost:57287/blog/index.xml/</link>
     
     
     
     <updated>Mon, 15 Dec 2014 17:55:14 PST</updated>
     
     <item>
-      <title>Pinterest: Persona to Prototype Part 1</title>
-      <link>http://paigebennett.com/blog/pinterest/</link>
+      <title>Pinterest: Persona to Prototype</title>
+      <link>http://localhost:57287/blog/pinterest/</link>
       <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/pinterest/</guid>
-      <description>&lt;p&gt;Pinterest. The name needs no introduction. Nary is there a wedding or birthday party nowdays without at least &lt;em&gt;some&lt;/em&gt; aspect of Pinterest influence.
-I admit that I am a fan and an avid user of the mobile app. My love of Pinterest was a big inspiration behind choosing this as my P2P project.&lt;/p&gt;
+      <guid>http://localhost:57287/blog/pinterest/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;I focused this project on Pinterest&amp;rsquo;s mobile app for Android and looked at ways to maximize a user&amp;rsquo;s main feed. Specifically, I addressed adding a filter feature to the main feed. This would allow users to filter their main feed to feature only those categories they&amp;rsquo;re interested in.&lt;/p&gt;
+&lt;p&gt;Meet Alee. She&amp;rsquo;s a busy stay-at-home mom with an 8 month old baby. Redecorating her home room by room and entertaining an extended family.&lt;/p&gt;
 
-&lt;p&gt;You can currently search for a category but it will pull in all pins, as opposed to only those you followed have pinned.&lt;/p&gt;
+&lt;p&gt;Alee loves DIY projects and turns to Pinterest for inspiration. She curates the content on her Pinterest feed by following &amp;ldquo;pinners&amp;rdquo; that reflect a similar style as Alee&amp;rsquo;s. Even so, her main feed is a mixture of pins ranging from various categories. This is not always helpful, especially when Alee scrolls through her main feed while on mobile.&lt;/p&gt;
 
-&lt;p&gt;My thinking: you&amp;rsquo;ve already curated your content. A filter button would allow you to curate it further.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Persona Development&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I began by building a persona around Alee, a busy mother who looks to Pinterest for inspiration in her DIY home.&lt;/p&gt;
+&lt;p&gt;Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&amp;rsquo;s interested in.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;/images/Persona.jpg&#34;  /&gt;
+        &lt;img src=&#34;/images/AleePersona.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
+
+&lt;p&gt;With Alee in mind, I decided to created a &lt;strong&gt;Filter Button&lt;/strong&gt; for a Pinterest user&amp;rsquo;s main feed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Design Stories&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;After creating my persona and flushing out Alee&amp;rsquo;s behaviors, wants and needs, I moved to my design stories. This helped me understand what exactly the Pinterest filter feature will allow Alee to do (Alee can&amp;hellip;).&lt;/p&gt;
+&lt;p&gt;This feature will allow Alee to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;filter her feed by category&lt;/li&gt;
+&lt;li&gt;select a category to view&lt;/li&gt;
+&lt;li&gt;view her main feed based on a preset category&lt;/li&gt;
+&lt;li&gt;add a filter to her feed&lt;/li&gt;
+&lt;li&gt;remove a filter from her feed&lt;/li&gt;
+&lt;li&gt;find a pin based on her category preference&lt;/li&gt;
+&lt;li&gt;(and with much more ease), &amp;ldquo;Heart&amp;rdquo; and/or &amp;ldquo;Pin&amp;rdquo; a pin she likes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;
+The purpose of the filter button is to display content within a set of specific criteria. This feature will shape the content Alee sees into pins that are most helpful to her. So that outdated living room Alee wants to update? She may find inspiration faster because her main feed has become more dynamic and impactful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learnings&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As I worked through the process of creating this feature, I learned that the most obvious answer isn&amp;rsquo;t always the best one. I also learned that Jesse James Garrett is righter than rain- &amp;ldquo;understand the consequences of your solution.&amp;rdquo; While I did not have the time to address some of the consequences that came from my filter button, they should be addressed so that the user can have the best experience possible. (I&amp;rsquo;ll share more later on about some ways to address them).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It all started with Alee and her needs and goals. To create this feature, I started with my persona: hard-working mom Alee. After rounding out my persona to include richer behavioral and needs insights, I created the design stories and task flows. This influenced the wire frames and prototype that I was then able to create. Let&amp;rsquo;s take a look at these different components.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Task Flow&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Design stories greatly influence task flows and as such, I was now ready to move onto building out how the user (Alee) would go from logging into Pinterest to filtering her main feed.&lt;/p&gt;
+&lt;p&gt;Alee&amp;rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &amp;ldquo;heart&amp;rdquo; a pin or &amp;ldquo;pin&amp;rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;/images/TaskFlow.jpg&#34;  /&gt;
+        &lt;img src=&#34;/images/AleeTaskFlow.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Wire Frames&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wire frames are when the theoretical come to life. They&amp;rsquo;re an exciting part of the design process because they&amp;rsquo;re your first taste at interaction.&lt;/p&gt;
-
-&lt;p&gt;I created my wireframes based on my task flow and design stories. During this process, I continuously referenced the task flow to ensure that every action was represented.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UI Sketches&lt;/strong&gt;&lt;/p&gt;
 
 &lt;figure &gt;
     
@@ -63,16 +77,84 @@ I admit that I am a fan and an avid user of the mobile app. My love of Pinterest
     
 &lt;/figure&gt;
 
-&lt;p&gt;Stay tuned&amp;hellip;in &lt;strong&gt;Part 2&lt;/strong&gt; of my project, I will take these foundational assets and create low and high fidelity prototypes.&lt;/p&gt;
+&lt;p&gt;One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wireframes (and a few fun surprises)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
+I had used the filter icon that&amp;rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&amp;hellip;.not choose a category. Uh oh!&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/FilterExample.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+ 
+
+&lt;p&gt;At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Andriod apps displayed their filter button, I used Fitmob as inspiration.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/FitmobExample.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+ 
+
+&lt;p&gt;It&amp;rsquo;s simple and direct. There&amp;rsquo;s no doubting what this button does.&lt;/p&gt;
+
+&lt;p&gt;My wireframes will help explain:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes1.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes4-6.png&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes3.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My prototype will help give you a taste at how this feature would work.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example of how this feature might look on the app.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/HighFidelity.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;
+- Consequences&lt;/p&gt;
+
+&lt;p&gt;In the words of Jesse James Garrett, my filter feature does have a few consequences. For example: lets say Alee chooses the Cars &amp;amp; Motorcycles category and none of the pinners she follows have users this category of content. What message would she see? Or while Pinterest has &amp;lsquo;Recent Categories,&amp;rsquo; would it be of value to also include the ability to preset a list of categories?&lt;/p&gt;
+
+&lt;p&gt;These are both questions that have cropped up &lt;em&gt;because&lt;/em&gt; of my feature. Next steps would include working through this and figuring out the best solution.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Icons
+I am not convinced that the current filter button is the best way to represent the button&amp;rsquo;s functionality. There could be other icons that also communicate the intent, while staying in line with the Pinterest look and feel. I would want to explore this further.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While the filter button helps users curate their content, I believe that there&amp;rsquo;s much more to explore. This one feature only scratched the surface. So stay tuned for more. This story is certainly not over.&lt;/p&gt;
+
+&lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;https://paige@tradecrafted.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vint: A Usability Study</title>
-      <link>http://paigebennett.com/blog/vint/</link>
+      <link>http://localhost:57287/blog/vint/</link>
       <pubDate>Sat, 06 Dec 2014 19:29:32 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/vint/</guid>
+      <guid>http://localhost:57287/blog/vint/</guid>
       <description>&lt;p&gt;My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue&amp;ndash; my wedding dress (and fitting nicely into it).&lt;/p&gt;
 
 &lt;p&gt;That concern is largely want made new fitness app Vint catch my eye last week. &lt;a href=&#34;https://www.joinvint.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt; touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.&lt;/p&gt;
@@ -229,10 +311,10 @@ I admit that I am a fan and an avid user of the mobile app. My love of Pinterest
     
     <item>
       <title>The Elements of User Experience</title>
-      <link>http://paigebennett.com/blog/third/</link>
+      <link>http://localhost:57287/blog/third/</link>
       <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/third/</guid>
+      <guid>http://localhost:57287/blog/third/</guid>
       <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
 His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
 
@@ -276,10 +358,10 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
     
     <item>
       <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://paigebennett.com/blog/second/</link>
+      <link>http://localhost:57287/blog/second/</link>
       <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/second/</guid>
+      <guid>http://localhost:57287/blog/second/</guid>
       <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
 
 &lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
@@ -337,10 +419,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>The Journey From Journalism to Design</title>
-      <link>http://paigebennett.com/blog/first/</link>
+      <link>http://localhost:57287/blog/first/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/first/</guid>
+      <guid>http://localhost:57287/blog/first/</guid>
       <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
 
 &lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
