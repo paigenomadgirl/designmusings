@@ -21,6 +21,7 @@ Kill debug server before commit
 To generate the static pages
 ```
 hugo --theme=hugo-incorporated
+```
 
 To see changes
 ```shell

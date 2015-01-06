@@ -1,9 +1,15 @@
 {{ partial "header.html" . }}
 
+	<div class="container">
+        <header>
+            <h2 class="subtitle">Some of my recent project are listed below</h2>
+        </header>
+
         <div class="row">
         {{ range .Data.Pages.ByDate }}
             {{ .Render "thumbnail"}}
         {{ end }}
         </div>
+    </div>
   <br>
 {{ partial "footer.html" . }}

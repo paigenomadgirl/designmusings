@@ -1,13 +1,8 @@
 <div class="col-sm-6 col-md-4" style="padding-bottom:1em;">
     <div class="thumbnail">
-    <h4>
-      <a href="{{ .Params.sitelink }}">{{ .Title }}</a>
-    </h4>
-    <img src="{{ .Params.thumbnail }}"/>
-    <br/><br/>
-
-            {{ range .Params.tags }}
-            <span class="label label-default" style="font-size:60%;">{{ . }}</span>
-            {{ end }}
+        <h4>
+          <a href="../blog/{{ .Params.bloglink }}">{{ .Title }}</a>
+        </h4>
+        <img src="{{ .Params.thumbnail }}"/>
     </div>
 </div>
