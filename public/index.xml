@@ -147,9 +147,9 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;While the filter button helps users curate their content, I believe that there&amp;rsquo;s much more to explore. This one feature only scratched the surface. So stay tuned for more. This story is certainly not over.&lt;/p&gt;
 
-&lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;https://paige@tradecrafted.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;https://paige@tradecrafted.com/&#34; target=&#34;_blank&#34;&gt;paige@tradecrafted.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -314,20 +314,20 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     </item>
     
     <item>
-      <title>Pinterest</title>
-      <link>http://paigebennett.com/portfolio/pinterest/</link>
-      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
-      
-      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vint</title>
       <link>http://paigebennett.com/portfolio/vint/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
       <guid>http://paigebennett.com/portfolio/vint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>http://paigebennett.com/portfolio/pinterest/</link>
+      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
+      
+      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
       <description></description>
     </item>
     
@@ -475,7 +475,14 @@ Next Steps:&lt;/p&gt;
       <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
       
       <guid>http://paigebennett.com/about/</guid>
-      <description>&lt;p&gt;Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;/images/Paige.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;p&gt;Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.
 I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
 </description>
     </item>
