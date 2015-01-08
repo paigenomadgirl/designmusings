@@ -1,4 +1,14 @@
-## How To Do Things - :)
+## How to find out what directory you are in 
+
+```
+pwd
+```
+
+## How to enter the directory you should be in 
+
+```
+cd Desktop/designmusings/
+```
 
 ### How to add a new post
 
