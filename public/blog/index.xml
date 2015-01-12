@@ -15,9 +15,22 @@
       <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
       
       <guid>http://paigebennett.com/blog/pinterest/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a creation that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon.&lt;/p&gt;
 
-&lt;p&gt;Meet Alee. She&amp;rsquo;s a busy stay-at-home mom with an 8 month old baby. Add to her list redecorating her home room by room and entertaining an extended family. (Alee&amp;rsquo;s busy.)&lt;/p&gt;
+&lt;p&gt;But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
+
+&lt;p&gt;You currate your main feed by following pinners you like. But currently, there is no way to currate your main feed further by searching and display a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
+
+&lt;p&gt;As a solution to this situation, I created a filter feature that allows you to filter your main feed by category.&lt;/p&gt;
+
+&lt;p&gt;To give you an idea of this feature, here&amp;rsquo;s a video of the prototype I created.
+&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The purpose of the filter button is to display content within a set of specific criteria. This feature will shape the content you see into pins that are most helpful to you. Say you are looking for inspiration for home decor. You may now find inspiration faster because your main feed has become more dynamic and impactful through being able to filter the pins you are seeing.&lt;/p&gt;
+
+&lt;p&gt;In order to create this feature, I first began with a persona: hard-working mom Alee. She&amp;rsquo;s a busy stay-at-home mom with an 8 month old baby and is redecorating her home room by room.&lt;/p&gt;
 
 &lt;p&gt;Alee loves DIY projects and turns to Pinterest for inspiration. She curates the content on her Pinterest feed by following &amp;ldquo;pinners&amp;rdquo; that reflect a similar style as Alee&amp;rsquo;s. Even so, her main feed is a mixture of pins ranging from various categories. This is not always helpful, especially when Alee scrolls through her main feed while on mobile.&lt;/p&gt;
 
@@ -30,7 +43,9 @@
     
 &lt;/figure&gt;
 
-&lt;p&gt;With Alee in mind, I decided to created a &lt;strong&gt;Filter Button&lt;/strong&gt; for a Pinterest user&amp;rsquo;s main feed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After rounding out my persona to include richer behavioral and needs insights, I created the design stories and task flows. This influenced the wire frames and prototype that I was then able to create. Let&amp;rsquo;s take a look at these different components.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Design Stories&lt;/strong&gt;&lt;/p&gt;
 
@@ -46,24 +61,13 @@
 &lt;li&gt;(and with much more ease), &amp;ldquo;Heart&amp;rdquo; and/or &amp;ldquo;Pin&amp;rdquo; a pin she likes&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;
-The purpose of the filter button is to display content within a set of specific criteria. This feature will shape the content Alee sees into pins that are most helpful to her. So that outdated living room Alee wants to update? She may find inspiration faster because her main feed has become more dynamic and impactful.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Learnings&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As I worked through the process of creating this feature, I learned that the most obvious answer isn&amp;rsquo;t always the best one. I also learned that Jesse James Garrett is righter than rain- &amp;ldquo;understand the consequences of your solution.&amp;rdquo; While I did not have the time to address some of the consequences that came from my filter button, they should be addressed so that the user can have the best experience possible. (I&amp;rsquo;ll share more later on about some ways to address them).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It all started with Alee and her needs and goals. To create this feature, I started with my persona: hard-working mom Alee. After rounding out my persona to include richer behavioral and needs insights, I created the design stories and task flows. This influenced the wire frames and prototype that I was then able to create. Let&amp;rsquo;s take a look at these different components.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Task Flow&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Alee&amp;rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &amp;ldquo;heart&amp;rdquo; a pin or &amp;ldquo;pin&amp;rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;/images/AleeTaskFlow.jpg&#34;  /&gt;
+        &lt;img src=&#34;/images/Pinterest%20Task%20Flow.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -106,11 +110,13 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;My wireframes will help explain:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/Wireframes1.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes 1.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/Wireframes4-6.png&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes 2. jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/images/Wireframes3.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes 3.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/Wireframes 4.jpg&#34; height=&#34;500&#34; width=&#34;500&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
 
@@ -127,21 +133,15 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learnings &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Consequences&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;As I worked through the process of creating this feature, I learned that the most obvious answer isn&amp;rsquo;t always the best one (see the filter icon dilemma above). Like &lt;a href=&#34;https://twitter.com/jjg/&#34;target=&#34;_blank&#34;&gt;Jesse James Garrett&lt;/a&gt; cautions in his book &lt;em&gt;The Elements of User Experience&lt;/em&gt;, my filter feature does create a few edge cases.&lt;/p&gt;
 
-&lt;p&gt;In the words of Jesse James Garrett, my filter feature does have a few consequences. For example: lets say Alee chooses the Cars &amp;amp; Motorcycles category and none of the pinners she follows have users this category of content. What message would she see? Or while Pinterest has &amp;lsquo;Recent Categories,&amp;rsquo; would it be of value to also include the ability to preset a list of categories?&lt;/p&gt;
+&lt;p&gt;For example: lets say Alee chooses the Cars &amp;amp; Motorcycles category and none of the pinners she follows have users this category of content. What message would she see? Or while Pinterest has &amp;lsquo;Recent Categories,&amp;rsquo; would it be of value to also include the ability to preset a list of categories?&lt;/p&gt;
 
-&lt;p&gt;These are both questions that have cropped up &lt;em&gt;because&lt;/em&gt; of my feature. Next steps would include working through this and figuring out the best solution.&lt;/p&gt;
+&lt;p&gt;These are both questions that have cropped up &lt;em&gt;because&lt;/em&gt; of my feature. My next steps would include working through these edge cases and creating the best solution.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Icons&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I am not convinced that the current filter button is the best way to represent the button&amp;rsquo;s functionality. There could be other icons that also communicate the intent, while staying in line with the Pinterest look and feel. I would want to explore this further.&lt;/p&gt;
+&lt;p&gt;I am also not convinced that the current filter button is the best way to represent the button&amp;rsquo;s functionality. There could be other icons that also communicate the intent, while staying in line with the Pinterest look and feel. I would want to explore this further.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 
