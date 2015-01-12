@@ -10,20 +10,13 @@
             {{ with .Site.Params.inc.twitter }}
             <a href="https://twitter.com/{{ . }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
             {{ end }}
+            {{ with .Site.Params.inc.linkedin }}
+            <a href="https://www.linkedin.com/in/{{ . }}" title="Connect on LinkedIn" target="_blank"><img width="14px" height="14px" src="/images/linkedin.png"></a>
+            {{ end }}
             {{ with .Site.Params.inc.facebook }}
             <a href="http://facebook.com/{{ . }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
             {{ end }}
         </div>
     </section>
 </div>
-
-
-<article class="container">
-  {{ range where .Data.Pages "Section" "blog" }}
-    {{ .Render "summary" }}
-  {{ end }}
-</article>
-<section class="pagination" style="text-align:center">
-  <a href="/blog/" class="btn btn-outline">Archives</a>
-</section>
 {{ partial "footer.html" . }}
