@@ -3,28 +3,18 @@
   <channel>
       <title>Recent Content on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://paigebennett.com/index.xml/</link>
     
     
     
     <updated>Sun, 11 Jan 2015 21:13:11 PST</updated>
     
     <item>
-      <title>Contact Thanks</title>
-      <link>http://localhost:1313/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
-      
-      <guid>http://localhost:1313/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://paigebennett.com/contact/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://paigebennett.com/contact/</guid>
       <description>&lt;h2&gt;I&#39;d love to hear from you!&lt;/h2&gt;
 
 &lt;form action=&#34;https://getsimpleform.com/messages?form_api_token=b31f239fea056c89596a288c31b1a94d&#34; method=&#34;post&#34;&gt;
@@ -47,11 +37,21 @@
     </item>
     
     <item>
+      <title>Contact Thanks</title>
+      <link>http://paigebennett.com/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://paigebennett.com/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pinterest: Persona to Prototype</title>
-      <link>http://localhost:1313/blog/pinterest/</link>
+      <link>http://paigebennett.com/blog/pinterest/</link>
       <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/pinterest/</guid>
+      <guid>http://paigebennett.com/blog/pinterest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
 
 &lt;p&gt;You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
@@ -192,10 +192,10 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     
     <item>
       <title>Vint: A Usability Study</title>
-      <link>http://localhost:1313/blog/vint/</link>
+      <link>http://paigebennett.com/blog/vint/</link>
       <pubDate>Sat, 06 Dec 2014 19:29:32 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/vint/</guid>
+      <guid>http://paigebennett.com/blog/vint/</guid>
       <description>&lt;p&gt;My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue&amp;ndash; my wedding dress (and fitting nicely into it).&lt;/p&gt;
 
 &lt;p&gt;That concern is largely want made new fitness app Vint catch my eye last week. &lt;a href=&#34;https://www.joinvint.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt; touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.&lt;/p&gt;
@@ -351,38 +351,29 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     </item>
     
     <item>
-      <title>Vint</title>
-      <link>http://localhost:1313/portfolio/vint/</link>
-      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/vint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pinterest</title>
-      <link>http://localhost:1313/portfolio/pinterest/</link>
+      <link>http://paigebennett.com/portfolio/pinterest/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
-      <guid>http://localhost:1313/portfolio/pinterest/</guid>
+      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stay In Touch</title>
-      <link>http://localhost:1313/stay_in_touch/</link>
-      <pubDate>Fri, 28 Nov 2014 17:09:06 PST</pubDate>
+      <title>Vint</title>
+      <link>http://paigebennett.com/portfolio/vint/</link>
+      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
-      <guid>http://localhost:1313/stay_in_touch/</guid>
+      <guid>http://paigebennett.com/portfolio/vint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Elements of User Experience</title>
-      <link>http://localhost:1313/blog/third/</link>
+      <link>http://paigebennett.com/blog/third/</link>
       <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/third/</guid>
+      <guid>http://paigebennett.com/blog/third/</guid>
       <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
 His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
 
@@ -426,10 +417,10 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
     
     <item>
       <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://localhost:1313/blog/second/</link>
+      <link>http://paigebennett.com/blog/second/</link>
       <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/second/</guid>
+      <guid>http://paigebennett.com/blog/second/</guid>
       <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
 
 &lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
@@ -487,10 +478,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>The Journey From Journalism to Design</title>
-      <link>http://localhost:1313/blog/first/</link>
+      <link>http://paigebennett.com/blog/first/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
       
-      <guid>http://localhost:1313/blog/first/</guid>
+      <guid>http://paigebennett.com/blog/first/</guid>
       <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
 
 &lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
@@ -517,10 +508,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://paigebennett.com/about/</link>
       <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://paigebennett.com/about/</guid>
       <description>&lt;figure &gt;
     
         &lt;img src=&#34;/images/Paige.jpg&#34;  /&gt;

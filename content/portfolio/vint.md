@@ -5,4 +5,5 @@ tags = ["personal", "blog"]
 thumbnail = "/images/vint-logo.png"
 title = "Vint"
 blogLink = "vint"
+blogsummary = ""
 +++

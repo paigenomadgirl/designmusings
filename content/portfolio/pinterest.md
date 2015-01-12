@@ -6,6 +6,7 @@ thumbnail = "/images/pinterest-logo.jpg"
 title = "Pinterest"
 sitelink = "http://spf13.com"
 bloglink = "pinterest"
+blogsummary = ""
 sourceLink = "http://github.com/spf13/spf13.com"
 +++
 

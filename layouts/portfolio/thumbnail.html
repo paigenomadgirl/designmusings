@@ -1,8 +1,7 @@
 <div class="col-sm-6 col-md-4" style="padding-bottom:1em;">
     <div class="thumbnail">
-        <h4>
-          <a href="../blog/{{ .Params.bloglink }}">{{ .Title }}</a>
-        </h4>
-        <img src="{{ .Params.thumbnail }}"/>
+        <a href="../blog/{{ .Params.bloglink }}"><img src="{{ .Params.thumbnail }}"/></a>
+		
+		{{ .Params.blogsummary }}        
     </div>
 </div>
