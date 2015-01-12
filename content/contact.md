@@ -19,6 +19,6 @@ type: contact
   Message: <textarea name='message' rows=8></textarea>
   </br>
   </br>
-  <input type='hidden' name='redirect_to' value='http://localhost:1313/contact-thanks/' />
+  <input type='hidden' name='redirect_to' value='http://www.paigebennett.com/contact-thanks/' />
   <input type='submit' value='Submit' />
 </form>
