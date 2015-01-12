@@ -5,15 +5,15 @@ title = "Pinterest: Persona to Prototype"
 
 +++
 
-<a href="http://www.pinterest.com" target="_blank">Pinterest</a> is a creation that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that "pinning" something is now woven into modern lexicon. 
-
-But sometimes it can be hard to filter through pins on your main feed and find content that you're truly interested in.
+<a href="http://www.pinterest.com" target="_blank">Pinterest</a> is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that "pinning" something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you're truly interested in.
  
-You currate your main feed by following pinners you like. But currently, there is no way to currate your main feed further by searching and display a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network. 
+You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network. 
 
-As a solution to this situation, I created a filter feature that allows you to filter your main feed by category. 
+For example, you cannot filter your main feed to display only home decor-related pins from your pinners.
 
-To give you an idea of this feature, here's a video of the prototype I created. 
+As a solution, I created a filter feature that allows you to filter your main feed by category. 
+
+To give you a better idea, here's a video of the prototype I created. 
 <iframe width="560" height="420" src="//www.youtube.com/embed/o3G0VbCgDjo" frameborder="0" allowfullscreen></iframe>
 
 **Purpose**The purpose of the filter button is to display content within a set of specific criteria. This feature will shape the content you see into pins that are most helpful to you. Say you are looking for inspiration for home decor. You may now find inspiration faster because your main feed has become more dynamic and impactful through being able to filter the pins you are seeing. 
