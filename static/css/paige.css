@@ -4,3 +4,19 @@
   background: whitesmoke;
   color: #aaa;
   font-size: 0.8em; }
+
+  .linkedinicon {
+  	fill: #ffffff;
+  }
+
+  .linkedinicon:hover {
+  	fill: #000000;
+  }
+
+  .other {
+  	fill: #ffffff;
+  }
+
+  .other:hover {
+  	fill: #000000;
+  }
