@@ -4,4 +4,4 @@ title: Contact Thanks
 type: contact
 ---
 
-<h2>I'll be in touch.</h2>
+<h2>I'll be in touch. In the meantime, check out my recent <a href="http://www.paigebennett.com/portfolio/" target="_blank">projects</a>.</h2>
