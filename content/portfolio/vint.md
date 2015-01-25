@@ -5,5 +5,5 @@ tags = ["personal", "blog"]
 thumbnail = "/images/vint-logo.png"
 title = "Vint"
 blogLink = "vint"
-blogsummary = ""
+blogsummary = "After conducting a usability test on the Vint app, I recommended several design changes to create a better user experience."
 +++
