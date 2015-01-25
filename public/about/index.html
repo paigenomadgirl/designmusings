@@ -6,16 +6,17 @@
     <title>Musings on Design &mdash; </title>
     
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/paige.css">
     <link rel="stylesheet" href="/css/lightbox.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" >
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/images/logo_paige.png"/>
-    <link href="http://paigebennett.com/index.xml" rel="alternate" type="application/rss+xml" title="Musings on Design" />
-    <meta name="title" content="http://paigebennett.com">
-    <link rel="canonical" href="http://paigebennett.com">
+    <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Musings on Design" />
+    <meta name="title" content="http://localhost:1313">
+    <link rel="canonical" href="http://localhost:1313">
     <meta property="og:title" content="Musings on Design"/>
-    <meta property="og:url" content="http://paigebennett.com"/>
-    <meta property="og:image" content="http://paigebennett.com/images/logo_paige.png"/>   
+    <meta property="og:url" content="http://localhost:1313"/>
+    <meta property="og:image" content="http://localhost:1313/images/logo_paige.png"/>   
     <meta property="og:site_name" content="Musings on Design">
 </head>
 <body>
@@ -23,6 +24,7 @@
 <section class="site-nav">
     <header>
         <nav id="navigation">
+            <a href="/"><img src="images/home.png"></a>
             <a href="/blog/">Blog</a>
             <a href="/portfolio/">Portfolio</a>
             <a href="/about/">About</a>
@@ -65,23 +67,7 @@
 </article>
 
 <footer class="site-footer">
-    <div class="container">
-        <nav>
-            <a href="/">Paige Bennett</a> &middot;
-            <a href="/blog/">Blog</a> &middot; 
-            <a href="/portfolio/">Portfolio</a> &middot; 
-            <a href="/about/">About</a>
-        </nav>
-        
-        <nav class="social">
-            
-            <a href="https://twitter.com/paigenomadgirl" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
-            
-            
-            <a href="http://facebook.com/paige.bennett" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
-                
-        </nav>
-    </div>
+  
 </footer>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="/js/main.js"></script>
@@ -98,6 +84,9 @@
 
 
   
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 
