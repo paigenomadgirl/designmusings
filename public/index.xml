@@ -7,22 +7,29 @@
     
     
     
-    <updated>Sun, 11 Jan 2015 21:13:11 PST</updated>
+    <updated>Thu, 22 Jan 2015 09:37:56 PST</updated>
     
     <item>
-      <title>Contact Thanks</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      <title>Don’t mind me staring at you, I’m just sketching</title>
+      <link>http://localhost:1313/blog/sketches/</link>
+      <pubDate>Thu, 22 Jan 2015 09:37:56 PST</pubDate>
       
-      <guid>http://localhost:1313/contact-thanks/</guid>
-=======
-      <link>http://paigebennett.com/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
-      
-      <guid>http://paigebennett.com/contact-thanks/</guid>
->>>>>>> P2P edits
-      <description>&lt;h2&gt;I&#39;ll be in touch.&lt;/h2&gt;
+      <guid>http://localhost:1313/blog/sketches/</guid>
+      <description>&lt;p&gt;Drawing has always been a bit intimidating to me. I can see an idea or concept in my head but when it comes to putting pen to paper and communicating it visually, I would freeze up.&lt;/p&gt;
+
+&lt;p&gt;So when we were given the assignment (challenge?) to draw 100 sketches in 2 days, I was nervous. So nervous. But, I love observing and people watching, which is an integral part of sketching.&lt;/p&gt;
+
+&lt;p&gt;Over the past few days, I’ve opened my eyes to lines, shapes and flows. I’ve found more grace with my drawing ability.&lt;/p&gt;
+
+&lt;p&gt;We were given exactly 100 cards, so if I mess up, I push on rather than trash the card and start over. It was surprisingly freeing.&lt;/p&gt;
+
+&lt;p&gt;People were the biggest challenge for me but I learned to focus more on their shapes than details.&lt;/p&gt;
+
+&lt;p&gt;The more I sketched, the easier it became to do this- especially helpful when I tried to sketch movement.&lt;/p&gt;
+
+&lt;p&gt;Sketching a space from above proved to be an interesting challenge and it made me consider space between objects more closely. (It also inspired me to rearrange my furniture.)&lt;/p&gt;
+
+&lt;p&gt;As hesitant as I felt on Monday about sketching, I really enjoyed this assignment. It gave me a little more confidence in drawing and helped me to see the space around me in a different light.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,6 +57,16 @@
   &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
   &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
 &lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Thanks</title>
+      <link>http://localhost:1313/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://localhost:1313/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch.&lt;/h2&gt;
 </description>
     </item>
     
@@ -326,20 +343,20 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     </item>
     
     <item>
-      <title>Vint</title>
-      <link>http://localhost:1313/portfolio/vint/</link>
-      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/vint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pinterest</title>
       <link>http://localhost:1313/portfolio/pinterest/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
       <guid>http://localhost:1313/portfolio/pinterest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vint</title>
+      <link>http://localhost:1313/portfolio/vint/</link>
+      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/vint/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@ params:
   inc:
     # Blog Information
     title:        "Musings on Design"
-    cover_image:  cover_image.jpg
+    cover_image:  letters.jpg
     logo:         logo_paige.png
     url:          http://paigebennett.com/
     facebook:     paige.bennett

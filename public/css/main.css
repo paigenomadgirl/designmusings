@@ -2126,9 +2126,6 @@ a {
           background-position: 0px -14px; }
         .blog-cover section a:hover .icon-github {
           background-position: 0px -15px; }
-        .blog-cover section a:hover .linkedinicon {
-          fill: #000000;
-        }
   .blog-cover h1 {
     font-size: 2.7em;
     line-height: 1.4em; }
