@@ -18,22 +18,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/pinterest/</loc>
+    <loc>http://localhost:1313/projects/pinterest/</loc>
     <lastmod>2014-12-15T17:55:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/vint/</loc>
+    <loc>http://localhost:1313/projects/vint/</loc>
     <lastmod>2014-12-06T19:29:32-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/pinterest/</loc>
+    <loc>http://localhost:1313/portfolio/vint/</loc>
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/vint/</loc>
+    <loc>http://localhost:1313/portfolio/pinterest/</loc>
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   

@@ -3,7 +3,7 @@
 	<div class="container">
         </br>
         <div class="row">
-        {{ range .Data.Pages }}
+        {{ range .Data.Pages.ByTitle }}
             {{ .Render "thumbnail"}}
         {{ end }}
         </div>

@@ -5,18 +5,30 @@
   color: #aaa;
   font-size: 0.8em; }
 
-  .linkedinicon {
-  	fill: #ffffff;
-  }
+.linkedinicon {
+	fill: #ffffff;
+}
 
-  .linkedinicon:hover {
-  	fill: #000000;
-  }
+.thumbnail {
+	border: 0px ;
+  height: 200px;
+}
 
-  .other {
-  	fill: #ffffff;
-  }
+.image-container {
+    height: 150px;      /* equals max image height */
+    white-space: nowrap;
+    
+    text-align: center; margin: 1em 0;
+}
 
-  .other:hover {
-  	fill: #000000;
-  }
+.image-container-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.image-container img {
+    vertical-align: middle;
+    max-height: 150px;
+    max-width: 160px;
+}
