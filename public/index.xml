@@ -66,7 +66,7 @@
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
       
       <guid>http://localhost:1313/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch.&lt;/h2&gt;
+      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
 </description>
     </item>
     
@@ -343,20 +343,20 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     </item>
     
     <item>
-      <title>Pinterest</title>
-      <link>http://localhost:1313/portfolio/pinterest/</link>
-      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/pinterest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vint</title>
       <link>http://localhost:1313/portfolio/vint/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
       <guid>http://localhost:1313/portfolio/vint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>http://localhost:1313/portfolio/pinterest/</link>
+      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/pinterest/</guid>
       <description></description>
     </item>
     
