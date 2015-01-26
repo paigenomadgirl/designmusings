@@ -1,10 +1,11 @@
 <div class="col-sm-6 col-md-4" style="padding-bottom:1em;">
     <div class="thumbnail">
-    	<div class="image-container">
-    		<span class="image-container-helper"></span>
-	        <img src="{{ .Params.thumbnail }}"/>
-        </div>
-        <a href="../projects/{{ .Params.bloglink }}"></a>
+        <a href="../projects/{{ .Params.bloglink }}">
+			<div class="image-container">
+				<span class="image-container-helper"></span>
+		        <img src="{{ .Params.thumbnail }}"/>
+		    </div>
+        </a>
 		{{ .Params.blogsummary }}        
     </div>
 </div>
