@@ -32,3 +32,10 @@
     max-height: 150px;
     max-width: 160px;
 }
+
+.image-caption {
+  font-style: italic;
+  font-size: 75%;
+  text-align: center;
+  transform: translateY(-40px);
+ }

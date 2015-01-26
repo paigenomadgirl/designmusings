@@ -34,6 +34,16 @@
     </item>
     
     <item>
+      <title>Contact Thanks</title>
+      <link>http://localhost:1313/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://localhost:1313/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
@@ -61,6 +71,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Contact Thanks</title>
       <link>http://localhost:1313/contact-thanks/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
@@ -71,6 +82,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> adds image caption class
       <title>Pinterest: Persona to Prototype</title>
       <link>http://localhost:1313/projects/pinterest/</link>
       <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
@@ -97,7 +110,8 @@
 
 &lt;p&gt;Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&amp;rsquo;s interested in.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;/images/AleePersona.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;/images/AleePersona.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/images/AleePersona.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;/images/AleePersona.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Alee Persona&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
 
