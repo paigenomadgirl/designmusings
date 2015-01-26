@@ -74,12 +74,12 @@
 &lt;p&gt;After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
 I had used the filter icon that&amp;rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&amp;hellip;.not choose a category. Uh oh!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;/images/Filter.jpg&#34; data-lightbox=&#34;filter-example&#34; data-title=&#34;Filter Example&#34;&gt;&lt;img src=&#34;/images/Filter.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;/images/filter.jpg&#34; data-lightbox=&#34;filter-example&#34; data-title=&#34;Filter Example&#34;&gt;&lt;img src=&#34;/images/filter.jpg&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;/images/Fitmob.jpg&#34; data-lightbox=&#34;fitmob-example&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img src=&#34;/images/Fitmob.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/images/fitmob.jpg&#34; data-lightbox=&#34;fitmob-example&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img src=&#34;/images/fitmob.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s simple and direct. There&amp;rsquo;s no doubting what this button does.&lt;/p&gt;
 
