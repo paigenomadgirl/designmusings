@@ -1,6 +1,6 @@
 +++
 date = "2015-01-28T22:53:46-08:00"
-draft = true
+draft = false
 title = "Just Commit It Already: My Adventures In Coding"
 
 +++
