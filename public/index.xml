@@ -51,28 +51,6 @@
 
 &lt;p&gt;The result is a simple, delightful categories bar that makes it very clear which categories contain what types of food. I love it!&lt;/p&gt;
 
-&lt;p&gt;From joyful experiences with apps like Super to delightfully clear and simple interfaces of Good Eggs and Loverly, &amp;lt;a href=&amp;ldquo;As a UX Designer, it&amp;rsquo;s part of the job to look for inspiration. I hope I&amp;rsquo;ll always be constantly inspired by the world around me and the brilliant work of talented artists and designers.&lt;/p&gt;
-
-&lt;p&gt;In that spirit, I&amp;rsquo;d like to share my &amp;lsquo;Inspiration Notebook&amp;rsquo; with you. This is compiled of different images of UIs that inspire me.&lt;/p&gt;
-
-&lt;p&gt;For example, I love Pinterest&amp;rsquo;s board display. The simple and elegant way my pictures are displayed convey a warm yet not overly-fussy tone.
-&lt;a href=&#34;/images/Pinterest.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Pinterest&#34;&gt;&lt;img src=&#34;/images/Pinterest.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;My &amp;lsquo;Divine Dishes&amp;rsquo; Board&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s Loverly, a wedding planning app that I&amp;rsquo;m currently &lt;em&gt;very&lt;/em&gt; taken with.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/Loverly.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Pinterest&#34;&gt;&lt;img src=&#34;/images/Loverly.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Loverly&amp;rsquo;s Search Bar&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Users can begin their search by selecting a color in the spetreme. It&amp;rsquo;s an interesting and unique way to present search.&lt;/p&gt;
-
-&lt;p&gt;Good Eggs is one of my favorite apps. It provides local foods delivered to your door. They recently redesigned their site and streamlined their categories.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/GoodEggs.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Pinterest&#34;&gt;&lt;img src=&#34;/images/GoodEggs.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Click on &amp;lsquo;Eggs &amp;amp; Diary.&amp;rsquo; Good Eggs always has a great cheese selection!&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;The result is a simple, delightful categories bar that makes it very clear which categories contain what types of food. I love it!&lt;/p&gt;
-
 &lt;p&gt;From joyful experiences with apps like Super to delighfully clear and simple interfaces of Good Eggs and Loverly, &lt;a href=&#34;https://www.evernote.com/pub/colleenpaigeb/uiinspirations&#34;&gt;here&lt;/a&gt; are some of the UIs that inspire my work.&lt;/p&gt;
 </description>
     </item>
@@ -134,6 +112,16 @@
     </item>
     
     <item>
+      <title>Contact Thanks</title>
+      <link>http://paigebennett.com/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://paigebennett.com/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://paigebennett.com/contact/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
@@ -157,16 +145,6 @@
   &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
   &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
 &lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact Thanks</title>
-      <link>http://paigebennett.com/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
-      
-      <guid>http://paigebennett.com/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
 </description>
     </item>
     
@@ -439,20 +417,20 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     </item>
     
     <item>
-      <title>Pinterest</title>
-      <link>http://paigebennett.com/portfolio/pinterest/</link>
-      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
-      
-      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vint</title>
       <link>http://paigebennett.com/portfolio/vint/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
       <guid>http://paigebennett.com/portfolio/vint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>http://paigebennett.com/portfolio/pinterest/</link>
+      <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
+      
+      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
       <description></description>
     </item>
     
