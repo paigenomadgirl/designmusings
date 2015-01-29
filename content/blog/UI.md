@@ -4,4 +4,5 @@ draft = true
 title = "What Inspires You?"
 
 +++
+As a UX Designer, it's part of the job to look for inspiration. I hope I'll always be constantly inspired by the world around me and the brilliant work of talented artists and designers. 
 

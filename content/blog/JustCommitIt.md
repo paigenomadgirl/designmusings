@@ -9,4 +9,4 @@ I am a coder. It sounds weird to see that written out. Maybe that’s because it
 
 I am not a good coder (yet). I am not an experienced coder. But I’m excited to learn.
 
-Read the rest of my story on <a href="https://medium.com/@paigenomadgirl/just-commit-it-already-3c823797c"_blank">Medium</a>.
+Read the rest of my story on <a href="https://medium.com/@paigenomadgirl/just-commit-it-already-3c823797c"_blank">Medium</a>. 
