@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://paigebennett.com/</loc>
-    <lastmod>2015-01-28T22:53:46-08:00</lastmod>
+    <lastmod>2015-02-20T20:28:37-08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://paigebennett.com/blog/ThingsBizTaughtMe/</loc>
+    <lastmod>2015-02-20T20:28:37-08:00</lastmod>
   </url>
   
   <url>
@@ -28,12 +33,12 @@
   </url>
   
   <url>
-    <loc>http://paigebennett.com/contact-thanks/</loc>
+    <loc>http://paigebennett.com/contact/</loc>
     <lastmod>2015-01-11T21:13:11-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://paigebennett.com/contact/</loc>
+    <loc>http://paigebennett.com/contact-thanks/</loc>
     <lastmod>2015-01-11T21:13:11-08:00</lastmod>
   </url>
   
@@ -48,12 +53,12 @@
   </url>
   
   <url>
-    <loc>http://paigebennett.com/portfolio/vint/</loc>
+    <loc>http://paigebennett.com/portfolio/pinterest/</loc>
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://paigebennett.com/portfolio/pinterest/</loc>
+    <loc>http://paigebennett.com/portfolio/vint/</loc>
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
