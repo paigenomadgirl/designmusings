@@ -1,6 +1,6 @@
 +++
 date = "2015-02-22T12:57:02-08:00"
-draft = true
+draft = false
 title = "Together10: Messaging & A/B Testing"
 
 +++

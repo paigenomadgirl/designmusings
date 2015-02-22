@@ -1,6 +1,6 @@
 +++
 date = "2015-02-22T12:56:04-08:00"
-draft = true
+draft = false
 description= "A link about stuff"
 title = "Together10"
 tags = ["personal" , "blog"]
