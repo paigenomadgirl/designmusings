@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>SpotOn: The Case of the Frustrated Lister</title>
+      <title>SpotOn Part 1: Listing A Spot</title>
       <link>http://paigebennett.com/projects/SpotOn/</link>
       <pubDate>Sun, 22 Feb 2015 10:13:55 PST</pubDate>
       
@@ -226,6 +226,16 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     </item>
     
     <item>
+      <title>Contact Thanks</title>
+      <link>http://paigebennett.com/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://paigebennett.com/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://paigebennett.com/contact/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
@@ -249,16 +259,6 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
   &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
   &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
 &lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact Thanks</title>
-      <link>http://paigebennett.com/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
-      
-      <guid>http://paigebennett.com/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
 </description>
     </item>
     

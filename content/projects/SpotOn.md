@@ -1,7 +1,7 @@
 +++
 date = "2015-02-22T10:13:55-08:00"
 draft = false
-title = "SpotOn: The Case of the Frustrated Lister"
+title = "SpotOn Part 1: Listing A Spot"
 
 +++
 
