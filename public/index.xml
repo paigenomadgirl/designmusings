@@ -24,17 +24,14 @@
       <pubDate>Sun, 22 Feb 2015 10:13:55 PST</pubDate>
       
       <guid>http://paigebennett.com/projects/SpotOn/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Client&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href: &#34;/http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href: &#34;/http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
-
-&lt;p&gt;If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers. So it was with this excitment that I first met with the SpotOn team to figure out how I could help them.&lt;/p&gt;
-
-&lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers. They wanted to tackle the Listers side first.&lt;/p&gt;
+&lt;p&gt;If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;SpotOn built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help.&lt;/p&gt;
+&lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers. They wanted to tackle the Listers side first.
+They built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;/images/SpotOnMeeting.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;/images/SpotOnMeeting.jpg&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Reviewing The Prototype&lt;/div&gt;&lt;/p&gt;
@@ -53,7 +50,7 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 &lt;p&gt;We analyzed the user tests, noting patterns and pain points. Each issue can be categorized as one of discoverability, information input/editing, user orientation or feedback.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;/images/OpportunityMatrix.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;/images/OpportunityMatrix.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 

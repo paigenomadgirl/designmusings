@@ -5,17 +5,14 @@ title = "SpotOn Part 1: Listing A Spot"
 
 +++
 
-**Client**
-
 <a href: "/http://spotonparking.com/" target=_blank">SpotOn</a> is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I'm a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn. 
 
-If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers. So it was with this excitment that I first met with the SpotOn team to figure out how I could help them.  
-
-SpotOn has two site experiences: Listers & Parkers. They wanted to tackle the Listers side first. 
+If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers.  
 
 **Opportunity**
 
-SpotOn built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help. 
+SpotOn has two site experiences: Listers & Parkers. They wanted to tackle the Listers side first. 
+They built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help. 
 
 <a href="/images/SpotOnMeeting.jpg" data-lightbox="opportunity" data-title="Opportunity Matrix"><img src="/images/SpotOnMeeting.jpg"/></a>
 <div class="image-caption">Reviewing The Prototype</div>
@@ -34,7 +31,7 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.
 We analyzed the user tests, noting patterns and pain points. Each issue can be categorized as one of discoverability, information input/editing, user orientation or feedback.
 
 <a href="/images/OpportunityMatrix.png" data-lightbox="opportunity" data-title="Opportunity Matrix"><img src="/images/OpportunityMatrix.png"/></a>
-<div class="image-caption">Each red dot represents a a user's pain point</div>
+<div class="image-caption">Each red dot represents a user's pain point</div>
 
 **Usability Analysis & Design Recommendations**
 
