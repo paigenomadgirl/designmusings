@@ -3,27 +3,106 @@
   <channel>
       <title>Recent Content on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://paigebennett.com/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     
     
     
-    <updated>Sun, 22 Feb 2015 10:14:58 PST</updated>
+    <updated>Sun, 22 Feb 2015 12:57:02 PST</updated>
+    
+    <item>
+      <title>Together10: Messaging &amp; A/B Testing</title>
+      <link>http://localhost:1313/projects/together10/</link>
+      <pubDate>Sun, 22 Feb 2015 12:57:02 PST</pubDate>
+      
+      <guid>http://localhost:1313/projects/together10/</guid>
+      <description>&lt;p&gt;&lt;a href: &#34;http://together10.com/&#34; target=&#34;_blank&#34;&gt;Together10&lt;/a&gt; is a beta site that sends parents daily, quick lessons to explore with their children. It&amp;rsquo;s a service created with the busy parent in mind. Each lesson takes 10 minutes or less to complete and is designed around what Together10 calls the &amp;ldquo;Together10 Advantage.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Together10 wanted to test the messaging clarity of its site before launching out of beta. They turned to Tradecraft for help creating a usability guide to test user experience and recommendations on redesign and A/B testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After getting to know the product, we designed and conducted tests with users that fit the Together10 profile (busy, working parents). We focused the usability test on Together10&amp;rsquo;s homepage. After analyzing the tests, noting patterns and pain points, we created design recommendations for A/B testing and next steps for Together10.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feedback &amp;amp; Pain Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some of the insides we received from the usability tests.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Feedback1.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Feedback&#34;&gt;&lt;img src=&#34;/images/Feedback1.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Some users were confused by the phone and thought Together10 was an app (it&amp;rsquo;s not- yet)&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Feedback2.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Feedback&#34;&gt;&lt;img src=&#34;/images/Feedback2.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;As users scroll down the page, their confusion over Together10&amp;rsquo;s purpose was reflected most in this section.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Design Recommendations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Longterm Change&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Our longterm option is an overall restructuring of the homepage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Together10Wireframe.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Feedback&#34;&gt;&lt;img src=&#34;/images/Together10Wireframe.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;This redesign addresses user feedback and is aimed at clarifying how Together10 works.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Highlights a clear value statement below the call to action [“Sign Up”].&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Includes testimonies from users to reiterate quality.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Includes a video showcasing how Together10 works.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tabs convey their purpose more clearly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Log In&amp;rdquo; to create a profile and connect with the community.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Quick Wins&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, most startups don&amp;rsquo;t have the time or resources to do a complete redesign. As a second option (one that could be shipped quickly), we recommended the following small changes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/QuickWin1.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;/images/QuickWin1.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/QuickWin2.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;/images/QuickWin2.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/QuickWin3.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;/images/QuickWin3.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conculusions &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We recommended that Together10 implement our designs and run an A/B test via Optimizely. After analyzing results from an A/B test, we also recommended that they establish a brand identity and language that carries throughout the Together10 page.&lt;/p&gt;
+
+&lt;p&gt;Together10 will be implementing these changes in the coming weeks and we will be designing an onboarding experience based on feedback.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Together10</title>
+      <link>http://localhost:1313/portfolio/together10/</link>
+      <pubDate>Sun, 22 Feb 2015 12:56:04 PST</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/together10/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SpotOn</title>
-      <link>http://paigebennett.com/portfolio/SpotOn/</link>
+      <link>http://localhost:1313/portfolio/SpotOn/</link>
       <pubDate>Sun, 22 Feb 2015 10:14:58 PST</pubDate>
       
-      <guid>http://paigebennett.com/portfolio/SpotOn/</guid>
+      <guid>http://localhost:1313/portfolio/SpotOn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpotOn Part 1: Listing A Spot</title>
-      <link>http://paigebennett.com/projects/SpotOn/</link>
+      <link>http://localhost:1313/projects/SpotOn/</link>
       <pubDate>Sun, 22 Feb 2015 10:13:55 PST</pubDate>
       
-      <guid>http://paigebennett.com/projects/SpotOn/</guid>
+      <guid>http://localhost:1313/projects/SpotOn/</guid>
       <description>&lt;p&gt;&lt;a href: &#34;/http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
 
 &lt;p&gt;If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers.&lt;/p&gt;
@@ -107,10 +186,10 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     
     <item>
       <title>The Thing About Having Fun That Twitter&#39;s Co-founder Taught Me</title>
-      <link>http://paigebennett.com/blog/ThingsBizTaughtMe/</link>
+      <link>http://localhost:1313/blog/ThingsBizTaughtMe/</link>
       <pubDate>Fri, 20 Feb 2015 20:28:37 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/ThingsBizTaughtMe/</guid>
+      <guid>http://localhost:1313/blog/ThingsBizTaughtMe/</guid>
       <description>&lt;p&gt;&lt;em&gt;Success isn’t guaranteed but failure is certain if you aren’t emotionally invested in your work. -Biz, Things A Little Bird Told Me&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Each week, Tradecraft welcomes experts and inspiring entrepreneurs to share their insights with us during what we call a “Tradecraft teach.” A couple of weeks ago, I was elated to moderate a talk with Biz Stone.&lt;/p&gt;
@@ -122,10 +201,10 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     
     <item>
       <title>Just Commit It Already: My Adventures In Coding</title>
-      <link>http://paigebennett.com/blog/JustCommitIt/</link>
+      <link>http://localhost:1313/blog/JustCommitIt/</link>
       <pubDate>Wed, 28 Jan 2015 22:53:46 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/JustCommitIt/</guid>
+      <guid>http://localhost:1313/blog/JustCommitIt/</guid>
       <description>&lt;p&gt;I am a coder. It sounds weird to see that written out. Maybe that’s because it’s a rather new adventure in my life. Or maybe it’s because for years, I saw coding as swathed in a veil of mystery. Websites and apps just happened. Sure, there was someone on the other side making it happen but for the most part, it just seemed like magic.&lt;/p&gt;
 
 &lt;p&gt;I am not a good coder (yet). I am not an experienced coder. But I’m excited to learn.&lt;/p&gt;
@@ -136,10 +215,10 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     
     <item>
       <title>What Inspires You?</title>
-      <link>http://paigebennett.com/blog/UI/</link>
+      <link>http://localhost:1313/blog/UI/</link>
       <pubDate>Wed, 28 Jan 2015 22:53:09 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/UI/</guid>
+      <guid>http://localhost:1313/blog/UI/</guid>
       <description>&lt;p&gt;As a UX Designer, it&amp;rsquo;s part of the job to look for inspiration. I hope I&amp;rsquo;ll always be constantly inspired by the world around me and the brilliant work of talented artists and designers.&lt;/p&gt;
 
 &lt;p&gt;In that spirit, I&amp;rsquo;d like to share my &amp;lsquo;Inspiration Notebook&amp;rsquo; with you. This is compiled of different images of UIs that inspire me.&lt;/p&gt;
@@ -168,10 +247,10 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     
     <item>
       <title>Life’s Too Short To Wait For The Check: A UX Case Study of OpenTable’s New Payments Feature</title>
-      <link>http://paigebennett.com/blog/opentable/</link>
+      <link>http://localhost:1313/blog/opentable/</link>
       <pubDate>Sun, 25 Jan 2015 16:06:39 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/opentable/</guid>
+      <guid>http://localhost:1313/blog/opentable/</guid>
       <description>&lt;p&gt;What if paying for your meal could be effortless, fluid and simple? Just one click on your phone and boom — bill paid, out the door and onto the next adventure. This was the question that OpenTable’s design team dived into. The end result of their discovery is a feature that allows you to view and pay your check through the &lt;a href=&#34;http://www.opentable.com&#34; target=&#34;_blank&#34;&gt;OpenTable&lt;/a&gt; app.&lt;/p&gt;
 
 &lt;p&gt;Recently, Seth Andrezejewski, a User Experience Researcher for OpenTable, spoke at Tradecraft and shared a glimpse into the journey his team took to create this new feature.&lt;/p&gt;
@@ -182,10 +261,10 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     
     <item>
       <title>Don’t mind me staring at you, I’m just sketching</title>
-      <link>http://paigebennett.com/blog/sketches/</link>
+      <link>http://localhost:1313/blog/sketches/</link>
       <pubDate>Thu, 22 Jan 2015 09:37:56 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/sketches/</guid>
+      <guid>http://localhost:1313/blog/sketches/</guid>
       <description>&lt;p&gt;Drawing has always been a bit intimidating to me. I can see an idea or concept in my head but when it comes to putting pen to paper and communicating it visually, I would freeze up.&lt;/p&gt;
 
 &lt;p&gt;So when we were given the assignment (challenge?) to draw 100 sketches in 2 days, I was nervous. So nervous. But, I love observing and people watching, which is an integral part of sketching.&lt;/p&gt;
@@ -223,11 +302,21 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://paigebennett.com/contact/</link>
+      <title>Contact Thanks</title>
+      <link>http://localhost:1313/contact-thanks/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
       
-      <guid>http://paigebennett.com/contact/</guid>
+      <guid>http://localhost:1313/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h2&gt;I&#39;d love to hear from you!&lt;/h2&gt;
 
 &lt;form action=&#34;https://getsimpleform.com/messages?form_api_token=b31f239fea056c89596a288c31b1a94d&#34; method=&#34;post&#34;&gt;
@@ -250,21 +339,11 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     </item>
     
     <item>
-      <title>Contact Thanks</title>
-      <link>http://paigebennett.com/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
-      
-      <guid>http://paigebennett.com/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pinterest: Persona to Prototype</title>
-      <link>http://paigebennett.com/projects/pinterest/</link>
+      <link>http://localhost:1313/projects/pinterest/</link>
       <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
       
-      <guid>http://paigebennett.com/projects/pinterest/</guid>
+      <guid>http://localhost:1313/projects/pinterest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
 
 &lt;p&gt;You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
@@ -369,10 +448,10 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     
     <item>
       <title>Vint: A Usability Study</title>
-      <link>http://paigebennett.com/projects/vint/</link>
+      <link>http://localhost:1313/projects/vint/</link>
       <pubDate>Sat, 06 Dec 2014 19:29:32 PST</pubDate>
       
-      <guid>http://paigebennett.com/projects/vint/</guid>
+      <guid>http://localhost:1313/projects/vint/</guid>
       <description>&lt;p&gt;My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue&amp;ndash; my wedding dress (and fitting nicely into it).&lt;/p&gt;
 
 &lt;p&gt;That concern is largely want made new fitness app Vint catch my eye last week. &lt;a href=&#34;https://www.joinvint.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt; touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.&lt;/p&gt;
@@ -529,128 +608,20 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     
     <item>
       <title>Pinterest</title>
-      <link>http://paigebennett.com/portfolio/pinterest/</link>
+      <link>http://localhost:1313/portfolio/pinterest/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
-      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
+      <guid>http://localhost:1313/portfolio/pinterest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vint</title>
-      <link>http://paigebennett.com/portfolio/vint/</link>
+      <link>http://localhost:1313/portfolio/vint/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 PST</pubDate>
       
-      <guid>http://paigebennett.com/portfolio/vint/</guid>
+      <guid>http://localhost:1313/portfolio/vint/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>The Elements of User Experience</title>
-      <link>http://paigebennett.com/blog/third/</link>
-      <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
-      
-      <guid>http://paigebennett.com/blog/third/</guid>
-      <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
-His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
-
-&lt;p&gt;Garrett described user experience as “the experience the product creates for the people who use it in the real world.” Sometimes we have great experiences with products (I’m looking at you, nostalgic Timehop), other times the experience is frustrating (like anytime I try to navigate Netflix on my tv). Our jobs as designers are to make that experience one of joy, delight and ease.&lt;/p&gt;
-
-&lt;p&gt;While there are many things that Garrett’s book helped me understand better, I’ll share with you my top highlights:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The Five Planes&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Garrett describes the five planes as layers that build upon one another and influence how a site looks and behaves. His five planes are: Surface, Skeleton, Structure, Scope and Strategy. What I loved about this is how it broke down a site into the many, many different facets, from abstract (strategy) to concrete (surface). Garrett emphasized the importance of each plane’s dependence on the other. For example, if you miss getting the strategy right, it will affect the scope.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The Plane Approach&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;While each plane is dependent on one another, that doesn’t mean that you have to finish each plane before you can start work on the next section. That could lead to frustration for everyone involved. Instead, Garrett provided a straight-forward, great piece of advice to keep in mind: “have work on each plane &lt;strong&gt;finish&lt;/strong&gt; before work on the next can finish.” I appreciated this clarification because I have been a part of teams before that have tried to finish one plane before starting another. It did lead to frustration- both from the team and our users. Had we taken Garrett’s advice, perhaps we would have all been better off.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;“Understand the consequences of your solution to the problem.”&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This was one of the most influential statements that Garrett made and I hope that it’s one I will always keep top of mind. Sometimes we can be so focused on fixing the problem that we don’t take a step back to consider how that solution could possibly cause a ripple effect throughout the design. It takes your team thinking about each plane to avoid this. Garrett provided this helpful diagram to show what this might look like:&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/third_diagram.png&#34;  /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Diagram&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;p&gt;“If you approach your product development process with the complete user experience in mind, you can come out of it with a product that’s an asset, not a liability.” Yes, Mr. Garrett. Yes indeed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://paigebennett.com/blog/second/</link>
-      <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
-      
-      <guid>http://paigebennett.com/blog/second/</guid>
-      <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
-
-&lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
-
-&lt;p&gt;I should set the stage now and share with you that up to this point, my experience with user studies have been purely grassroots. Really grassroots. But, since my goal for this blog is to be one that highlights (hopefully) progress, let me introduce you to User Study #1: The Grassroots Edition.&lt;/p&gt;
-
-&lt;p&gt;Right off the bat, I can tell you how we wrongly went about this study: we didn’t first form a hypothesis that we were trying to answer.&lt;/p&gt;
-
-&lt;p&gt;Here’s what we assumed: our website messaging wasn’t clear, the website flow made no sense and our checkout system was confusing.&lt;/p&gt;
-
-&lt;p&gt;Basically we went into the user study looking for validation for what we wanted to do, which was completely rework the website and messaging.&lt;/p&gt;
-
-&lt;p&gt;I joined the startup after the website had launched but I wished this study had been done prior to launching the site. Again, that’s where the lean startup school of thought makes so much sense.&lt;/p&gt;
-
-&lt;p&gt;We started by interviewing 16 people, all non-users of our product. With the exception of 4, they had never heard of us.&lt;/p&gt;
-
-&lt;p&gt;We had them walk through our booking process, from the homepage to choosing a product they were interested in, booking and reserving that product. Finally, we asked them about a couple of specific pages we felt were lacking in clarity and flow.&lt;/p&gt;
-
-&lt;p&gt;“$60 is too much. What am I getting for that?”&lt;/p&gt;
-
-&lt;p&gt;Validation:&lt;/p&gt;
-
-&lt;p&gt;The user study validated a lot of what we already knew, like:&lt;/p&gt;
-
-&lt;p&gt;Messaging: It wasn’t clear to the user what exactly we were offering or where they could have the meal. Would the chef come to their house? Was it at the chef’s house? Was it delivery? The user really didn’t know.
-Dynamic Pricing: The need for pricing that changed depending on how many people you have at a dinner. The price displayed isn’t what you would pay if there was only 2 people&amp;hellip;or a larger group like 15. Users were unaware that booking a dinner under the minimum number of people shown would result in a higher price per person.
-Flow: From the homepage to the meals page, filtering down to what you wanted to see (cooking classes, meals, tours) wasn’t intuitive. Part of that stemmed from hazy messaging.&lt;/p&gt;
-
-&lt;p&gt;“I thought you served only Italian food.”&lt;/p&gt;
-
-&lt;p&gt;New Insights:&lt;/p&gt;
-
-&lt;p&gt;We also got a lot of great feedback on issues we didn’t know were issues:&lt;/p&gt;
-
-&lt;p&gt;Consistent Images: One thing we heard was about our H1 image on our homepage. It conveyed (to a couple of users) that we offered one genre of food. Of course, there’s no way a picture of food will convey every genre but still, this was interesting feedback. If only to reiterate how important visuals are to our site.
-Menu Clarity: We have pictures of food and a menu listed on the meals page but you’ll notice they’re not listed side-by-side. We heard from some users that this added to their confusion, especially when the menu featured food they were unfamiliar with.
-Social Trust: We offer Facebook login but not using the Facebook symbol (it simply says “Login”). The study showed us that users wanted to see the Facebook symbol. To them, it added validity and trust.
-Next Steps:&lt;/p&gt;
-
-&lt;p&gt;The raw feedback was enlightening enough but when it came to actionable items to provide backend, we focused on three areas:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Messaging on the home and meals pages&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dynamic pricing&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;How it Works&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;(Our reasoning for putting How it Works as a high priority was because of heavy site traffic to that page.)&lt;/p&gt;
-
-&lt;p&gt;I would love to share the before and after images but my path took a quick turn while in the middle of this study. Instead, I handed it over to my very capable coworkers and look forward to seeing the end result as a user.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

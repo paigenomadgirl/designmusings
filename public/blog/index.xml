@@ -3,7 +3,7 @@
   <channel>
       <title>Blogs on Musings on Design </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://paigebennett.com/blog/index.xml/</link>
+    <link>http://localhost:1313/blog/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>The Thing About Having Fun That Twitter&#39;s Co-founder Taught Me</title>
-      <link>http://paigebennett.com/blog/ThingsBizTaughtMe/</link>
+      <link>http://localhost:1313/blog/ThingsBizTaughtMe/</link>
       <pubDate>Fri, 20 Feb 2015 20:28:37 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/ThingsBizTaughtMe/</guid>
+      <guid>http://localhost:1313/blog/ThingsBizTaughtMe/</guid>
       <description>&lt;p&gt;&lt;em&gt;Success isn’t guaranteed but failure is certain if you aren’t emotionally invested in your work. -Biz, Things A Little Bird Told Me&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Each week, Tradecraft welcomes experts and inspiring entrepreneurs to share their insights with us during what we call a “Tradecraft teach.” A couple of weeks ago, I was elated to moderate a talk with Biz Stone.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Just Commit It Already: My Adventures In Coding</title>
-      <link>http://paigebennett.com/blog/JustCommitIt/</link>
+      <link>http://localhost:1313/blog/JustCommitIt/</link>
       <pubDate>Wed, 28 Jan 2015 22:53:46 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/JustCommitIt/</guid>
+      <guid>http://localhost:1313/blog/JustCommitIt/</guid>
       <description>&lt;p&gt;I am a coder. It sounds weird to see that written out. Maybe that’s because it’s a rather new adventure in my life. Or maybe it’s because for years, I saw coding as swathed in a veil of mystery. Websites and apps just happened. Sure, there was someone on the other side making it happen but for the most part, it just seemed like magic.&lt;/p&gt;
 
 &lt;p&gt;I am not a good coder (yet). I am not an experienced coder. But I’m excited to learn.&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>What Inspires You?</title>
-      <link>http://paigebennett.com/blog/UI/</link>
+      <link>http://localhost:1313/blog/UI/</link>
       <pubDate>Wed, 28 Jan 2015 22:53:09 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/UI/</guid>
+      <guid>http://localhost:1313/blog/UI/</guid>
       <description>&lt;p&gt;As a UX Designer, it&amp;rsquo;s part of the job to look for inspiration. I hope I&amp;rsquo;ll always be constantly inspired by the world around me and the brilliant work of talented artists and designers.&lt;/p&gt;
 
 &lt;p&gt;In that spirit, I&amp;rsquo;d like to share my &amp;lsquo;Inspiration Notebook&amp;rsquo; with you. This is compiled of different images of UIs that inspire me.&lt;/p&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>Life’s Too Short To Wait For The Check: A UX Case Study of OpenTable’s New Payments Feature</title>
-      <link>http://paigebennett.com/blog/opentable/</link>
+      <link>http://localhost:1313/blog/opentable/</link>
       <pubDate>Sun, 25 Jan 2015 16:06:39 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/opentable/</guid>
+      <guid>http://localhost:1313/blog/opentable/</guid>
       <description>&lt;p&gt;What if paying for your meal could be effortless, fluid and simple? Just one click on your phone and boom — bill paid, out the door and onto the next adventure. This was the question that OpenTable’s design team dived into. The end result of their discovery is a feature that allows you to view and pay your check through the &lt;a href=&#34;http://www.opentable.com&#34; target=&#34;_blank&#34;&gt;OpenTable&lt;/a&gt; app.&lt;/p&gt;
 
 &lt;p&gt;Recently, Seth Andrezejewski, a User Experience Researcher for OpenTable, spoke at Tradecraft and shared a glimpse into the journey his team took to create this new feature.&lt;/p&gt;
@@ -86,10 +86,10 @@
     
     <item>
       <title>Don’t mind me staring at you, I’m just sketching</title>
-      <link>http://paigebennett.com/blog/sketches/</link>
+      <link>http://localhost:1313/blog/sketches/</link>
       <pubDate>Thu, 22 Jan 2015 09:37:56 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/sketches/</guid>
+      <guid>http://localhost:1313/blog/sketches/</guid>
       <description>&lt;p&gt;Drawing has always been a bit intimidating to me. I can see an idea or concept in my head but when it comes to putting pen to paper and communicating it visually, I would freeze up.&lt;/p&gt;
 
 &lt;p&gt;So when we were given the assignment (challenge?) to draw 100 sketches in 2 days, I was nervous. So nervous. But, I love observing and people watching, which is an integral part of sketching.&lt;/p&gt;
@@ -128,10 +128,10 @@
     
     <item>
       <title>The Elements of User Experience</title>
-      <link>http://paigebennett.com/blog/third/</link>
+      <link>http://localhost:1313/blog/third/</link>
       <pubDate>Fri, 28 Nov 2014 16:17:54 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/third/</guid>
+      <guid>http://localhost:1313/blog/third/</guid>
       <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
 His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
 
@@ -175,10 +175,10 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
     
     <item>
       <title>My First User Study (The Shaky, Grass Roots Edition) </title>
-      <link>http://paigebennett.com/blog/second/</link>
+      <link>http://localhost:1313/blog/second/</link>
       <pubDate>Fri, 28 Nov 2014 13:58:43 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/second/</guid>
+      <guid>http://localhost:1313/blog/second/</guid>
       <description>&lt;p&gt;One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.&lt;/p&gt;
 
 &lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
@@ -236,10 +236,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>The Journey From Journalism to Design</title>
-      <link>http://paigebennett.com/blog/first/</link>
+      <link>http://localhost:1313/blog/first/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
       
-      <guid>http://paigebennett.com/blog/first/</guid>
+      <guid>http://localhost:1313/blog/first/</guid>
       <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
 
 &lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
