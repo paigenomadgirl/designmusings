@@ -7,7 +7,106 @@
     
     
     
-    <updated>Fri, 20 Feb 2015 20:28:37 PST</updated>
+    <updated>Sun, 22 Feb 2015 10:14:58 PST</updated>
+    
+    <item>
+      <title>SpotOn</title>
+      <link>http://paigebennett.com/portfolio/SpotOn/</link>
+      <pubDate>Sun, 22 Feb 2015 10:14:58 PST</pubDate>
+      
+      <guid>http://paigebennett.com/portfolio/SpotOn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpotOn: The Case of the Frustrated Lister</title>
+      <link>http://paigebennett.com/projects/SpotOn/</link>
+      <pubDate>Sun, 22 Feb 2015 10:13:55 PST</pubDate>
+      
+      <guid>http://paigebennett.com/projects/SpotOn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Client&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href: &#34;/http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
+
+&lt;p&gt;If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers. So it was with this excitment that I first met with the SpotOn team to figure out how I could help them.&lt;/p&gt;
+
+&lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers. They wanted to tackle the Listers side first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;SpotOn built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/SpotOnMeeting.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;/images/SpotOnMeeting.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Reviewing The Prototype&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After getting to know the SpotOn product and design
+stories, we created a usability guide and performed usability tests with users fitting the SpotOn persona.  This involved taking them through a predetermined
+list of tasks and observing their reaction to and interactions for each task. We then analyzed the user
+tests, noting patterns and pain points. We categorized each issue as one of discoverability,
+information input/editing, user orientation or feedback. Based upon this matrix, we created design
+recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pain Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We analyzed the user tests, noting patterns and pain points. Each issue can be categorized as one of discoverability, information input/editing, user orientation or feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/OpportunityMatrix.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;/images/OpportunityMatrix.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Landing Page Pain Points&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/BeforeLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Before Landing Page&#34;&gt;&lt;img src=&#34;/images/BeforeLandingPage.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;This is what the site &lt;em&gt;used&lt;/em&gt; to look like&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/AfterLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Design Recommendations&#34;&gt;&lt;img src=&#34;/images/AfterLandingPage.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Minimal changes to create an optimal user experience. Overall, the landing page was a quick win.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Implemented Changes&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/SpotOnLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;SpotOn&#39;s Landing Page&#34;&gt;&lt;img src=&#34;/images/SpotOnLandingPage.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Now, users have a clearer understanding of the different spot types.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Lister&amp;rsquo;s Registration Page Pain Points&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Once a user decides they want to list a spot, they have to create a profile. Here&amp;rsquo;s what our usability test showed users thought of the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/BeforeListers2.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Lister&#39;s Registration Page&#34;&gt;&lt;img src=&#34;/images/BeforeListers2.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;We found that users had the most issues with creating a spot profile.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/AfterListers1.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Information Box&#34;&gt;&lt;img src=&#34;/images/AfterListers1.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/AfterListers4.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Design Recommendations&#34;&gt;&lt;img src=&#34;/images/AfterListers4.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Implemented Changes&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Listers1.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Implemented Changes&#34;&gt;&lt;img src=&#34;/images/Listers1.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;The information box lets users know immediately what they will need to create their profile.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Listers2.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Lister&#39;s Registration Page&#34;&gt;&lt;img src=&#34;/images/Listers2.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Here, you can that SpotOn implemented our recommendations for simplifying the process.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Listers4.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Lister&#39;s Registration Page&#34;&gt;&lt;img src=&#34;/images/Listers4.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Users can easily block off dates for spot availability.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our analysis found that most issues lie within the ‘Listers Registration’ page. We recommended a new form that will help users more easily navigate this page.&lt;/p&gt;
+
+&lt;p&gt;Beyond this recommendation, SpotOn also implemented our recommendations for quick wins.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href: &#34;www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Click here&lt;/a&gt; for Part 2 of my work with SpotOn&amp;rsquo;s Parkers page.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Thing About Having Fun That Twitter&#39;s Co-founder Taught Me</title>
@@ -554,55 +653,6 @@ Next Steps:&lt;/p&gt;
 &lt;p&gt;(Our reasoning for putting How it Works as a high priority was because of heavy site traffic to that page.)&lt;/p&gt;
 
 &lt;p&gt;I would love to share the before and after images but my path took a quick turn while in the middle of this study. Instead, I handed it over to my very capable coworkers and look forward to seeing the end result as a user.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Journey From Journalism to Design</title>
-      <link>http://paigebennett.com/blog/first/</link>
-      <pubDate>Fri, 28 Nov 2014 13:42:29 PST</pubDate>
-      
-      <guid>http://paigebennett.com/blog/first/</guid>
-      <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
-
-&lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;
-
-&lt;p&gt;Enter college. No major change, no shift, no worries. Print journalism was dying and I was told that the probability of anchoring in a large market was small. Still, that didn’t deter me. There was something about communication- pure and simple with your audience- that was innate.&lt;/p&gt;
-
-&lt;p&gt;But things changed and sands shifted. Like many journalists, the allure of PR drew me in. It was a semi-regular schedule, semi-regular hours and more pay that my measly producer salary drew. And though I didn’t love it, it taught me well. Through PR, I was introduced to tech. I was still a storyteller and (in theory) the audience was still my main priority.&lt;/p&gt;
-
-&lt;p&gt;I found, though, that I increasingly wanted to connect with a brand’s audience in a deeper way- to help build the trust and customer experience. Essentially, I wanted to manage the community. And so, earlier this summer, I jumped at a chance to direct the community for an early stage startup.&lt;/p&gt;
-
-&lt;p&gt;It was lean&amp;hellip;.incredibly so. But almost immediately after accepting, my role shifted completely. And while that’s to be expected to a certain point in the startup world, it became something that I didn’t recognize for a vision I didn&amp;rsquo;t understand. But nonetheless, there were opportunities to learn everyday.&lt;/p&gt;
-
-&lt;p&gt;We were building everything on our own. The messaging, the voice, the experience. It was all on us. And these things I loved. I loved conducting a grassroots study to figure out how people perceive us and our website. I loved figuring out what people liked and what they hated and why. I don’t think I realized I was doing user experience. But what I realized is that I really, really liked it.&lt;/p&gt;
-
-&lt;p&gt;And so a few weeks ago, when I received word that funding wasn’t going as expected and that wasn’t any money to pay me…well, I guess you could say that it was my first taste of the not so glamorous world of startups. They’re not all the 1% success stories. Some crash and burn. And while it hurts, it can also be a chance for a new chapter (&amp;ldquo;One door closes&amp;rdquo; and all that jazz….).&lt;/p&gt;
-
-&lt;p&gt;So on November 24th, I began a new journey, studying UX at Tradecraft, under the visionary Kate Rutter.&lt;/p&gt;
-
-&lt;p&gt;In a way, my childhood passion has come full circle. When I was a journalist, the audience was my main focus. It mattered most that I understood my audience and how to communicate with them.  In critical times, if I did not understand them, I would fail  as a communicator.&lt;/p&gt;
-
-&lt;p&gt;The audience- the user- will continue to be my main focus. I have a lot to learn but between you and me, I haven’t been this excited since I was a kid, reading articles from the Picayune Item into my tape recorder. So raise your glass with me. Here&amp;rsquo;s to a new journey.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://paigebennett.com/about/</link>
-      <pubDate>Fri, 28 Nov 2014 12:55:29 PST</pubDate>
-      
-      <guid>http://paigebennett.com/about/</guid>
-      <description>&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Paige.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.&lt;/p&gt;
-
-&lt;p&gt;I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things.  I&amp;rsquo;m learning to code and build this site piece by piece. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
 </description>
     </item>
     
