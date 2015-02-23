@@ -1,10 +1,9 @@
 +++
 date = "2015-02-22T12:56:04-08:00"
-draft = false
 description= "A link about stuff"
-title = "Together10"
 tags = ["personal" , "blog"]
 thumbnail = "/images/Logo.png"
+title = "Together10"
 sitelink = "http://spf13.com"
 bloglink= "together10"
 blogsummary = "I consulted with Together10 and conducted a messaging study, using the analysis to design changes for an A/B test."
