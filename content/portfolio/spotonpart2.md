@@ -2,7 +2,7 @@
 date = "2014-12-06T12:07:32-08:00"
 description = "A link about stuff"
 tags = ["personal", "blog"]
-thumbnail = "/images/spoton_part2.jpg"
+thumbnail = "/images/spoton_part2.png"
 title = "SpotOn Part 2"
 sitelink = "http://spf13.com"
 bloglink = "spotonpart2"
