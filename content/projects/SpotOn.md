@@ -82,5 +82,5 @@ Our analysis found that most issues lie within the ‘Listers Registration’ pa
 
 Beyond this recommendation, SpotOn also implemented our recommendations for quick wins.  
 
-<a href: "www.pinterest.com" target="_blank">Click here</a> for Part 2 of my work with SpotOn's Parkers page. 
+<a href: "http://www.paigebennett.com/projects/spotonpart2/" target="_blank">Click here</a> for Part 2 of my work with SpotOn's Parkers page. 
 
