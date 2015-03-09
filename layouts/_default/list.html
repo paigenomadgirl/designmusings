@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 
+<div class="fixedcontent">
 <article class="container">
   {{ range where .Data.Pages "Section" "blog" }}
     {{ .Render "summary" }}
@@ -7,3 +8,4 @@
 </article>
 
 {{ partial "footer.html" . }}
+</div>
