@@ -2,7 +2,7 @@
 date = "2014-12-06T12:07:32-08:00"
 description = "A link about stuff"
 tags = ["personal", "blog"]
-thumbnail = "/images/tightsorscarves_logo.png"
+thumbnail = "/images/newlogo_tightsorscarves.png"
 title = "Tights or Scarves"
 sitelink = "http://spf13.com"
 bloglink = "tightsorscarves"
