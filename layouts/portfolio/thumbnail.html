@@ -1,13 +1,13 @@
 <div class="col-sm-6 col-md-4" style="padding-bottom:1em;">
+    <a href="../projects/{{ .Params.bloglink }}">
     <div class="thumbnail imgWrap">
-        <a href="../projects/{{ .Params.bloglink }}">
-			<div class="image-container">
-				<span class="image-container-helper"></span>
-		        <img src="{{ .Params.thumbnail }}"/>
-		    </div>
-        </a>
+		<div class="image-container">
+			<span class="image-container-helper"></span>
+	        <img src="{{ .Params.thumbnail }}"/>
+	    </div>
         <p class="imgDescription">
 			<span class="imgDescCenterV">{{ .Params.blogsummary }}</span>        
 		</p>
     </div>
+    </a>
 </div>

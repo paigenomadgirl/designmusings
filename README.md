@@ -62,8 +62,6 @@ In case the push fails because it was rejected due to the heads being different,
 git push heroku `git subtree split --prefix public master`:master --force
 ```
 
-### What to do if Heroku says the Head is not uptodate???
-
 
 Only need to run once to install
 ```
