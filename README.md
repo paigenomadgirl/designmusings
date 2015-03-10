@@ -57,6 +57,11 @@ To deploy to heroku
 git subtree push --prefix public heroku master
 ```
 
+In case the push fails because it was rejected due to the heads being different, the following command will fix things up:
+```
+git push heroku `git subtree split --prefix public master`:master --force
+```
+
 ### What to do if Heroku says the Head is not uptodate???
 
 
