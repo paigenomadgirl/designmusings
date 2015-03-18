@@ -7,7 +7,58 @@
     
     
     
-    <updated>Tue, 24 Feb 2015 15:38:05 PST</updated>
+    <updated>Wed, 18 Mar 2015 11:43:15 PDT</updated>
+    
+    <item>
+      <title>The Frustrating Filter</title>
+      <link>http://paigebennett.com/blog/filterfeature/</link>
+      <pubDate>Wed, 18 Mar 2015 11:43:15 PDT</pubDate>
+      
+      <guid>http://paigebennett.com/blog/filterfeature/</guid>
+      <description>&lt;p&gt;What do you think this sign means?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/beloved.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Filter Icon&#34;&gt;&lt;img src=&#34;/images/filtericon.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Even if you can’t read the words, the meaning is universal. Yield to the camel! In car vs. camel, they will always win.&lt;/p&gt;
+
+&lt;p&gt;So now let’s do another quiz. What does this icon mean?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/beloved.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Filter Icon&#34;&gt;&lt;img src=&#34;/images/filtericon.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;If you said filter, you win. If you said sort, you still win because this icon is confusing.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago, I designed a feature for selecting categories. As I sketched out the feature on the action bar, I ran it by a few users and came to a realization: the filter icon for Android suggests that it sorts. Sort and filter are two different things.&lt;/p&gt;
+
+&lt;p&gt;And so you see where this could be confusing. The first thing a user asked when I presented them with my sketch was, &amp;ldquo;does this sort?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Take a look at my sketches and the action bar. What would you think this button does?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/fitmob.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Filter Icon&#34;&gt;&lt;img src=&#34;/images/UIsketches.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Right now, Android does not have a good alternative to the Filter button.&lt;/p&gt;
+
+&lt;p&gt;Here are what some other apps are using for a filter button.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/fitmob.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Filter Icon&#34;&gt;&lt;img src=&#34;/images/filtericon.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;As a designer, I had two choices: 1. Use the recommended icon and risk confused users. 2. Use a button that is absolutely clear but not necessarily in keeping with the design.&lt;/p&gt;
+
+&lt;p&gt;So what did I choose?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/fitmob.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Filter Icon&#34;&gt;&lt;img src=&#34;/images/actionbar.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I made my decision because this was clearer than the filter icon and while I think there is a better solution that we as Android designers should work towards, the user is more important than the design.&lt;/p&gt;
+
+&lt;p&gt;When our design choice prevails at the sake of the user, we have not done our jobs.&lt;/p&gt;
+
+&lt;p&gt;So what about you? Have you struggled with the filter icon? What solution did you come up with?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Beloved Experiences</title>
