@@ -6,7 +6,7 @@ thumbnail = "/images/spoton1.png"
 title = "SpotOn Part 2"
 sitelink = "http://spf13.com"
 bloglink = "spotonpart2"
-blogsummary = "In Part 2 of my client work, I created a new filter feature for SpotOn's parkers site. This project includes a persona, task flow, wireframes and a prototype."
+blogsummary = "SpotOn Part 2: Personas. Usability Test. New Feature Creation. Wireframes. Design Recommendations."
 sourceLink = "http://github.com/spf13/spf13.com"
 
 +++

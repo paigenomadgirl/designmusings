@@ -6,7 +6,7 @@ thumbnail = "/images/pinterestforsite.png"
 title = "Pinterest"
 sitelink = "http://spf13.com"
 bloglink = "pinterest"
-blogsummary = "I created a new filter feature for Pinterest's main feed. This project includes a persona, task flow, wireframes and a prototype."
+blogsummary = "Pinterest: Personas. New Feature Creation. Wireframes. Prototypes."
 sourceLink = "http://github.com/spf13/spf13.com"
 +++
 

@@ -2,8 +2,8 @@
 date = "2014-12-06T12:07:32-08:00"
 description = "A link about stuff"
 tags = ["personal", "blog"]
-thumbnail = "/images/vintnew.png"
+thumbnail = "/images/vint1.png"
 title = "Vint"
 blogLink = "vint"
-blogsummary = "After conducting a usability test on the Vint app, I recommended several design changes to create a better user experience."
+blogsummary = "Vint: Usability Test. Pain Points Identified. Design Recommendations."
 +++

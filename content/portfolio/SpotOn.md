@@ -6,7 +6,7 @@ thumbnail = "/images/spoton1.png"
 title = "SpotOn Part 1"
 sitelink = "http://spf13.com"
 bloglink = "SpotOn"
-blogsummary = "Part 1 of my client work with SpotOn includes creating a usability study, analyzing feedback and designing recommended changes for SpotOn's website."
+blogsummary = "SpotOn: Usability Test. Design Recommendations. Shipped Design."
 sourceLink = "http://github.com/spf13/spf13.com"
 
 +++
