@@ -1,6 +1,6 @@
 +++
 date = "2015-03-16T12:55:51-08:00"
-draft = true
+draft = false
 title = "Tights or Scarves?"
 
 +++

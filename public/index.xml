@@ -61,6 +61,16 @@
     </item>
     
     <item>
+      <title>Tights or Scarves?</title>
+      <link>http://paigebennett.com/projects/tightsorscarves/</link>
+      <pubDate>Mon, 16 Mar 2015 12:55:51 -0800</pubDate>
+      
+      <guid>http://paigebennett.com/projects/tightsorscarves/</guid>
+      <description>&lt;p&gt;Tights or Scarves is a passion project of mine. I created this app to help women know what to wear in San Francisco&amp;rsquo;s many different micro-climates. I will be shipping the app soon, so stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Beloved Experiences</title>
       <link>http://paigebennett.com/blog/belovedexperiences/</link>
       <pubDate>Tue, 24 Feb 2015 15:38:05 PST</pubDate>
@@ -532,166 +542,6 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 &lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;https://paige@tradecrafted.com/&#34; target=&#34;_blank&#34;&gt;paige@tradecrafted.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vint: A Usability Study</title>
-      <link>http://paigebennett.com/projects/vint/</link>
-      <pubDate>Sat, 06 Dec 2014 19:29:32 PST</pubDate>
-      
-      <guid>http://paigebennett.com/projects/vint/</guid>
-      <description>&lt;p&gt;My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue&amp;ndash; my wedding dress (and fitting nicely into it).&lt;/p&gt;
-
-&lt;p&gt;That concern is largely want made new fitness app Vint catch my eye last week. &lt;a href=&#34;https://www.joinvint.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt; touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.&lt;/p&gt;
-
-&lt;p&gt;Now to be honest, my first few interactions with the app were a bit frustrating. It took me several attempts to find and successfully book a trainer. So in the vein of improvement (and because I want Vint to succeed), I decided to focus a guerrilla usability study on this app.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Platform&lt;/strong&gt;: Android HTC&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: I use Vint to locate and book personal trainers in my area for early morning training sessions. I’ve had some trouble successfully finding and booking a trainer and wanted to test and see if other people had the same issues.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Users&lt;/strong&gt;: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos &lt;a href=&#34;https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Cafe.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;I began by asking them the following filter questions:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;You’ve been given $500 for a personal trainer. How would you go about finding one?&lt;/li&gt;
-&lt;li&gt;Have you used a personal trainer?&lt;/li&gt;
-&lt;li&gt;What do you look for in a personal trainer? Tell me about price, type and location.&lt;/li&gt;
-&lt;li&gt;What was the process of finding a personal trainer process like?&lt;/li&gt;
-&lt;li&gt;If you haven’t used a personal trainer, are you interested in getting one?&lt;/li&gt;
-&lt;li&gt;Tell me about why you haven’t used a personal trainer before.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Tasks&lt;/strong&gt;: I then asked users to complete 4 common tasks that I do most often within the app:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Find an instructor&lt;/li&gt;
-&lt;li&gt;Book a session&lt;/li&gt;
-&lt;li&gt;Request a new session time&lt;/li&gt;
-&lt;li&gt;Cancel a session&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Painpoints.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Pain Point #1: Canceling a Session&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“I don’t know, I really don’t know.” –Paul&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a pain point that I am intimately familiar with. The first time I used Vint, I accidentally booked a session and could not find how to cancel it. As I found from talking to users, I am not the only one who had trouble with this task.&lt;/p&gt;
-
-&lt;p&gt;To cancel a session, you must visit your profile page to view and cancel your bookings. Two of the users gave up during this task, not ever making it to the profile page. They shared with me that they would have contacted the trainer directly to cancel. Two other users who gave up on the task said that it was &amp;ldquo;just not possible to cancel a session.&amp;rdquo; Only one user was able to find and cancel a session without visiting other pages first in search of their booking.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“I’d rather something be in this first page than have to go back to my profile.” –Lisa&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;My Recommendation&lt;/strong&gt;: One of my users referenced what she called her favorite app- Urban Sitter. She said she would have liked to see Vint display recent bookings (with a cancel option) on the main page.&lt;/p&gt;
-
-&lt;p&gt;I used Urban Sitter as my inspiration:&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/baby.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Cancel2.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;(One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I&amp;rsquo;ve contacted Vint and they&amp;rsquo;ve since fixed the bug.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pain Point #2: Hard to notice categorization&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“It’s not giving me a lot of information.” –Oscar&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Category2.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Pain Point #3: Confusing Function of the Vint Logo&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“I think this app is very poorly designed.” –Lisa&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Users would click on the Vint logo expecting it to take them back a page. Instead, the logo took them to the main page. Once in the main page, clicking on the logo would exit users out of the app. Get rid of the Vint logo after the homepage. It’s not needed because you know what app you are in. Instead, include the back arrow to show users how to go back in a page. (leaning on material design). They couldn’t see the back button because the logo asset is too big.&lt;/p&gt;
-
-&lt;p&gt;If you compare the Vint logo to another app&amp;rsquo;s logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/gmail.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;I realize that Vint&amp;rsquo;s design is in keeping with Andriod&amp;rsquo;s design principles but the logo isn&amp;rsquo;t needed- users know what app they&amp;rsquo;re in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Backbutton.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;This is similar to Airbnb&amp;rsquo;s app:&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Airbnb.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;(It&amp;rsquo;s worth noting that when you click on the Vint logo while on the main page, it will exit you out of the app. This happened to every user I interviewed and their reaction was a mixture of surprise, confusion and dismay.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Moving Forward&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;There are several other recommendations that I will be addressing in the near future. Like&amp;hellip;.onboarding! This wasn&amp;rsquo;t something I could complete within a short timeframe but designing an onboarding experience would solve several problems I noticed, including cancelation, confusing profiles and unclear categorization.&lt;/p&gt;
-
-&lt;p&gt;I really like how Pinterest does onboarding and recommend that Vint create a similar experience.&lt;/p&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Pinterest%201.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;/images/Pinterest%204.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;This design is also a little less intensive to create.&lt;/p&gt;
-
-&lt;p&gt;So stay tuned for Vint: Part deux (and updates on how that wedding dress fits).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I do not work for Vint and am not affiliated with them in any way. I do use the app and am passionate about providing delightful user experiences.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
