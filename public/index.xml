@@ -7,7 +7,49 @@
     
     
     
-    <updated>Wed, 18 Mar 2015 11:43:15 PDT</updated>
+    <updated>Fri, 20 Mar 2015 22:31:24 PDT</updated>
+    
+    <item>
+      <title>Being More</title>
+      <link>http://paigebennett.com/blog/beingmore/</link>
+      <pubDate>Fri, 20 Mar 2015 22:31:24 PDT</pubDate>
+      
+      <guid>http://paigebennett.com/blog/beingmore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt;. Inspirer of meals, wedding DIYs and home decor.&lt;/p&gt;
+
+&lt;p&gt;Since it’s creation, Pinterest has become (for some at least) a standard of which to measure different parts of our lives— there’s the Pinterest worthy party, the exclusively DIY wedding, the freezer meal plan and the 100 fun activities to do with children during a snowstorm, to name a few.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to mark Pinterest as a women-centered, homemaker driven medium. And it is favorited by many, many women who fit that mold. But it’s also something much more.&lt;/p&gt;
+
+&lt;p&gt;When you dig into Pinterest beyond what you might expect, it’s sort of like peeling the curtain back on the human mystic— what inspires us, what drives us, what we dream about.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Steve.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;/images/Steve.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;
+Steve Melins.
+&lt;a href=&#34;https://www.pinterest.com/day2hunt/nice-i-like-it/&#34; target=&#34;_blank&#34;&gt;Visit&lt;/a&gt; his profile page and you’ll get a glimpse of PVC pipe projects and DIY farming equipment.&lt;/p&gt;
+
+&lt;p&gt;What I love about Pinterest is that it’s intention is not for you to sit in front of your computer and pin a million different meal options. It’s intention is to inspire you to leave the couch and go make those dinners. Pin a beautiful waterfall? Go hike it. Pin 3 Easy Ways to Learn Spanish? Go learn it.&lt;/p&gt;
+
+&lt;p&gt;But Pinterest is also a product that goes beyond is surface purpose.  I’d like to share with you how I’m using Pinterest in a very different way than you might think.&lt;/p&gt;
+
+&lt;p&gt;First off, you should know that I began my career as a writer; a journalist turned UX Designer.  And so, I’m writing a book. It’s based on some of my experiences living in the Middle East but the characters are fiction. And while it’s based on a true story, the characters I created, especially the protagonist, are very different from myself.&lt;/p&gt;
+
+&lt;p&gt;When I first started to write, I turned to my normal (embarrassing) methods of inspiration. Think soft jazz. But as I began to develop the main character, I wanted more inspiration. I wanted to visualize who she was and so I turned to Pinterest.&lt;/p&gt;
+
+&lt;p&gt;Yes, it’s a visual tool to help us discover things but it’s also more. It can become a visual board  of worlds we create— worlds that exist to us in the everyday or worlds that we aspire to live in.&lt;/p&gt;
+
+&lt;p&gt;I created my Pinterest account and started following boards that my character would be interested in.  The beauty of this approach has been watching my feed develop and grow through the eyes of my character. Seeing the recipes she would cook, the vacations she would plan or the way she would decorate her house has given me creative fuel in writing this character. Her main feed makes me feel like I&amp;rsquo;m peeking into a coffee date with her friends. It’s turned a one-dimensional exercise into a multilayered, rich visual experience and fuel for the creative fire.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/Kate.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Kate&#39;s Main Feed&#34;&gt;&lt;img src=&#34;/images/Steve.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Kate&amp;rsquo;s Main Feed&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s what’s so magical about Pinterest. Those moments when the product goes beyond and the users can interact with it on a deeper level.&lt;/p&gt;
+
+&lt;p&gt;I wonder if Ben Silbermann ever thought Pinterest would be used as a storyboard for the characters and worlds artists create? As a designer, I cannot imagine a better feeling than watching someone use what I’ve created in a way that I myself could never have pictured.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Frustrating Filter</title>
@@ -434,114 +476,6 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
   &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
   &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
 &lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pinterest: Persona to Prototype</title>
-      <link>http://paigebennett.com/projects/pinterest/</link>
-      <pubDate>Mon, 15 Dec 2014 17:55:14 PST</pubDate>
-      
-      <guid>http://paigebennett.com/projects/pinterest/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
-
-&lt;p&gt;You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
-
-&lt;p&gt;For example, you cannot filter your main feed to display only home decor-related pins from your pinners.&lt;/p&gt;
-
-&lt;p&gt;As a solution, I created a filter feature that allows you to filter your main feed by category.&lt;/p&gt;
-
-&lt;p&gt;To give you a better idea, here&amp;rsquo;s a video of the prototype I created.
-&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The purpose of the filter button is to display content within a set of specific criteria. This feature will shape the content you see into pins that are most helpful to you. Say you are looking for inspiration for home decor. You may now find inspiration faster because your main feed has become more dynamic and impactful through being able to filter the pins you are seeing.&lt;/p&gt;
-
-&lt;p&gt;In order to create this feature, I first began with a persona: hard-working mom Alee. She&amp;rsquo;s a busy stay-at-home mom with an 8 month old baby and is redecorating her home room by room.&lt;/p&gt;
-
-&lt;p&gt;Alee loves DIY projects and turns to Pinterest for inspiration. She curates the content on her Pinterest feed by following &amp;ldquo;pinners&amp;rdquo; that reflect a similar style as Alee&amp;rsquo;s. Even so, her main feed is a mixture of pins ranging from various categories. This is not always helpful, especially when Alee scrolls through her main feed while on mobile.&lt;/p&gt;
-
-&lt;p&gt;Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&amp;rsquo;s interested in.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/AleePersona.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;/images/AleePersona.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Alee Persona&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After rounding out my persona to include richer behavioral and needs insights, I created the design stories and task flows. This influenced the wire frames and prototype that I was then able to create. Let&amp;rsquo;s take a look at these different components.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Design Stories&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This feature will allow Alee to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;filter her feed by category&lt;/li&gt;
-&lt;li&gt;select a category to view&lt;/li&gt;
-&lt;li&gt;view her main feed based on a preset category&lt;/li&gt;
-&lt;li&gt;add a filter to her feed&lt;/li&gt;
-&lt;li&gt;remove a filter from her feed&lt;/li&gt;
-&lt;li&gt;find a pin based on her category preference&lt;/li&gt;
-&lt;li&gt;(and with much more ease), &amp;ldquo;Heart&amp;rdquo; and/or &amp;ldquo;Pin&amp;rdquo; a pin she likes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Task Flow&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Alee&amp;rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &amp;ldquo;heart&amp;rdquo; a pin or &amp;ldquo;pin&amp;rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/Pinterest Task Flow.jpg&#34; data-lightbox=&#34;task-flow&#34; data-title=&#34;Pinterest Task Flow&#34;&gt;&lt;img src=&#34;/images/Pinterest Task Flow.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;UI Sketches&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/UIsketches.jpg&#34; data-lightbox=&#34;wireFrames&#34; data-title=&#34;WireFrames&#34;&gt;&lt;img src=&#34;/images/WireFrames.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Wireframes (and a few fun surprises)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
-I had used the filter icon that&amp;rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&amp;hellip;.not choose a category. Uh oh!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/filter.jpg&#34; data-lightbox=&#34;filter-example&#34; data-title=&#34;Filter Example&#34;&gt;&lt;img src=&#34;/images/filter.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/fitmob.jpg&#34; data-lightbox=&#34;fitmob-example&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img src=&#34;/images/fitmob.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s simple and direct. There&amp;rsquo;s no doubting what this button does.&lt;/p&gt;
-
-&lt;p&gt;My wireframes will help explain:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/Wireframes 1.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 1&#34;&gt;&lt;img src=&#34;/images/Wireframes 1.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/Updatedwireframe.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 2&#34;&gt;&lt;img src=&#34;/images/Updatedwireframe.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/Wireframes 4.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 4&#34;&gt;&lt;img src=&#34;/images/Wireframes 4.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;My prototype will help give you a taste at how this feature would work.&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Learnings &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As I worked through the process of creating this feature, I learned that the most obvious answer isn&amp;rsquo;t always the best one (see the filter icon dilemma above). Like &lt;a href=&#34;https://twitter.com/jjg/&#34;target=&#34;_blank&#34;&gt;Jesse James Garrett&lt;/a&gt; cautions in his book &lt;em&gt;The Elements of User Experience&lt;/em&gt;, my filter feature does create a few edge cases.&lt;/p&gt;
-
-&lt;p&gt;For example: lets say Alee chooses the Cars &amp;amp; Motorcycles category and none of the pinners she follows have users this category of content. What message would she see? Or while Pinterest has &amp;lsquo;Recent Categories,&amp;rsquo; would it be of value to also include the ability to preset a list of categories?&lt;/p&gt;
-
-&lt;p&gt;These are both questions that have cropped up &lt;em&gt;because&lt;/em&gt; of my feature. My next steps would include working through these edge cases and creating the best solution.&lt;/p&gt;
-
-&lt;p&gt;I am also not convinced that the current filter button is the best way to represent the button&amp;rsquo;s functionality. There could be other icons that also communicate the intent, while staying in line with the Pinterest look and feel. I would want to explore this further.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While the filter button helps users curate their content, I believe that there&amp;rsquo;s much more to explore. This one feature only scratched the surface. So stay tuned for more. This story is certainly not over.&lt;/p&gt;
-
-&lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;https://paige@tradecrafted.com/&#34; target=&#34;_blank&#34;&gt;paige@tradecrafted.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
