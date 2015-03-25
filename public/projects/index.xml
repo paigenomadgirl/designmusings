@@ -10,12 +10,44 @@
     <updated>Mon, 16 Mar 2015 12:55:51 -0800</updated>
     
     <item>
-      <title>Tights or Scarves?</title>
+      <title>Iteration #1: Tights or Scarves App</title>
       <link>http://paigebennett.com/projects/tightsorscarves/</link>
       <pubDate>Mon, 16 Mar 2015 12:55:51 -0800</pubDate>
       
       <guid>http://paigebennett.com/projects/tightsorscarves/</guid>
-      <description>&lt;p&gt;Tights or Scarves is a passion project of mine. I created this app to help women know what to wear in San Francisco&amp;rsquo;s many different micro-climates. I will be shipping the app soon, so stay tuned!&lt;/p&gt;
+      <description>&lt;p&gt;San Francisco has a plethora of &lt;a href=&#34;hhttp://en.wikipedia.org/wiki/Microclimate&#34; target=&#34;_blank&#34;&gt;microclimates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On any given day, you could wakeup warm and sunny at home and work and arrive at work to be greeted by cold and fog. It’s just part of life in the Bay.&lt;/p&gt;
+
+&lt;p&gt;So it can be frustrating to know how to dress among many different climates.&lt;/p&gt;
+
+&lt;p&gt;After moving from Austin to San Francisco, I would joke with my fiancée that I didn’t know whether to wear tights, scarves or both each day. Inevitably, I would dress for one climate and not the other. Oh, the layering.&lt;/p&gt;
+
+&lt;p&gt;This joke led me to create my first app: Tights or Scarves.&lt;/p&gt;
+
+&lt;p&gt;The first thing I did was whiteboard out the app- from the design stories, through task flow and UI sketches.&lt;/p&gt;
+
+&lt;p&gt;If you’re not familiar with whiteboarding, check out &lt;a href=&#34;https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; awesome Medium article about the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/whiteboard.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;/images/whiteboard.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Whiteboarding Out the App&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I also did an exercise called six-ups, which challenges you to think of six different designs for one task.  It allowed me to take a step back and think of less conventional, more creative ways of presenting information in my app. It also gave me design options, which proved&lt;/p&gt;
+
+&lt;p&gt;Here’s how it works. We ask you how you dress in different weather and what neighborhoods you live and work in.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/images/screenshots.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;/images/screenshots.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;A Few Screens&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyday, you open your app and depending on the weather forecast, Tights or Scarves shows you whether you’ll need tights, scarves, a coat and a few quirky suggestions to keep the experience delightful.&lt;/p&gt;
+
+&lt;p&gt;The premise is simple and hopefully will make dressing for SF weather easier and way more fun.&lt;/p&gt;
+
+&lt;p&gt;This is my first interation. This app will evolve as I make changes.&lt;/p&gt;
+
+&lt;p&gt;If you have an Andriod and like to try it out, you can download it &lt;a href=&#34;tights-or-scarf-app.1.00.04.apkc&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is an early build. It will be in the Play Store soon.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

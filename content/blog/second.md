@@ -1,15 +1,15 @@
 +++
 date = "2014-11-28T13:58:43-08:00"
 draft = false
-title = "My First User Study (The Shaky, Grass Roots Edition) "
+title = "User Study Realness (The Grass Roots Edition) "
 
 +++
 
-One of the things I’m most excited about at Tradecraft is getting the opportunity to study and implement user studies following the lean startup philosophy.
+I've done user studies for several years but I’m excited about getting the opportunity to implement user studies following the lean startup philosophy.
 
 From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.
 
-I should set the stage now and share with you that up to this point, my experience with user studies have been purely grassroots. Really grassroots. But, since my goal for this blog is to be one that highlights (hopefully) progress, let me introduce you to User Study #1: The Grassroots Edition.
+I should set the stage now and share with you that I love looking back on user studies I've done in the past. Especially those that were purely grassroots. Really grassroots. Let me introduce you to to one of these gems. 
 
 Right off the bat, I can tell you how we wrongly went about this study: we didn’t first form a hypothesis that we were trying to answer.
 
