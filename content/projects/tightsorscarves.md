@@ -13,7 +13,7 @@ San Francisco has a plethora of <a href="hhttp://en.wikipedia.org/wiki/Microclim
 
 This is my first interation. This app will evolve as I make changes.
 
-If you have an Andriod and like to try it out, you can download it <a href="/data/tights-or-scarf-app.1.00.04.apkc" target="_blank">here</a>.
+If you have an Andriod and like to try it out, you can download it <a href="/images/tights-or-scarf-app-1.00.04.apk" target="_blank">here</a>.
 
 *This is an early build. It will be in the Play Store soon.*
   
