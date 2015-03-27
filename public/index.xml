@@ -139,7 +139,7 @@
 
 &lt;p&gt;The premise is simple and hopefully will make dressing for SF weather easier and way more fun.&lt;/p&gt;
 
-&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;/images/tights-or-scarf-app-1.00.04.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;/images/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is an early build. It will be in the Play Store soon.&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -476,16 +476,6 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     </item>
     
     <item>
-      <title>Contact Thanks</title>
-      <link>http://paigebennett.com/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
-      
-      <guid>http://paigebennett.com/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>http://paigebennett.com/contact/</link>
       <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
@@ -509,6 +499,16 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
   &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
   &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
 &lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Thanks</title>
+      <link>http://paigebennett.com/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 PST</pubDate>
+      
+      <guid>http://paigebennett.com/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
 </description>
     </item>
     

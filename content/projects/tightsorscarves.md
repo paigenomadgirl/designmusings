@@ -11,7 +11,7 @@ San Francisco has a plethora of <a href="hhttp://en.wikipedia.org/wiki/Microclim
 <div class="image-caption">Whiteboarding Out the App</div>I also did an exercise called six-ups, which challenges you to think of six different designs for one task.  It allowed me to take a step back and think of less conventional, more creative ways of presenting information in my app. It also gave me design options to chose from.Here’s how it works. We ask you how you dress in different weather and what neighborhoods you live and work in. We then take your dress preferences and using a weather API, suggest clothing based upon the weather forecast and customized to each neighborhood. <a href="/images/screenshots.png" data-lightbox="persona" data-title="Screen Shots"><img src="/images/screenshots.png"/></a>
 <div class="image-caption">A Few Screens</div>Everyday you open your app and depending on the weather forecast, Tights or Scarves shows you whether you’ll need tights, scarves, a coat and a few quirky suggestions to keep the experience delightful. The premise is simple and hopefully will make dressing for SF weather easier and way more fun.
 
-If you have an Andriod and would like to try it out, you can download it <a href="/images/tights-or-scarf-app-1.00.04.apk" target="_blank">here</a>.
+If you have an Andriod and would like to try it out, you can download it <a href="/images/tights-or-scarf-app-1.00.05.apk" target="_blank">here</a>.
 
 *This is an early build. It will be in the Play Store soon.*
   
