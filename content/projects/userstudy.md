@@ -1,7 +1,7 @@
 +++
 date = "2015-03-28T10:24:39-07:00"
 draft = false
-title = "Ethnography In The Middle East Part 1"
+title = "Ethnography In The Middle East"
 
 +++
 
