@@ -16,8 +16,8 @@ It is not enough to trust the company. Trust begins first with the individual. T
 
 In Omani culture, problems are talked around versus talked about. This lessens the chance that someone might shame a business associate by pointing out conflict. 
 
-<a href="/images/problem.jpg" data-lightbox="persona" data-title="Problems"><img src="/images/problem.jpg"/></a>
-<div class="image-caption">This is one of 10 personas created within the first few weeks of research.</div>**Creating The Persona**After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:
+<a href="/images/problem.jpg" data-lightbox="persona" data-title="Problems"><img src="/images/problems.jpg"/></a>
+<div class="image-caption">The concept simplified.</div>**Creating The Persona**After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:
 
-<a href="/images/Omanpersona.pdf" data-lightbox="persona" data-title="OmanPersona"><img src="/images/Omanpersona.pdf"/></a>
+<a href="/images/Omanpersona.png" data-lightbox="persona" data-title="OmanPersona"><img src="/images/Omanpersona.png"/></a>
 <div class="image-caption">This is one of 10 personas created within the first few weeks of research.</div>**Conclusion**Studying the Omani people helped me map and understand the complexities behind decision making in business and the people who would use our product. This in turn helped our company target the right group of people and create a product that they needed. Stay tuned for Part 2 as I explain how I addressed usability studies in gender-conscious environments. 
