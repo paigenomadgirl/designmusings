@@ -18,3 +18,10 @@ params:
     company: 	    Paige Bennett
     portfolio_link: /portfolio/
     linkedin:     paigebennett
+  portfolio:
+    title:        "Portfolio Of Awesome Stuff"
+    subtitle:     "Some of my selected works"
+  header:
+    lead_in:      "I'm a UX Research Designer!"
+    heading:      "Check me out!"
+    more_button:  "Scroll down..."
