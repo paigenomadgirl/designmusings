@@ -1,0 +1,36 @@
+{
+	"portfolio": [
+		{
+			"name": "@BIZ",
+			"image": "/images/team/biz.jpg"
+		},
+		{
+			"name": "@BEN",
+			"image": "/images/team/ben.jpg"
+		},
+		{
+			"name": "@KADAR",
+			"image": "/images/team/brian.jpg"
+		},
+		{
+			"name": "@JAZZYCHAD",
+			"image": "/images/team/chad.jpg"
+		},
+		{
+			"name": "@THORBEN",
+			"image": "/images/team/thorben.jpg"
+		},
+		{
+			"name": "@EVERYDAYDUDE",
+			"image": "/images/team/aaron.jpg"
+		},
+		{
+			"name": "@JEFFREY",
+			"image": "/images/team/jeffrey.jpg"
+		},
+		{
+			"name": "#SECURITY",
+			"image": "/images/team/leroy.jpg"
+		}
+	]
+}

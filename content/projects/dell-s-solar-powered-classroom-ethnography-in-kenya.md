@@ -2,7 +2,7 @@
 date = "2015-03-29T14:10:51-07:00"
 draft = false
 title = "Dell's Solar Powered Classroom: Ethonography in Kenya"
-
+modallink = "dellsolar"
 +++
 
 This project included enthopgraphy of schoolchildren in Nigeria to better understand the need for a solar powered "classroom in a box."

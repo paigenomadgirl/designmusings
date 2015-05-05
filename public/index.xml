@@ -2,232 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musings on Design</title>
-    <link>http://paigebennett.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Musings on Design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Nov 2014 12:55:29 -0800</lastBuildDate>
-    <atom:link href="http://paigebennett.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About Me</title>
-      <link>http://paigebennett.com/about/</link>
-      <pubDate>Fri, 28 Nov 2014 12:55:29 -0800</pubDate>
+      <title></title>
+      <link>http://localhost:1313/projects/ethnography-in-the-middle-east/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://paigebennett.com/about/</guid>
-      <description>&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://paigebennett.com/images/Paige.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
+      <guid>http://localhost:1313/projects/ethnography-in-the-middle-east/</guid>
+      <description>&lt;p&gt;+++
+date = &amp;ldquo;2015-03-28T10:24:39-07:00&amp;rdquo;
+draft = false
+title = &amp;ldquo;Ethnography In The Middle East&amp;rdquo;
+modallink = &amp;ldquo;middleeast&amp;rdquo;
++++&lt;/p&gt;
 
-Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.&lt;/p&gt;
-
-&lt;p&gt;I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things.  I&amp;rsquo;m learning to code and build this site piece by piece. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Being More</title>
-      <link>http://paigebennett.com/blog/beingmore/</link>
-      <pubDate>Fri, 20 Mar 2015 22:31:24 -0700</pubDate>
-      
-      <guid>http://paigebennett.com/blog/beingmore/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt;. Inspirer of meals, wedding DIYs and home decor.&lt;/p&gt;
-
-&lt;p&gt;Since it’s creation, Pinterest has become (for some at least) a standard of which to measure different parts of our lives— there’s the Pinterest worthy party, the exclusively DIY wedding, the freezer meal plan and the 100 fun activities to do with children during a snowstorm, to name a few.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s easy to mark Pinterest as a women-centered, homemaker driven medium. And it is favorited by many, many women who fit that mold. But it’s also something much more.&lt;/p&gt;
-
-&lt;p&gt;When you dig into Pinterest beyond what you might expect, it’s sort of like peeling the curtain back on the human mystic— what inspires us, what drives us, what we dream about.&lt;/p&gt;
-
-&lt;p&gt;Here’s an example of user Steve Melins and his profile.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Steve.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Steve&#39;s Profile&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Steve.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.pinterest.com/day2hunt/nice-i-like-it/&#34; target=&#34;_blank&#34;&gt;Visit&lt;/a&gt; his profile page and you’ll get a glimpse of PVC pipe projects and DIY farming equipment.&lt;/p&gt;
-
-&lt;p&gt;What I love about Pinterest is that it’s intention is not for you to sit in front of your computer and pin a million different meal options. It’s intention is to inspire you to leave the couch and go make those dinners. Pin a beautiful waterfall? Go hike it. Pin 3 Easy Ways to Learn Spanish? Go learn it.&lt;/p&gt;
-
-&lt;p&gt;But Pinterest is also a product that goes beyond is surface purpose.  I’d like to share with you how I’m using Pinterest in a very different way than you might think.&lt;/p&gt;
-
-&lt;p&gt;First off, you should know that I began my career as a writer; a journalist turned UX Designer.  And so, I’m writing a book. It’s based on some of my experiences living in the Middle East but the characters are fiction. And while it’s based on a true story, the characters I created, especially the protagonist, are very different from myself.&lt;/p&gt;
-
-&lt;p&gt;When I first started to write, I turned to my normal (embarrassing) methods of inspiration. Think soft jazz. But as I began to develop the main character, I wanted more inspiration. I wanted to visualize who she was and so I turned to Pinterest.&lt;/p&gt;
-
-&lt;p&gt;Yes, it’s a visual tool to help us discover things but it’s also more. It can become a visual board  of worlds we create— worlds that exist to us in the everyday or worlds that we aspire to live in.&lt;/p&gt;
-
-&lt;p&gt;I created my Pinterest account and started following boards that my character would be interested in.  The beauty of this approach has been watching my feed develop and grow through the eyes of my character. Seeing the recipes she would cook, the vacations she would plan or the way she would decorate her house has given me creative fuel in writing this character. Her main feed makes me feel like I&amp;rsquo;m peeking into a coffee date with her friends. It’s turned a one-dimensional exercise into a multilayered, rich visual experience and fuel for the creative fire.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Kate.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Kate&#39;s Main Feed&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Steve.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Kate&amp;rsquo;s Main Feed&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Katevsme.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Kate Vs Me&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Katevsme.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;For comparison, here&amp;rsquo;s Kate&amp;rsquo;s main feed at the top and mine at the bottom.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;And that’s what’s so magical about Pinterest. Those moments when the product goes beyond and the users can interact with it on a deeper level.&lt;/p&gt;
-
-&lt;p&gt;I wonder if Ben Silbermann ever thought Pinterest would be used as a storyboard for the characters and worlds artists create? As a designer, I cannot imagine a better feeling than watching someone use what I’ve created in a way that I myself could never have pictured.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Beloved Experiences</title>
-      <link>http://paigebennett.com/blog/belovedexperiences/</link>
-      <pubDate>Tue, 24 Feb 2015 15:38:05 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/blog/belovedexperiences/</guid>
-      <description>&lt;p&gt;When is the last time you’ve had what you would describe as a “joyful experience” with a product? As a designer, I hope that people who use the products I create have a memorable, truly joyful experience.  (You see how I’m avoiding the word “delightful?” More on that in a separate post)&lt;/p&gt;
-
-&lt;p&gt;I’d like to share a few beloved experiences with you that will hopefully inspire your design approach.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Nostalgic App&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/timehop.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Timehop&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/timehop.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Just download it now if you haven&amp;rsquo;t already!&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://timehop.com/&#34; target=&#34;_blank&#34;&gt;Timehop&lt;/a&gt; is the one app that I am actually excited to open each day. Why? The nostaligia factor. Timehop shows you the things you’ve posted on social media this day one, two, three, etc. years ago.&lt;/p&gt;
-
-&lt;p&gt;Sometimes it’s a bittersweet memory, like of my time living abroad in Oman. Other times, it’s a sweet reminder of when new chapters began, like moving to San Francisco.&lt;/p&gt;
-
-&lt;p&gt;It is one of the few apps that truly makes me sad when it’s buggy and doesn’t operate correctly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The MidCentury Modern Planter&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/planter.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Case Planters&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/planter.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Case Planters&lt;/div&gt;
-When you think of beloved experiences, think of both the virtual and physical products you interact with. For me, one of my most favorite products are these two planters I purchased last year from &lt;a href=&#34;http://modernica.net/case-study-cylinder-plant-pot-with-standbrlarge.html/&#34; target=&#34;_blank&#34;&gt;Modernica&lt;/a&gt;. Why do I love them? For one, their design speaks to me. I’m a MidCentury nut.  Two, the product does exactly what it describes. It holds my plants safely and doesn’t leak water. It’s a logical product that displays beauty.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Creative Medium&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/beloved.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Pinterest&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/beloved.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;My Pinterest Main Feed&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;I love Pinterest…and I don’t mean for just cooking inspiration. I actually use &lt;a href=&#34;https://www.pinterest.com/&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; as a visual inspiration board for the stories I write. Here’s a secret - I’m writing a book currently. It’s based on real events but the characters are fictional. In order to get into the character’s head, I created a Pinterest profile and began following the types of pins that this character would care about. Before long, I created a visual board representing my character that now serves as inspiration when I write. This has made Pinterest much more than a vehicle for crockpot recipes. It’s make for a beloved (and creatively necessary) experience&lt;/p&gt;
-
-&lt;p&gt;So what about you? What are some beloved experiences you&amp;rsquo;ve had with products? &lt;a href=&#34;https://twitter.com/paigenomadgirl/&#34; target=&#34;_blank&#34;&gt;Tweet&lt;/a&gt; me and let me know!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://paigebennett.com/contact/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/contact/</guid>
-      <description>&lt;h2&gt;I&#39;d love to hear from you!&lt;/h2&gt;
-
-&lt;form action=&#34;https://getsimpleform.com/messages?form_api_token=b31f239fea056c89596a288c31b1a94d&#34; method=&#34;post&#34;&gt;
-  First Name: &lt;input type=&#39;text&#39; name=&#39;first_name&#39; /&gt;
-  &lt;/br&gt;
-  &lt;/br&gt;
-  Last Name: &lt;input type=&#39;text&#39; name=&#39;last_name&#39; /&gt;
-  &lt;/br&gt;
-  &lt;/br&gt;
-  Email Address: &lt;input type=&#39;text&#39; name=&#39;email_address&#39; /&gt;
-  &lt;/br&gt;
-  &lt;/br&gt;
-  Message: &lt;textarea name=&#39;message&#39; rows=8&gt;&lt;/textarea&gt;
-  &lt;/br&gt;
-  &lt;/br&gt;
-  &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
-  &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
-&lt;/form&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact Thanks</title>
-      <link>http://paigebennett.com/contact-thanks/</link>
-      <pubDate>Sun, 11 Jan 2015 21:13:11 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/contact-thanks/</guid>
-      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;http://paigebennett.com/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dell&#39;s Solar Powered Classroom: Ethonography in Kenya</title>
-      <link>http://paigebennett.com/projects/dell-s-solar-powered-classroom-ethnography-in-kenya/</link>
-      <pubDate>Sun, 29 Mar 2015 14:10:51 -0700</pubDate>
-      
-      <guid>http://paigebennett.com/projects/dell-s-solar-powered-classroom-ethnography-in-kenya/</guid>
-      <description>&lt;p&gt;This project included enthopgraphy of schoolchildren in Nigeria to better understand the need for a solar powered &amp;ldquo;classroom in a box.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;I will be updating this post soon to highlight user research and the end product— a classroom powered by the sun.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, check out these artciles about this amazing project!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.forbes.com/sites/heatherclancy/2014/07/14/no-grid-no-problem-for-dells-solar-powered-classroom/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;No grid? No Problem For Dell&amp;rsquo;s Solar Powered Classroom&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://http://www.dell.com/learn/us/en/vn/corp-comm/solar-power-youth-learning&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Solar-powered classrooms harness the power of technology and teamwork to educate youth&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://techpageone.dell.com/tech-culture/bright-idea-rural-solar-powered-classroom/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;From bright idea to rural solar-powered classroom&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Don’t mind me staring at you, I’m just sketching</title>
-      <link>http://paigebennett.com/blog/sketches/</link>
-      <pubDate>Thu, 22 Jan 2015 09:37:56 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/blog/sketches/</guid>
-      <description>&lt;p&gt;Drawing has always been a bit intimidating to me. I can see an idea or concept in my head but when it comes to putting pen to paper and communicating it visually, I would freeze up.&lt;/p&gt;
-
-&lt;p&gt;So when we were given the assignment (challenge?) to draw 100 sketches in 2 days, I was nervous. So nervous. But, I love observing and people watching, which is an integral part of sketching.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Allpictures.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;A Few of My Sketches&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Allpictures.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;A Few of My Sketches.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the past few days, I’ve opened my eyes to lines, shapes and flows. I’ve found more grace with my drawing ability.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Thing.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Things. All found in my house.&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Things.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Things. All found in my house.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;We were given exactly 100 cards, so if I mess up, I push on rather than trash the card and start over. It was surprisingly freeing.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Interaction.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;People. Ladies chat during lunch.&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Interaction.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;People. Ladies chat during lunch.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;People were the biggest challenge for me but I learned to focus more on their shapes than details.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Withlaptop.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Context. I sketched many of my fellow Tradecrafters interacting with their phones and computers.&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Withlaptop.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Context. I sketched many of my fellow Tradecrafters interacting with their phones and computers.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;The more I sketched, the easier it became to do this- especially helpful when I tried to sketch movement.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Motion.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Flow. A lady pushing a stroller, a man running in the Embarcadero.&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Motion.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Flow. A lady pushing a stroller, a man running in the Embarcadero.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Sketching a space from above proved to be an interesting challenge and it made me consider space between objects more closely. (It also inspired me to rearrange my furniture.)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Space.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Space. Aerial views of my bedroom &amp; living room.&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Space.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Space. Aerial view of my bedroom &amp;amp; living room.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;As hesitant as I felt on Monday about sketching, I really enjoyed this assignment. It gave me a little more confidence in drawing and helped me to see the space around me in a different light.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ethnography In The Middle East</title>
-      <link>http://paigebennett.com/portfolio/ethnography-in-the-middle-east/</link>
-      <pubDate>Sat, 28 Mar 2015 10:24:39 -0700</pubDate>
-      
-      <guid>http://paigebennett.com/portfolio/ethnography-in-the-middle-east/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethnography In The Middle East</title>
-      <link>http://paigebennett.com/projects/ethnography-in-the-middle-east/</link>
-      <pubDate>Sat, 28 Mar 2015 10:24:39 -0700</pubDate>
-      
-      <guid>http://paigebennett.com/projects/ethnography-in-the-middle-east/</guid>
-      <description>&lt;p&gt;For a few years, I lived and worked in the Middle East, developing a user strategy for a small startup. Much of my job was to study how cultural beliefs impact business decision-making and public speaking.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/whereilived.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Where I Lived&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/whereilived.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;For a few years, I lived and worked in the Middle East, developing a user strategy for a small startup. Much of my job was to study how cultural beliefs impact business decision-making and public speaking.
+&lt;a href=&#34;http://localhost:1313/images/whereilived.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Where I Lived&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/whereilived.png&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Here&amp;rsquo;s where I lived! The lovely city of Muscat in Oman.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;It was a fascinating time and shaped much of my understanding of how culture impacts how you use and interpret technology.&lt;/p&gt;
@@ -244,7 +38,7 @@ When you think of beloved experiences, think of both the virtual and physical pr
 
 &lt;p&gt;Here’s a tip: if you want to fail at doing business in the Middle East, rush into meetings and get down to business straight away.  The plucky expat who tries to talk about business immediately misses a very important aspect of the culture: trust.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/what.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;OmanPersona&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/what.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/what.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;OmanPersona&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/what.jpg&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Business meetings begin with asking about family and health. This is to establish/reiterate the need for trust of the individual (as family) in order to do business.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;In my research I found that trust is garnered over family settings like breaking bread and drinking coffee. Business becomes more trusted only after the businessperson becomes like family.&lt;/p&gt;
@@ -259,14 +53,14 @@ When you think of beloved experiences, think of both the virtual and physical pr
 
 &lt;p&gt;In Omani culture, problems are talked around versus talked about. This lessens the chance that someone might shame a business associate by pointing out conflict.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/problem.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Problems&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/problems.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/problem.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Problems&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/problems.jpg&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;The concept simplified.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Creating The Persona&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Omanpersona.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;OmanPersona&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Omanpersona.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Omanpersona.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;OmanPersona&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Omanpersona.png&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;This is one of 10 personas created within the first few weeks of research.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
@@ -278,89 +72,19 @@ When you think of beloved experiences, think of both the virtual and physical pr
     </item>
     
     <item>
-      <title>Iteration #1: Tights or Scarves App</title>
-      <link>http://paigebennett.com/projects/tightsorscarves/</link>
-      <pubDate>Mon, 16 Mar 2015 12:55:51 -0800</pubDate>
+      <title></title>
+      <link>http://localhost:1313/projects/pinterest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://paigebennett.com/projects/tightsorscarves/</guid>
-      <description>&lt;p&gt;San Francisco has a plethora of &lt;a href=&#34;hhttp://en.wikipedia.org/wiki/Microclimate&#34; target=&#34;_blank&#34;&gt;microclimates&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/projects/pinterest/</guid>
+      <description>&lt;p&gt;+++
+date = &amp;ldquo;2014-12-15T17:55:14-08:00&amp;rdquo;
+draft = false
+title = &amp;ldquo;Pinterest: Persona to Prototype&amp;rdquo;
+modallink = &amp;ldquo;pinterest&amp;rdquo;
++++&lt;/p&gt;
 
-&lt;p&gt;On any given day, you could wakeup warm and sunny at home and work and arrive at work to be greeted by cold and fog. It’s just part of life in the Bay.&lt;/p&gt;
-
-&lt;p&gt;So it can be frustrating to know how to dress among many different climates.&lt;/p&gt;
-
-&lt;p&gt;After moving from Austin to San Francisco, I would joke with my fiancée that I didn’t know whether to wear tights, scarves or both each day. Inevitably, I would dress for one climate and not the other. Oh, the layering.&lt;/p&gt;
-
-&lt;p&gt;This joke led me to create my first app: Tights or Scarves.&lt;/p&gt;
-
-&lt;p&gt;The first thing I did was whiteboard out the app- from the design stories, through task flow and UI sketches.&lt;/p&gt;
-
-&lt;p&gt;If you’re not familiar with whiteboarding, check out &lt;a href=&#34;https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; awesome Medium article about the process.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/whiteboard.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/whiteboard.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Whiteboarding Out the App&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;I also did an exercise called six-ups, which challenges you to think of six different designs for one task.  It allowed me to take a step back and think of less conventional, more creative ways of presenting information in my app. It also gave me design options to chose from.&lt;/p&gt;
-
-&lt;p&gt;Here’s how it works. We ask you how you dress in different weather and what neighborhoods you live and work in. We then take your dress preferences and using a weather API, suggest clothing based upon the weather forecast and customized to each neighborhood.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/screenshots.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/screenshots.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;A Few Screens&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Everyday you open your app and depending on the weather forecast, Tights or Scarves shows you whether you’ll need tights, scarves, a coat and a few quirky suggestions to keep the experience delightful.&lt;/p&gt;
-
-&lt;p&gt;The premise is simple and hopefully will make dressing for SF weather easier and way more fun.&lt;/p&gt;
-
-&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;http://paigebennett.com/images/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is an early build. It will be in the Play Store soon.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Just Commit It Already: My Adventures In Coding</title>
-      <link>http://paigebennett.com/blog/JustCommitIt/</link>
-      <pubDate>Wed, 28 Jan 2015 22:53:46 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/blog/JustCommitIt/</guid>
-      <description>&lt;p&gt;I am a coder. It sounds weird to see that written out. Maybe that’s because it’s a rather new adventure in my life. Or maybe it’s because for years, I saw coding as swathed in a veil of mystery. Websites and apps just happened. Sure, there was someone on the other side making it happen but for the most part, it just seemed like magic.&lt;/p&gt;
-
-&lt;p&gt;I am not a good coder (yet). I am not an experienced coder. But I’m excited to learn.&lt;/p&gt;
-
-&lt;p&gt;Read the rest of my story on &lt;a href=&#34;https://medium.com/@paigenomadgirl/just-commit-it-already-3c823797c&#34;_blank&#34;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Life’s Too Short To Wait For The Check: A UX Case Study of OpenTable’s New Payments Feature</title>
-      <link>http://paigebennett.com/blog/opentable/</link>
-      <pubDate>Sun, 25 Jan 2015 16:06:39 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/blog/opentable/</guid>
-      <description>&lt;p&gt;What if paying for your meal could be effortless, fluid and simple? Just one click on your phone and boom — bill paid, out the door and onto the next adventure. This was the question that OpenTable’s design team dived into. The end result of their discovery is a feature that allows you to view and pay your check through the &lt;a href=&#34;http://www.opentable.com&#34; target=&#34;_blank&#34;&gt;OpenTable&lt;/a&gt; app.&lt;/p&gt;
-
-&lt;p&gt;Recently, Seth Andrezejewski, a User Experience Researcher for OpenTable, spoke at Tradecraft and shared a glimpse into the journey his team took to create this new feature.&lt;/p&gt;
-
-&lt;p&gt;Read my &lt;a href=&#34;https://medium.com/@paigenomadgirl/lifes-too-short-to-wait-for-the-check-8652dfde9ef3&#34; target=&#34;_blank&#34;&gt;Medium&lt;/a&gt; piece to learn more.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pinterest</title>
-      <link>http://paigebennett.com/portfolio/pinterest/</link>
-      <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pinterest: Persona to Prototype</title>
-      <link>http://paigebennett.com/projects/pinterest/</link>
-      <pubDate>Mon, 15 Dec 2014 17:55:14 -0800</pubDate>
-      
-      <guid>http://paigebennett.com/projects/pinterest/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
 
 &lt;p&gt;You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
 
@@ -381,62 +105,56 @@ When you think of beloved experiences, think of both the virtual and physical pr
 
 &lt;p&gt;Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&amp;rsquo;s interested in.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/AleePersona.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/AleePersona.jpg&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;Alee Persona&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/AleePersona.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/AleePersona.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Alee Persona&lt;/div&gt;
+&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After rounding out my persona to include richer behavioral and needs insights, I created the design stories and task flows. This influenced the wire frames and prototype that I was then able to create. Let&amp;rsquo;s take a look at these different components.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Design Stories&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This feature will allow Alee to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;filter her feed by category&lt;/li&gt;
-&lt;li&gt;select a category to view&lt;/li&gt;
-&lt;li&gt;view her main feed based on a preset category&lt;/li&gt;
-&lt;li&gt;add a filter to her feed&lt;/li&gt;
-&lt;li&gt;remove a filter from her feed&lt;/li&gt;
-&lt;li&gt;find a pin based on her category preference&lt;/li&gt;
-&lt;li&gt;(and with much more ease), &amp;ldquo;Heart&amp;rdquo; and/or &amp;ldquo;Pin&amp;rdquo; a pin she likes&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This feature will allow Alee to:
+- filter her feed by category
+- select a category to view
+- view her main feed based on a preset category
+- add a filter to her feed
+- remove a filter from her feed
+- find a pin based on her category preference
+- (and with much more ease), &amp;ldquo;Heart&amp;rdquo; and/or &amp;ldquo;Pin&amp;rdquo; a pin she likes&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Task Flow&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Alee&amp;rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &amp;ldquo;heart&amp;rdquo; a pin or &amp;ldquo;pin&amp;rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Pinterest Task Flow.jpg&#34; data-lightbox=&#34;task-flow&#34; data-title=&#34;Pinterest Task Flow&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Pinterest Task Flow.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Pinterest Task Flow.jpg&#34; data-lightbox=&#34;task-flow&#34; data-title=&#34;Pinterest Task Flow&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Pinterest Task Flow.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;UI Sketches&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/UIsketches.jpg&#34; data-lightbox=&#34;wireFrames&#34; data-title=&#34;WireFrames&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/WireFrames.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/UIsketches.jpg&#34; data-lightbox=&#34;wireFrames&#34; data-title=&#34;WireFrames&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/WireFrames.jpg&#34;/&gt;&lt;/a&gt;
+One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Wireframes (and a few fun surprises)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
 I had used the filter icon that&amp;rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&amp;hellip;.not choose a category. Uh oh!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/filter.jpg&#34; data-lightbox=&#34;filter-example&#34; data-title=&#34;Filter Example&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/filter.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/filter.jpg&#34; data-lightbox=&#34;filter-example&#34; data-title=&#34;Filter Example&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/filter.jpg&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/fitmob.jpg&#34; data-lightbox=&#34;fitmob-example&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/fitmob.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/fitmob.jpg&#34; data-lightbox=&#34;fitmob-example&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/fitmob.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s simple and direct. There&amp;rsquo;s no doubting what this button does.&lt;/p&gt;
 
 &lt;p&gt;My wireframes will help explain:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Wireframes 1.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 1&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Wireframes 1.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Wireframes 1.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 1&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Wireframes 1.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Updatedwireframe.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 2&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Updatedwireframe.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Updatedwireframe.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 2&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Updatedwireframe.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/Wireframes 4.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 4&#34;&gt;&lt;img src=&#34;http://paigebennett.com/images/Wireframes 4.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Wireframes 4.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 4&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Wireframes 4.jpg&#34;/&gt;&lt;/a&gt;
+&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;My prototype will help give you a taste at how this feature would work.&lt;/p&gt;
 
@@ -463,11 +181,299 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     </item>
     
     <item>
-      <title>Solar Powered</title>
-      <link>http://paigebennett.com/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</link>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 28 Nov 2014 12:55:29 -0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://localhost:1313/images/Paige.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+Southerner meets San Francisco. I began my career in a newsroom, made a home in Oman and Austin along the way.&lt;/p&gt;
+
+&lt;p&gt;I love the written word and figuring out the &amp;lsquo;why?&amp;rsquo; in things.  I&amp;rsquo;m learning to code and build this site piece by piece. Welcome to my journey into UX design. Pull up a chair and I&amp;rsquo;ll pour you a drink.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Being More</title>
+      <link>http://localhost:1313/blog/beingmore/</link>
+      <pubDate>Fri, 20 Mar 2015 22:31:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/blog/beingmore/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt;. Inspirer of meals, wedding DIYs and home decor.&lt;/p&gt;
+
+&lt;p&gt;Since it’s creation, Pinterest has become (for some at least) a standard of which to measure different parts of our lives— there’s the Pinterest worthy party, the exclusively DIY wedding, the freezer meal plan and the 100 fun activities to do with children during a snowstorm, to name a few.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to mark Pinterest as a women-centered, homemaker driven medium. And it is favorited by many, many women who fit that mold. But it’s also something much more.&lt;/p&gt;
+
+&lt;p&gt;When you dig into Pinterest beyond what you might expect, it’s sort of like peeling the curtain back on the human mystic— what inspires us, what drives us, what we dream about.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of user Steve Melins and his profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Steve.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Steve&#39;s Profile&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Steve.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.pinterest.com/day2hunt/nice-i-like-it/&#34; target=&#34;_blank&#34;&gt;Visit&lt;/a&gt; his profile page and you’ll get a glimpse of PVC pipe projects and DIY farming equipment.&lt;/p&gt;
+
+&lt;p&gt;What I love about Pinterest is that it’s intention is not for you to sit in front of your computer and pin a million different meal options. It’s intention is to inspire you to leave the couch and go make those dinners. Pin a beautiful waterfall? Go hike it. Pin 3 Easy Ways to Learn Spanish? Go learn it.&lt;/p&gt;
+
+&lt;p&gt;But Pinterest is also a product that goes beyond is surface purpose.  I’d like to share with you how I’m using Pinterest in a very different way than you might think.&lt;/p&gt;
+
+&lt;p&gt;First off, you should know that I began my career as a writer; a journalist turned UX Designer.  And so, I’m writing a book. It’s based on some of my experiences living in the Middle East but the characters are fiction. And while it’s based on a true story, the characters I created, especially the protagonist, are very different from myself.&lt;/p&gt;
+
+&lt;p&gt;When I first started to write, I turned to my normal (embarrassing) methods of inspiration. Think soft jazz. But as I began to develop the main character, I wanted more inspiration. I wanted to visualize who she was and so I turned to Pinterest.&lt;/p&gt;
+
+&lt;p&gt;Yes, it’s a visual tool to help us discover things but it’s also more. It can become a visual board  of worlds we create— worlds that exist to us in the everyday or worlds that we aspire to live in.&lt;/p&gt;
+
+&lt;p&gt;I created my Pinterest account and started following boards that my character would be interested in.  The beauty of this approach has been watching my feed develop and grow through the eyes of my character. Seeing the recipes she would cook, the vacations she would plan or the way she would decorate her house has given me creative fuel in writing this character. Her main feed makes me feel like I&amp;rsquo;m peeking into a coffee date with her friends. It’s turned a one-dimensional exercise into a multilayered, rich visual experience and fuel for the creative fire.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Kate.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Kate&#39;s Main Feed&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Steve.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Kate&amp;rsquo;s Main Feed&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Katevsme.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Kate Vs Me&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Katevsme.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;For comparison, here&amp;rsquo;s Kate&amp;rsquo;s main feed at the top and mine at the bottom.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s what’s so magical about Pinterest. Those moments when the product goes beyond and the users can interact with it on a deeper level.&lt;/p&gt;
+
+&lt;p&gt;I wonder if Ben Silbermann ever thought Pinterest would be used as a storyboard for the characters and worlds artists create? As a designer, I cannot imagine a better feeling than watching someone use what I’ve created in a way that I myself could never have pictured.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beloved Experiences</title>
+      <link>http://localhost:1313/blog/belovedexperiences/</link>
+      <pubDate>Tue, 24 Feb 2015 15:38:05 -0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/belovedexperiences/</guid>
+      <description>&lt;p&gt;When is the last time you’ve had what you would describe as a “joyful experience” with a product? As a designer, I hope that people who use the products I create have a memorable, truly joyful experience.  (You see how I’m avoiding the word “delightful?” More on that in a separate post)&lt;/p&gt;
+
+&lt;p&gt;I’d like to share a few beloved experiences with you that will hopefully inspire your design approach.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Nostalgic App&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/timehop.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Timehop&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/timehop.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Just download it now if you haven&amp;rsquo;t already!&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://timehop.com/&#34; target=&#34;_blank&#34;&gt;Timehop&lt;/a&gt; is the one app that I am actually excited to open each day. Why? The nostaligia factor. Timehop shows you the things you’ve posted on social media this day one, two, three, etc. years ago.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it’s a bittersweet memory, like of my time living abroad in Oman. Other times, it’s a sweet reminder of when new chapters began, like moving to San Francisco.&lt;/p&gt;
+
+&lt;p&gt;It is one of the few apps that truly makes me sad when it’s buggy and doesn’t operate correctly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The MidCentury Modern Planter&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/planter.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Case Planters&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/planter.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Case Planters&lt;/div&gt;
+When you think of beloved experiences, think of both the virtual and physical products you interact with. For me, one of my most favorite products are these two planters I purchased last year from &lt;a href=&#34;http://modernica.net/case-study-cylinder-plant-pot-with-standbrlarge.html/&#34; target=&#34;_blank&#34;&gt;Modernica&lt;/a&gt;. Why do I love them? For one, their design speaks to me. I’m a MidCentury nut.  Two, the product does exactly what it describes. It holds my plants safely and doesn’t leak water. It’s a logical product that displays beauty.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Creative Medium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/beloved.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Pinterest&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/beloved.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;My Pinterest Main Feed&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I love Pinterest…and I don’t mean for just cooking inspiration. I actually use &lt;a href=&#34;https://www.pinterest.com/&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; as a visual inspiration board for the stories I write. Here’s a secret - I’m writing a book currently. It’s based on real events but the characters are fictional. In order to get into the character’s head, I created a Pinterest profile and began following the types of pins that this character would care about. Before long, I created a visual board representing my character that now serves as inspiration when I write. This has made Pinterest much more than a vehicle for crockpot recipes. It’s make for a beloved (and creatively necessary) experience&lt;/p&gt;
+
+&lt;p&gt;So what about you? What are some beloved experiences you&amp;rsquo;ve had with products? &lt;a href=&#34;https://twitter.com/paigenomadgirl/&#34; target=&#34;_blank&#34;&gt;Tweet&lt;/a&gt; me and let me know!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 -0800</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2&gt;I&#39;d love to hear from you!&lt;/h2&gt;
+
+&lt;form action=&#34;https://getsimpleform.com/messages?form_api_token=b31f239fea056c89596a288c31b1a94d&#34; method=&#34;post&#34;&gt;
+  First Name: &lt;input type=&#39;text&#39; name=&#39;first_name&#39; /&gt;
+  &lt;/br&gt;
+  &lt;/br&gt;
+  Last Name: &lt;input type=&#39;text&#39; name=&#39;last_name&#39; /&gt;
+  &lt;/br&gt;
+  &lt;/br&gt;
+  Email Address: &lt;input type=&#39;text&#39; name=&#39;email_address&#39; /&gt;
+  &lt;/br&gt;
+  &lt;/br&gt;
+  Message: &lt;textarea name=&#39;message&#39; rows=8&gt;&lt;/textarea&gt;
+  &lt;/br&gt;
+  &lt;/br&gt;
+  &lt;input type=&#39;hidden&#39; name=&#39;redirect_to&#39; value=&#39;http://www.paigebennett.com/contact-thanks/&#39; /&gt;
+  &lt;input type=&#39;submit&#39; value=&#39;Submit&#39; /&gt;
+&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Thanks</title>
+      <link>http://localhost:1313/contact-thanks/</link>
+      <pubDate>Sun, 11 Jan 2015 21:13:11 -0800</pubDate>
+      
+      <guid>http://localhost:1313/contact-thanks/</guid>
+      <description>&lt;h2&gt;I&#39;ll be in touch. In the meantime, check out my recent &lt;a href=&#34;http://localhost:1313/portfolio/&#34;&gt;projects&lt;/a&gt;.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dell&#39;s Solar Powered Classroom: Ethonography in Kenya</title>
+      <link>http://localhost:1313/projects/dell-s-solar-powered-classroom-ethnography-in-kenya/</link>
+      <pubDate>Sun, 29 Mar 2015 14:10:51 -0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/dell-s-solar-powered-classroom-ethnography-in-kenya/</guid>
+      <description>&lt;p&gt;This project included enthopgraphy of schoolchildren in Nigeria to better understand the need for a solar powered &amp;ldquo;classroom in a box.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I will be updating this post soon to highlight user research and the end product— a classroom powered by the sun.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, check out these artciles about this amazing project!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.forbes.com/sites/heatherclancy/2014/07/14/no-grid-no-problem-for-dells-solar-powered-classroom/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;No grid? No Problem For Dell&amp;rsquo;s Solar Powered Classroom&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://http://www.dell.com/learn/us/en/vn/corp-comm/solar-power-youth-learning&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Solar-powered classrooms harness the power of technology and teamwork to educate youth&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://techpageone.dell.com/tech-culture/bright-idea-rural-solar-powered-classroom/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;From bright idea to rural solar-powered classroom&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Don’t mind me staring at you, I’m just sketching</title>
+      <link>http://localhost:1313/blog/sketches/</link>
+      <pubDate>Thu, 22 Jan 2015 09:37:56 -0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/sketches/</guid>
+      <description>&lt;p&gt;Drawing has always been a bit intimidating to me. I can see an idea or concept in my head but when it comes to putting pen to paper and communicating it visually, I would freeze up.&lt;/p&gt;
+
+&lt;p&gt;So when we were given the assignment (challenge?) to draw 100 sketches in 2 days, I was nervous. So nervous. But, I love observing and people watching, which is an integral part of sketching.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Allpictures.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;A Few of My Sketches&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Allpictures.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;A Few of My Sketches.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the past few days, I’ve opened my eyes to lines, shapes and flows. I’ve found more grace with my drawing ability.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Thing.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Things. All found in my house.&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Things.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Things. All found in my house.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;We were given exactly 100 cards, so if I mess up, I push on rather than trash the card and start over. It was surprisingly freeing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Interaction.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;People. Ladies chat during lunch.&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Interaction.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;People. Ladies chat during lunch.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;People were the biggest challenge for me but I learned to focus more on their shapes than details.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Withlaptop.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Context. I sketched many of my fellow Tradecrafters interacting with their phones and computers.&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Withlaptop.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Context. I sketched many of my fellow Tradecrafters interacting with their phones and computers.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;The more I sketched, the easier it became to do this- especially helpful when I tried to sketch movement.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Motion.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Flow. A lady pushing a stroller, a man running in the Embarcadero.&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Motion.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Flow. A lady pushing a stroller, a man running in the Embarcadero.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Sketching a space from above proved to be an interesting challenge and it made me consider space between objects more closely. (It also inspired me to rearrange my furniture.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Space.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Space. Aerial views of my bedroom &amp; living room.&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Space.jpg&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Space. Aerial view of my bedroom &amp;amp; living room.&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;As hesitant as I felt on Monday about sketching, I really enjoyed this assignment. It gave me a little more confidence in drawing and helped me to see the space around me in a different light.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethnography In The Middle East</title>
+      <link>http://localhost:1313/portfolio/ethnography-in-the-middle-east/</link>
+      <pubDate>Sat, 28 Mar 2015 10:24:39 -0700</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/ethnography-in-the-middle-east/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iteration #1: Tights or Scarves App</title>
+      <link>http://localhost:1313/projects/tightsorscarves/</link>
+      <pubDate>Mon, 16 Mar 2015 12:55:51 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/tightsorscarves/</guid>
+      <description>&lt;p&gt;San Francisco has a plethora of &lt;a href=&#34;hhttp://en.wikipedia.org/wiki/Microclimate&#34; target=&#34;_blank&#34;&gt;microclimates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On any given day, you could wakeup warm and sunny at home and work and arrive at work to be greeted by cold and fog. It’s just part of life in the Bay.&lt;/p&gt;
+
+&lt;p&gt;So it can be frustrating to know how to dress among many different climates.&lt;/p&gt;
+
+&lt;p&gt;After moving from Austin to San Francisco, I would joke with my fiancée that I didn’t know whether to wear tights, scarves or both each day. Inevitably, I would dress for one climate and not the other. Oh, the layering.&lt;/p&gt;
+
+&lt;p&gt;This joke led me to create my first app: Tights or Scarves.&lt;/p&gt;
+
+&lt;p&gt;The first thing I did was whiteboard out the app- from the design stories, through task flow and UI sketches.&lt;/p&gt;
+
+&lt;p&gt;If you’re not familiar with whiteboarding, check out &lt;a href=&#34;https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; awesome Medium article about the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/whiteboard.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/whiteboard.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;Whiteboarding Out the App&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I also did an exercise called six-ups, which challenges you to think of six different designs for one task.  It allowed me to take a step back and think of less conventional, more creative ways of presenting information in my app. It also gave me design options to chose from.&lt;/p&gt;
+
+&lt;p&gt;Here’s how it works. We ask you how you dress in different weather and what neighborhoods you live and work in. We then take your dress preferences and using a weather API, suggest clothing based upon the weather forecast and customized to each neighborhood.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/screenshots.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/screenshots.png&#34;/&gt;&lt;/a&gt;
+&lt;div class=&#34;image-caption&#34;&gt;A Few Screens&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyday you open your app and depending on the weather forecast, Tights or Scarves shows you whether you’ll need tights, scarves, a coat and a few quirky suggestions to keep the experience delightful.&lt;/p&gt;
+
+&lt;p&gt;The premise is simple and hopefully will make dressing for SF weather easier and way more fun.&lt;/p&gt;
+
+&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;http://localhost:1313/images/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is an early build. It will be in the Play Store soon.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just Commit It Already: My Adventures In Coding</title>
+      <link>http://localhost:1313/blog/JustCommitIt/</link>
+      <pubDate>Wed, 28 Jan 2015 22:53:46 -0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/JustCommitIt/</guid>
+      <description>&lt;p&gt;I am a coder. It sounds weird to see that written out. Maybe that’s because it’s a rather new adventure in my life. Or maybe it’s because for years, I saw coding as swathed in a veil of mystery. Websites and apps just happened. Sure, there was someone on the other side making it happen but for the most part, it just seemed like magic.&lt;/p&gt;
+
+&lt;p&gt;I am not a good coder (yet). I am not an experienced coder. But I’m excited to learn.&lt;/p&gt;
+
+&lt;p&gt;Read the rest of my story on &lt;a href=&#34;https://medium.com/@paigenomadgirl/just-commit-it-already-3c823797c&#34;_blank&#34;&gt;Medium&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Life’s Too Short To Wait For The Check: A UX Case Study of OpenTable’s New Payments Feature</title>
+      <link>http://localhost:1313/blog/opentable/</link>
+      <pubDate>Sun, 25 Jan 2015 16:06:39 -0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/opentable/</guid>
+      <description>&lt;p&gt;What if paying for your meal could be effortless, fluid and simple? Just one click on your phone and boom — bill paid, out the door and onto the next adventure. This was the question that OpenTable’s design team dived into. The end result of their discovery is a feature that allows you to view and pay your check through the &lt;a href=&#34;http://www.opentable.com&#34; target=&#34;_blank&#34;&gt;OpenTable&lt;/a&gt; app.&lt;/p&gt;
+
+&lt;p&gt;Recently, Seth Andrezejewski, a User Experience Researcher for OpenTable, spoke at Tradecraft and shared a glimpse into the journey his team took to create this new feature.&lt;/p&gt;
+
+&lt;p&gt;Read my &lt;a href=&#34;https://medium.com/@paigenomadgirl/lifes-too-short-to-wait-for-the-check-8652dfde9ef3&#34; target=&#34;_blank&#34;&gt;Medium&lt;/a&gt; piece to learn more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>http://localhost:1313/portfolio/pinterest/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
       
-      <guid>http://paigebennett.com/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</guid>
+      <guid>http://localhost:1313/portfolio/pinterest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Powered</title>
+      <link>http://localhost:1313/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</link>
+      <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</guid>
       <description></description>
     </item>
     
