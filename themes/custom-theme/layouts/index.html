@@ -115,7 +115,7 @@
 
     <!-- Portfolio Modal 1 -->
     {{ range first 10 (where .Data.Pages "Section" "projects") }}
-        {{ .Render "single" }}
+        {{ .Render "projects" }}
     {{ end }}
 
 {{ partial "tail.html" .}}

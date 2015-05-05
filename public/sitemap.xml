@@ -8,14 +8,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/ethnography-in-the-middle-east/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/projects/pinterest/</loc>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2014-11-28T12:55:29-08:00</lastmod>
   </url>
@@ -56,6 +48,11 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/projects/ethnography-in-the-middle-east/</loc>
+    <lastmod>2015-03-28T10:24:39-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/projects/tightsorscarves/</loc>
     <lastmod>2015-03-16T12:55:51-08:00</lastmod>
   </url>
@@ -73,6 +70,11 @@
   <url>
     <loc>http://localhost:1313/portfolio/pinterest/</loc>
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/pinterest/</loc>
+    <lastmod>2014-12-15T17:55:14-08:00</lastmod>
   </url>
   
   <url>
