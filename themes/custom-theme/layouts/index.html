@@ -97,7 +97,7 @@
                 </div>
             </div>
             <div class="row">
-                {{ range where .Data.Pages.ByTitle  "Section" "portfolio" }}
+                {{ range where .Data.Pages.ByTitle "Section" "portfolio" }}
                     {{ .Render "portfolio" }}
                 {{ end }}
             </div>
@@ -114,8 +114,8 @@
     <!-- Use the modals below to showcase details about your portfolio projects! -->
 
     <!-- Portfolio Modal 1 -->
-    {{ range where .Data.Pages.ByTitle  "Section" "projects" }}
-        {{ .Render "projects" }}
+    {{ range first 10 (where .Data.Pages "Section" "projects") }}
+        {{ .Render "single" }}
     {{ end }}
 
 {{ partial "tail.html" .}}
