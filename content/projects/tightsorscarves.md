@@ -2,7 +2,8 @@
 date = "2015-03-16T12:55:51-08:00"
 draft = false
 title = "Iteration #1: Tights or Scarves App"
-
+subtitle = "subtitle not set yet"
+modallink = "tightsandscarves"
 +++
 
 San Francisco has a plethora of <a href="hhttp://en.wikipedia.org/wiki/Microclimate" target="_blank">microclimates</a>. On any given day, you could wakeup warm and sunny at home and work and arrive at work to be greeted by cold and fog. It’s just part of life in the Bay. So it can be frustrating to know how to dress among many different climates. After moving from Austin to San Francisco, I would joke with my fiancée that I didn’t know whether to wear tights, scarves or both each day. Inevitably, I would dress for one climate and not the other. Oh, the layering. This joke led me to create my first app: Tights or Scarves. The first thing I did was whiteboard out the app- from the design stories, through task flow and UI sketches. If you’re not familiar with whiteboarding, check out <a href="https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c" target="_blank">this</a> awesome Medium article about the process.

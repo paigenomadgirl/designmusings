@@ -114,8 +114,8 @@
     <!-- Use the modals below to showcase details about your portfolio projects! -->
 
     <!-- Portfolio Modal 1 -->
-    {{ range first 10 (where .Data.Pages "Section" "blog") }}
-        {{ .Render "single" }}
+    {{ range first 10 (where .Data.Pages "Section" "projects") }}
+        {{ .Render "projects" }}
     {{ end }}
 
 {{ partial "tail.html" .}}

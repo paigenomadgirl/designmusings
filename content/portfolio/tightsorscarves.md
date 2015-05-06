@@ -8,6 +8,6 @@ sitelink = "http://spf13.com"
 bloglink = "tightsorscarves"
 blogsummary = "Tights or Scarves: Passion Project. App Creation, Design & Development. Shipping Soon."
 sourceLink = "http://github.com/spf13/spf13.com"
-
+modallink = "tightsandscarves"
 +++
 

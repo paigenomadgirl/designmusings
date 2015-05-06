@@ -8,6 +8,6 @@ sitelink = "http://spf13.com"
 bloglink = "spotonpart2"
 blogsummary = "SpotOn Part 2: Personas. Usability Test. New Feature Creation. Wireframes. Design Recommendations."
 sourceLink = "http://github.com/spf13/spf13.com"
-
+modallink = "spoton2"
 +++
 

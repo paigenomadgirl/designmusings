@@ -6,4 +6,5 @@ thumbnail = "/images/vint1.png"
 title = "Vint"
 blogLink = "vint"
 blogsummary = "Vint: Usability Test. Pain Points Identified. Design Recommendations."
+modallink = "vint"
 +++

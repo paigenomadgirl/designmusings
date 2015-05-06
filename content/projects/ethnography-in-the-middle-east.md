@@ -2,12 +2,13 @@
 date = "2015-03-28T10:24:39-07:00"
 draft = false
 title = "Ethnography In The Middle East"
+subtitle = "subtitle not set yet"
 modallink = "middleeast"
 +++
 
 For a few years, I lived and worked in the Middle East, developing a user strategy for a small startup. Much of my job was to study how cultural beliefs impact business decision-making and public speaking. 
 
-<a href="/images/whereilived.png" data-lightbox="persona" data-title="Where I Lived"><img src="/images/whereilived.png"/></a>
+<img class="img-responsive img-centered" src="/images/whereilived.png" alt="">
 <div class="image-caption">Here's where I lived! The lovely city of Muscat in Oman.</div>
 
 It was a fascinating time and shaped much of my understanding of how culture impacts how you use and interpret technology. 
@@ -25,7 +26,8 @@ So the first thing I did? I sat in on business meetings.
 
 Here’s a tip: if you want to fail at doing business in the Middle East, rush into meetings and get down to business straight away.  The plucky expat who tries to talk about business immediately misses a very important aspect of the culture: trust. 
 
-<a href="/images/what.jpg" data-lightbox="persona" data-title="OmanPersona"><img src="/images/what.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/what2.jpg" alt="">
+
 <div class="image-caption">Business meetings begin with asking about family and health. This is to establish/reiterate the need for trust of the individual (as family) in order to do business.</div>
 
 In my research I found that trust is garnered over family settings like breaking bread and drinking coffee. Business becomes more trusted only after the businessperson becomes like family.

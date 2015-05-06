@@ -2,7 +2,8 @@
 date = "2014-12-06T19:29:32-08:00"
 draft = false
 title = "Vint: A Usability Study"
-
+subtitle = "subtitle not set yet"
+modallink = "vint"
 +++
 
 My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue-- my wedding dress (and fitting nicely into it).

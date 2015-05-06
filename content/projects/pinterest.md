@@ -2,7 +2,8 @@
 date = "2014-12-15T17:55:14-08:00"
 draft = false
 title = "Pinterest: Persona to Prototype"
-
+subtitle = "subtitle not set yet"
+modallink = "pinterest"
 +++
 
 <a href="http://www.pinterest.com" target="_blank">Pinterest</a> is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that "pinning" something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you're truly interested in.

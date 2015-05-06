@@ -8,6 +8,6 @@ sitelink = "http://spf13.com"
 bloglink= "together10"
 blogsummary = "Together10: Messaging Study. A/B Testing. Design Recommendations. Shipped Design."
 sourceLink = "http://github.com/spf13/spf13.com"
-
+modallink = "together10"
 +++
 
