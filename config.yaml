@@ -20,8 +20,8 @@ params:
     linkedin:     paigebennett
   portfolio:
     title:        "My Work"
-    subtitle:     "A littl of this. A little of that."
+    subtitle:     "A little of this. A little of that."
   header:
-    lead_in:      "Hi. I'm a UX Designer and User Researcher"
-    heading:      "It's nice to meet you."
+    lead_in:      "I'm a UX Designer and User Researcher"
+    heading:      "It's so nice to meet you."
     more_button:  "See More"
