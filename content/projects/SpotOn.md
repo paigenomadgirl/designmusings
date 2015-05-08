@@ -5,7 +5,7 @@ title = "SpotOn Part 1: Listing A Spot"
 modallink = "spoton1"
 +++
 
-<a href: "/http://spotonparking.com/" target=_blank">SpotOn</a> is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I'm a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn. 
+<a href="http://spotonparking.com/" target=_blank">SpotOn</a> is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I'm a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn. 
 
 If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers.  
 
@@ -80,5 +80,5 @@ Our analysis found that most issues lie within the ‘Listers Registration’ pa
 
 Beyond this recommendation, SpotOn also implemented our recommendations for quick wins.  
 
-<a href: "http://www.paigebennett.com/projects/spotonpart2/" target="_blank">Click here</a> for Part 2 of my work with SpotOn's Parkers page. 
+<a href="/projects/spotonpart2/" target="_blank">Click here</a> for Part 2 of my work with SpotOn's Parkers page. 
 

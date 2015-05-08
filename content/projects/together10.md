@@ -5,7 +5,7 @@ title = "Together10: Messaging & A/B Testing"
 modallink = "together10"
 +++
 
-<a href: "http://together10.com/" target="_blank">Together10</a> is a beta site that sends parents daily, quick lessons to explore with their children. It's a service created with the busy parent in mind. Each lesson takes 10 minutes or less to complete and is designed around what Together10 calls the "Together10 Advantage."
+<a href="http://together10.com/" target="_blank">Together10</a> is a beta site that sends parents daily, quick lessons to explore with their children. It's a service created with the busy parent in mind. Each lesson takes 10 minutes or less to complete and is designed around what Together10 calls the "Together10 Advantage."
 
 **Opportunity**
 

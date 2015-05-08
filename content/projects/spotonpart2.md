@@ -5,10 +5,10 @@ title = "SpotOn Part 2: Finding A Parking Spot"
 modallink = "spoton2"
 +++
 
-<a href: "/http://spotonparking.com/" target=_blank">SpotOn</a> is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I'm a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn. 
+<a href="http://spotonparking.com/" target=_blank">SpotOn</a> is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I'm a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn. 
 
 SpotOn has two site experiences: Listers & Parkers. 
-In <a href: "/http://www.paigebennett.com/projects/SpotOn" target=_blank">Part 1</a>, I shared how we helped SpotOn redesign the listers site. Now, I'll show you how we redesigned the parkers site. 
+In <a href="/projects/SpotOn" target=_blank">Part 1</a>, I shared how we helped SpotOn redesign the listers site. Now, I'll show you how we redesigned the parkers site. 
 
 **Opportunity**
 
@@ -63,4 +63,4 @@ Our analysis found that most issues lie within the ‘Spot Availability’ and �
 
 SpotOn will be implementing these recommendations over time and I'll keep you updated as they move forward!
 
-<a href: "http://www.paigebennett.com/projects/SpotOn/" target=_blank">Click here</a> for Part 1 of my work with SpotOn's Listers page. 
+<a href="/projects/SpotOn/" target=_blank">Click here</a> for Part 1 of my work with SpotOn's Listers page. 
