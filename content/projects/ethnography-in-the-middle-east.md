@@ -42,14 +42,14 @@ I experienced this first-hand early on after scolding a client for sending a con
 
 In Omani culture, problems are talked around versus talked about. This lessens the chance that someone might shame a business associate by pointing out conflict. 
 
-<a href="/images/problem.jpg" data-lightbox="persona" data-title="Problems"><img src="/images/problems.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/problems.jpg" alt="">
 <div class="image-caption">The concept simplified.</div>
 
 **Creating The Persona**
 
 After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:
 
-<a href="/images/Omanpersona.png" data-lightbox="persona" data-title="OmanPersona"><img src="/images/Omanpersona.png"/></a>
+<img class="img-responsive img-centered" src="/images/Omanpersona.png" alt="">
 <div class="image-caption">This is one of 10 personas created within the first few weeks of research.</div>
 
 **Conclusion**

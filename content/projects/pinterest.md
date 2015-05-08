@@ -2,7 +2,6 @@
 date = "2014-12-15T17:55:14-08:00"
 draft = false
 title = "Pinterest: Persona to Prototype"
-subtitle = "subtitle not set yet"
 modallink = "pinterest"
 +++
 
@@ -15,6 +14,7 @@ For example, you cannot filter your main feed to display only home decor-related
 As a solution, I created a filter feature that allows you to filter your main feed by category. 
 
 To give you a better idea, here's a video of the prototype I created. 
+
 <iframe width="560" height="420" src="//www.youtube.com/embed/o3G0VbCgDjo" frameborder="0" allowfullscreen></iframe>
 
 **Purpose**
@@ -27,7 +27,7 @@ Alee loves DIY projects and turns to Pinterest for inspiration. She curates the 
 
 Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she's interested in. 
 
-<a href="/images/AleePersona.jpg" data-lightbox="persona" data-title="Alee Persona"><img src="/images/AleePersona.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/AleePersona.jpg" alt="">
 <div class="image-caption">Alee Persona</div>
 
 **Process**
@@ -50,11 +50,11 @@ This feature will allow Alee to:
 
 Alee's motive for using Pinterest is to reference pins she likes. I decided that she would most likely either "heart" a pin or "pin" a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions. 
 
-<a href="/images/Pinterest Task Flow.jpg" data-lightbox="task-flow" data-title="Pinterest Task Flow"><img src="/images/Pinterest Task Flow.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/Pinterest Task Flow.jpg" alt="">
 
 **UI Sketches**
 
-<a href="/images/UIsketches.jpg" data-lightbox="wireFrames" data-title="WireFrames"><img src="/images/WireFrames.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/WireFrames.jpg" alt="">
 
 One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route. 
 
@@ -63,22 +63,22 @@ One thing I learned during this part of the process was that the categories need
 After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing. 
 I had used the filter icon that's part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content....not choose a category. Uh oh!
 
-<a href="/images/filter.jpg" data-lightbox="filter-example" data-title="Filter Example"><img src="/images/filter.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/filter.jpg" alt="">
 <div class="image-caption">Does this filter or sort?</div>
 
 At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration. 
 
-<a href="/images/fitmob.jpg" data-lightbox="fitmob-example" data-title="Fitmob Example"><img src="/images/fitmob.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/fitmob.jpg" alt="">
 
 It's simple and direct. There's no doubting what this button does. 
 
 My wireframes will help explain:
 
-<a href="/images/Wireframes 1.jpg" data-lightbox="wireframes-group" data-title="Wireframe 1"><img src="/images/Wireframes 1.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/Wireframes 1.jpg" alt="">
 
-<a href="/images/Updatedwireframe.jpg" data-lightbox="wireframes-group" data-title="Wireframe 2"><img src="/images/Updatedwireframe.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/Updatedwireframe.jpg" alt="">
 
-<a href="/images/Wireframes 4.jpg" data-lightbox="wireframes-group" data-title="Wireframe 4"><img src="/images/Wireframes 4.jpg"/></a>
+<img class="img-responsive img-centered" src="/images/Wireframes 4.jpg" alt="">
 
 **Prototype**
 
@@ -101,7 +101,7 @@ I am also not convinced that the current filter button is the best way to repres
 
 While the filter button helps users curate their content, I believe that there's much more to explore. This one feature only scratched the surface. So stay tuned for more. This story is certainly not over. 
 
-Questions or feedback? Reach out to me: <a href="https://paige@tradecrafted.com/" target="_blank">paige@tradecrafted.com</a>
+Questions or feedback? Reach out to me: <a href="mailto://paige@tradecrafted.com/">paige@tradecrafted.com</a>
 
 *I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration.*
 

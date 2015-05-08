@@ -768,6 +768,10 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.modal-body p {
+    text-align: left;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;

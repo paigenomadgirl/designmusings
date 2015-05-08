@@ -69,14 +69,14 @@
 
 &lt;p&gt;In Omani culture, problems are talked around versus talked about. This lessens the chance that someone might shame a business associate by pointing out conflict.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/problem.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Problems&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/problems.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/problems.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;The concept simplified.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Creating The Persona&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Omanpersona.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;OmanPersona&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Omanpersona.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Omanpersona.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;This is one of 10 personas created within the first few weeks of research.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
@@ -373,8 +373,9 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;As a solution, I created a filter feature that allows you to filter your main feed by category.&lt;/p&gt;
 
-&lt;p&gt;To give you a better idea, here&amp;rsquo;s a video of the prototype I created.
-&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;To give you a better idea, here&amp;rsquo;s a video of the prototype I created.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;//www.youtube.com/embed/o3G0VbCgDjo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;
 
@@ -386,7 +387,7 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&amp;rsquo;s interested in.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/AleePersona.jpg&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Alee Persona&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/AleePersona.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AleePersona.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Alee Persona&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
@@ -411,11 +412,11 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;Alee&amp;rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &amp;ldquo;heart&amp;rdquo; a pin or &amp;ldquo;pin&amp;rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Pinterest Task Flow.jpg&#34; data-lightbox=&#34;task-flow&#34; data-title=&#34;Pinterest Task Flow&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Pinterest Task Flow.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Pinterest Task Flow.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;UI Sketches&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/UIsketches.jpg&#34; data-lightbox=&#34;wireFrames&#34; data-title=&#34;WireFrames&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/WireFrames.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/WireFrames.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.&lt;/p&gt;
 
@@ -424,22 +425,22 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 &lt;p&gt;After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
 I had used the filter icon that&amp;rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&amp;hellip;.not choose a category. Uh oh!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/filter.jpg&#34; data-lightbox=&#34;filter-example&#34; data-title=&#34;Filter Example&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/filter.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/filter.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/fitmob.jpg&#34; data-lightbox=&#34;fitmob-example&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/fitmob.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/fitmob.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s simple and direct. There&amp;rsquo;s no doubting what this button does.&lt;/p&gt;
 
 &lt;p&gt;My wireframes will help explain:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Wireframes 1.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 1&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Wireframes 1.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Wireframes 1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Updatedwireframe.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 2&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Updatedwireframe.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Updatedwireframe.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Wireframes 4.jpg&#34; data-lightbox=&#34;wireframes-group&#34; data-title=&#34;Wireframe 4&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Wireframes 4.jpg&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Wireframes 4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
 
@@ -461,7 +462,7 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;While the filter button helps users curate their content, I believe that there&amp;rsquo;s much more to explore. This one feature only scratched the surface. So stay tuned for more. This story is certainly not over.&lt;/p&gt;
 
-&lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;https://paige@tradecrafted.com/&#34; target=&#34;_blank&#34;&gt;paige@tradecrafted.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Questions or feedback? Reach out to me: &lt;a href=&#34;mailto://paige@tradecrafted.com/&#34;&gt;paige@tradecrafted.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;I do not work for Pinterest. I just love the app and owe most of my homemade dinners to Pinterest inspiration.&lt;/em&gt;&lt;/p&gt;
 </description>
