@@ -769,6 +769,11 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.single-header {
+    margin-top: 100px;
+    padding: 50px;
+}
+
 .modal-body p {
     text-align: left;
 }
