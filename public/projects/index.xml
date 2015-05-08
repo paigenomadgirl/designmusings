@@ -107,6 +107,8 @@
 
 &lt;p&gt;If you’re not familiar with whiteboarding, check out &lt;a href=&#34;https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; awesome Medium article about the process.&lt;/p&gt;
 
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/whiteboard.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/whiteboard.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/whiteboard.png&#34;/&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Whiteboarding Out the App&lt;/div&gt;&lt;/p&gt;
 
@@ -150,47 +152,40 @@ In &lt;a href: &#34;/http://www.paigebennett.com/projects/SpotOn&#34; target=_bl
 
 &lt;p&gt;We categorized each pain point as one of discoverability, information input, user orientation and feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Matrix.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Matrix.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Matrix.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Landing Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Parkerspage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Before Landing Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Parkerspage.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Parkerspage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/ParkersLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Design Recommendations for the Landing Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/ParkersLandingPage.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/ParkersLandingPage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Spot Availability Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/spotpage_before.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Before Spot Availability Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/spotpage_before.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/spotpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/spotpage_after.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Design Recommendations for the Landing Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/spotpage_after.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/spotpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Parker&amp;rsquo;s Registration Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/regpage_before.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Before Parker&#39;s Registration Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/regpage_before.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/regpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/regpage_after.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;After Parker&#39;s Registration Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/regpage_after.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/regpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Quick Wins&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We recommended the following quick win because it required little resources and could be implemented quickly.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/quickwin.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/quickwin.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/quickwin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
 
@@ -287,7 +282,7 @@ In &lt;a href: &#34;/http://www.paigebennett.com/projects/SpotOn&#34; target=_bl
 &lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers. They wanted to tackle the Listers side first.
 They built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/SpotOnMeeting.jpg&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/SpotOnMeeting.jpg&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/SpotOnMeeting.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Reviewing The Prototype&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
@@ -303,50 +298,48 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;We analyzed the user tests, noting patterns and pain points. Each issue can be categorized as one of discoverability, information input/editing, user orientation or feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/OpportunityMatrix.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Opportunity Matrix&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/OpportunityMatrix.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/OpportunityMatrix.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Landing Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/BeforeLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Before Landing Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/BeforeLandingPage.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/BeforeLandingPage.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;This is what the site &lt;em&gt;used&lt;/em&gt; to look like&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/AfterLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Design Recommendations&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/AfterLandingPage.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AfterLandingPage.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Minimal changes to create an optimal user experience. Overall, the landing page was a quick win.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Implemented Changes&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/SpotOnLandingPage.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;SpotOn&#39;s Landing Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/SpotOnLandingPage.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/SpotOnLandingPage.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Now, users have a clearer understanding of the different spot types.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Lister&amp;rsquo;s Registration Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Once a user decides they want to list a spot, they have to create a profile. Here&amp;rsquo;s what our usability test showed users thought of the process.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/BeforeListers2.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Lister&#39;s Registration Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/BeforeListers2.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/BeforeListers2&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;We found that users had the most issues with creating a spot profile.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/AfterListers1.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Information Box&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/AfterListers1.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AfterListers1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/AfterListers4.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Design Recommendations&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/AfterListers4.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AfterListers4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Implemented Changes&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Listers1.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Implemented Changes&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Listers1.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Listers1.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;The information box lets users know immediately what they will need to create their profile.&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Listers2.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Lister&#39;s Registration Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Listers2.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Listers2.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Here, you can that SpotOn implemented our recommendations for simplifying the process.&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Listers4.png&#34; data-lightbox=&#34;opportunity&#34; data-title=&#34;Lister&#39;s Registration Page&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Listers4.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Listers4.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Users can easily block off dates for spot availability.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
