@@ -2,7 +2,6 @@
 date = "2015-03-29T14:10:51-07:00"
 draft = false
 title = "Dell's Solar Powered Classroom: Ethonography in Kenya"
-subtitle = "subtitle not set yet"
 modallink = "dellsolar"
 +++
 

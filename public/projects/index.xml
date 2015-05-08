@@ -107,23 +107,21 @@
 
 &lt;p&gt;If you’re not familiar with whiteboarding, check out &lt;a href=&#34;https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; awesome Medium article about the process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/whiteboard.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/whiteboard.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/whiteboard.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/whiteboard.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Whiteboarding Out the App&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;I also did an exercise called six-ups, which challenges you to think of six different designs for one task.  It allowed me to take a step back and think of less conventional, more creative ways of presenting information in my app. It also gave me design options to chose from.&lt;/p&gt;
 
 &lt;p&gt;Here’s how it works. We ask you how you dress in different weather and what neighborhoods you live and work in. We then take your dress preferences and using a weather API, suggest clothing based upon the weather forecast and customized to each neighborhood.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/screenshots.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Screen Shots&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/screenshots.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/screenshots.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;A Few Screens&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Everyday you open your app and depending on the weather forecast, Tights or Scarves shows you whether you’ll need tights, scarves, a coat and a few quirky suggestions to keep the experience delightful.&lt;/p&gt;
 
 &lt;p&gt;The premise is simple and hopefully will make dressing for SF weather easier and way more fun.&lt;/p&gt;
 
-&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;http://localhost:1313/images/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;http://localhost:1313/app/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is an early build. It will be in the Play Store soon.&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -217,10 +215,10 @@ In &lt;a href: &#34;/http://www.paigebennett.com/projects/SpotOn&#34; target=_bl
 
 &lt;p&gt;Here are some of the insides we received from the usability tests.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Feedback1.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Feedback&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Feedback1.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Feedback1.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Some users were confused by the phone and thought Together10 was an app (it&amp;rsquo;s not- yet)&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Feedback2.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Feedback&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Feedback2.png&#34;/&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Feedback2.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;As users scroll down the page, their confusion over Together10&amp;rsquo;s purpose was reflected most in this section.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Design Recommendations&lt;/strong&gt;&lt;/p&gt;
@@ -229,8 +227,7 @@ In &lt;a href: &#34;/http://www.paigebennett.com/projects/SpotOn&#34; target=_bl
 
 &lt;p&gt;Our longterm option is an overall restructuring of the homepage.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/Together10Wireframe.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Feedback&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Together10Wireframe.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Together10Wireframe.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This redesign addresses user feedback and is aimed at clarifying how Together10 works.&lt;/p&gt;
 
@@ -250,14 +247,11 @@ In &lt;a href: &#34;/http://www.paigebennett.com/projects/SpotOn&#34; target=_bl
 
 &lt;p&gt;Of course, most startups don&amp;rsquo;t have the time or resources to do a complete redesign. As a second option (one that could be shipped quickly), we recommended the following small changes.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/QuickWin1.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/QuickWin1.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/QuickWin1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/QuickWin2.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/QuickWin2.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/QuickWin2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/QuickWin3.png&#34; data-lightbox=&#34;persona&#34; data-title=&#34;Quick Wins&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/QuickWin3.png&#34;/&gt;&lt;/a&gt;
-&lt;div class=&#34;image-caption&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/QuickWin3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conculusions &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
 
@@ -479,14 +473,7 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;&lt;strong&gt;Users&lt;/strong&gt;: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos &lt;a href=&#34;https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Cafe.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Cafe.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;I began by asking them the following filter questions:&lt;/p&gt;
 
@@ -508,15 +495,9 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 &lt;li&gt;Cancel a session&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.
+&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.&lt;/p&gt;
 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Painpoints.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Painpoints.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pain Point #1: Canceling a Session&lt;/strong&gt;&lt;/p&gt;
 
@@ -530,23 +511,11 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;&lt;strong&gt;My Recommendation&lt;/strong&gt;: One of my users referenced what she called her favorite app- Urban Sitter. She said she would have liked to see Vint display recent bookings (with a cancel option) on the main page.&lt;/p&gt;
 
-&lt;p&gt;I used Urban Sitter as my inspiration:
+&lt;p&gt;I used Urban Sitter as my inspiration:&lt;/p&gt;
 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/baby.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/baby.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Cancel2.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Cancel2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;(One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I&amp;rsquo;ve contacted Vint and they&amp;rsquo;ve since fixed the bug.)&lt;/p&gt;
 
@@ -556,14 +525,7 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.&lt;/p&gt;
 
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Category2.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Category2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pain Point #3: Confusing Function of the Vint Logo&lt;/strong&gt;&lt;/p&gt;
 
@@ -573,36 +535,15 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;If you compare the Vint logo to another app&amp;rsquo;s logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:&lt;/p&gt;
 
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/gmail.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/gmail.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;I realize that Vint&amp;rsquo;s design is in keeping with Andriod&amp;rsquo;s design principles but the logo isn&amp;rsquo;t needed- users know what app they&amp;rsquo;re in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow.&lt;/p&gt;
 
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Backbutton.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Backbutton.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This is similar to Airbnb&amp;rsquo;s app:&lt;/p&gt;
 
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Airbnb.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Airbnb.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;(It&amp;rsquo;s worth noting that when you click on the Vint logo while on the main page, it will exit you out of the app. This happened to every user I interviewed and their reaction was a mixture of surprise, confusion and dismay.)&lt;/p&gt;
 
@@ -610,23 +551,11 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;There are several other recommendations that I will be addressing in the near future. Like&amp;hellip;.onboarding! This wasn&amp;rsquo;t something I could complete within a short timeframe but designing an onboarding experience would solve several problems I noticed, including cancelation, confusing profiles and unclear categorization.&lt;/p&gt;
 
-&lt;p&gt;I really like how Pinterest does onboarding and recommend that Vint create a similar experience.
+&lt;p&gt;I really like how Pinterest does onboarding and recommend that Vint create a similar experience.&lt;/p&gt;
 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Pinterest%201.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Pinterest 1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://localhost:1313/images/Pinterest%204.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Pinterest 4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This design is also a little less intensive to create.&lt;/p&gt;
 

@@ -2,7 +2,6 @@
 date = "2014-12-06T19:29:32-08:00"
 draft = false
 title = "Vint: A Usability Study"
-subtitle = "subtitle not set yet"
 modallink = "vint"
 +++
 
@@ -19,7 +18,7 @@ Now to be honest, my first few interactions with the app were a bit frustrating.
 
 **Users**: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos <a href="https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0" target="_blank">here</a>.
 
-{{% figure src="/images/Cafe.jpg" %}}
+<img class="img-responsive img-centered" src="/images/Cafe.jpg" alt="">
 
 I began by asking them the following filter questions:
 
@@ -38,7 +37,8 @@ I began by asking them the following filter questions:
 * Cancel a session
 
 **Analysis**: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.
-{{% figure src="/images/Painpoints.jpg" %}}
+
+<img class="img-responsive img-centered" src="/images/Painpoints.jpg" alt="">
 
 **Pain Point #1: Canceling a Session**
 
@@ -53,8 +53,10 @@ To cancel a session, you must visit your profile page to view and cancel your bo
 **My Recommendation**: One of my users referenced what she called her favorite app- Urban Sitter. She said she would have liked to see Vint display recent bookings (with a cancel option) on the main page.
 
 I used Urban Sitter as my inspiration:
-{{% figure src="/images/baby.jpg" %}}
-{{% figure src="/images/Cancel2.jpg" %}}
+
+<img class="img-responsive img-centered" src="/images/baby.jpg" alt="">
+
+<img class="img-responsive img-centered" src="/images/Cancel2.jpg" alt="">
 
 (One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I've contacted Vint and they've since fixed the bug.)
 
@@ -64,7 +66,7 @@ I used Urban Sitter as my inspiration:
 
 None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.
 
-{{% figure src="/images/Category2.jpg" %}}
+<img class="img-responsive img-centered" src="/images/Category2.jpg" alt="">
 
 **Pain Point #3: Confusing Function of the Vint Logo**
 
@@ -74,15 +76,15 @@ Users would click on the Vint logo expecting it to take them back a page. Instea
 
 If you compare the Vint logo to another app's logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:
 
-{{% figure src="/images/gmail.jpg" %}}
+<img class="img-responsive img-centered" src="/images/gmail.jpg" alt="">
 
 I realize that Vint's design is in keeping with Andriod's design principles but the logo isn't needed- users know what app they're in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow. 
 
-{{% figure src="/images/Backbutton.jpg" %}}
+<img class="img-responsive img-centered" src="/images/Backbutton.jpg" alt="">
 
 This is similar to Airbnb's app:
 
-{{% figure src="/images/Airbnb.jpg" %}}
+<img class="img-responsive img-centered" src="/images/Airbnb.jpg" alt="">
 
 (It's worth noting that when you click on the Vint logo while on the main page, it will exit you out of the app. This happened to every user I interviewed and their reaction was a mixture of surprise, confusion and dismay.) 
 
@@ -91,8 +93,10 @@ This is similar to Airbnb's app:
 There are several other recommendations that I will be addressing in the near future. Like....onboarding! This wasn't something I could complete within a short timeframe but designing an onboarding experience would solve several problems I noticed, including cancelation, confusing profiles and unclear categorization. 
 
 I really like how Pinterest does onboarding and recommend that Vint create a similar experience. 
-{{% figure src="/images/Pinterest 1.jpg" %}}
-{{% figure src="/images/Pinterest 4.jpg" %}}
+
+<img class="img-responsive img-centered" src="/images/Pinterest 1.jpg" alt="">
+
+<img class="img-responsive img-centered" src="/images/Pinterest 4.jpg" alt="">
 
 This design is also a little less intensive to create. 
 
