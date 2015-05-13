@@ -27,7 +27,8 @@ Alee loves DIY projects and turns to Pinterest for inspiration. She curates the 
 
 Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she's interested in. 
 
-<img class="img-responsive img-centered" src="/images/AleePersona.jpg" alt="">
+
+<a href="/images/AleePersona.jpg" data-lightbox="image-1" data-title="My caption"><img class="img-responsive img-centered img-responsive-small" src="/images/AleePersona.jpg" alt=""></a>
 <div class="image-caption">Alee Persona</div>
 
 **Process**
