@@ -413,10 +413,10 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
     
     <item>
       <title>Pinterest: Persona to Prototype</title>
-      <link>http://localhost:1313/projects/pinterest/</link>
+      <link>http://localhost:1313/projects/2015-14-pinterest/</link>
       <pubDate>Mon, 15 Dec 2014 17:55:14 -0800</pubDate>
       
-      <guid>http://localhost:1313/projects/pinterest/</guid>
+      <guid>http://localhost:1313/projects/2015-14-pinterest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
 
 &lt;p&gt;You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
