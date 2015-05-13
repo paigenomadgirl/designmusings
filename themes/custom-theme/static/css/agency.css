@@ -345,6 +345,10 @@ section h3.section-subheading {
     }
 }
 
+section {
+    padding: 0 0;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
