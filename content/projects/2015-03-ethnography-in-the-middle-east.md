@@ -2,13 +2,12 @@
 date = "2015-03-28T10:24:39-07:00"
 draft = false
 title = "Ethnography In The Middle East"
-subtitle = "subtitle not set yet"
 modallink = "middleeast"
 +++
 
 For a few years, I lived and worked in the Middle East, developing a user strategy for a small startup. Much of my job was to study how cultural beliefs impact business decision-making and public speaking. 
 
-<a href="/images/whereilived.png" data-lightbox="image-1" data-title="Map of Oman"><img class="img-responsive img-centered img-responsive-small" src="/images/whereilived.png" alt=""></a>
+<a href="/images/projects/oman/oman-where-i-lived.png" data-lightbox="images-oman" data-title="Map of Oman"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/oman/oman-where-i-lived.png" alt=""></a>
 <div class="image-caption">Here's where I lived! The lovely city of Muscat in Oman.</div>
 
 It was a fascinating time and shaped much of my understanding of how culture impacts how you use and interpret technology. 
@@ -26,7 +25,7 @@ So the first thing I did? I sat in on business meetings.
 
 Here’s a tip: if you want to fail at doing business in the Middle East, rush into meetings and get down to business straight away.  The plucky expat who tries to talk about business immediately misses a very important aspect of the culture: trust. 
 
-<a href="/images/what.jpg" data-lightbox="image-1" data-title="Business Later. Coffee Now"><img class="img-responsive img-centered img-responsive-small" src="/images/what.jpg" alt=""></a>
+<a href="/images/projects/oman/oman-what.jpg" data-lightbox="images-oman" data-title="Business Later. Coffee Now"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/oman/oman-what.jpg" alt=""></a>
 
 <div class="image-caption">Business meetings begin with asking about family and health. This is to establish/reiterate the need for trust of the individual (as family) in order to do business.</div>
 
@@ -42,14 +41,14 @@ I experienced this first-hand early on after scolding a client for sending a con
 
 In Omani culture, problems are talked around versus talked about. This lessens the chance that someone might shame a business associate by pointing out conflict. 
 
-<a href="/images/problems.jpg" data-lightbox="image-1" data-title="The concept simplified."><img class="img-responsive img-centered img-responsive-small" src="/images/problems.jpg" alt=""></a>
+<a href="/images/projects/oman/oman-problems.jpg" data-lightbox="images-oman" data-title="The concept simplified."><img class="img-responsive img-centered img-responsive-small" src="/images/projects/oman/oman-problems.jpg" alt=""></a>
 <div class="image-caption">The concept simplified.</div>
 
 **Creating The Persona**
 
 After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:
 
-<a href="/images/Omanpersona.png" data-lightbox="image-1" data-title="This is one of 10 personas created within the first few weeks of research."><img class="img-responsive img-centered img-responsive-small" src="/images/Omanpersona.png" alt=""></a>
+<a href="/images/projects/oman/oman-persona.png" data-lightbox="images-oman" data-title="This is one of 10 personas created within the first few weeks of research."><img class="img-responsive img-centered img-responsive-small" src="/images/projects/oman/oman-persona.png" alt=""></a>
 <div class="image-caption">This is one of 10 personas created within the first few weeks of research.</div>
 
 **Conclusion**
