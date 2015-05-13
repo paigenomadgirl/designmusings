@@ -1,0 +1,19 @@
++++
+date = "2015-03-20T22:31:24-07:00"
+draft = false
+title = "Being More"
+slug = "Being-More"
+
++++
+
+
+<a href="http://www.pinterest.com" target="_blank">Pinterest</a>. Inspirer of meals, wedding DIYs and home decor. Since it’s creation, Pinterest has become (for some at least) a standard of which to measure different parts of our lives— there’s the Pinterest worthy party, the exclusively DIY wedding, the freezer meal plan and the 100 fun activities to do with children during a snowstorm, to name a few. It's easy to mark Pinterest as a women-centered, homemaker driven medium. And it is favorited by many, many women who fit that mold. But it’s also something much more.When you dig into Pinterest beyond what you might expect, it’s sort of like peeling the curtain back on the human mystic— what inspires us, what drives us, what we dream about.  Here’s an example of user Steve Melins and his profile.<img class="img-responsive img-centered" src="/images/Steve.png" alt="">
+<div class="image-caption">Alee Persona</div>
+<a href="/images/Steve.png" data-lightbox="persona" data-title="Steve's Profile"><img src="/images/Steve.png"/></a>
+<div class="image-caption"></div> 
+<a href="https://www.pinterest.com/day2hunt/nice-i-like-it/" target="_blank">Visit</a> his profile page and you’ll get a glimpse of PVC pipe projects and DIY farming equipment. What I love about Pinterest is that it’s intention is not for you to sit in front of your computer and pin a million different meal options. It’s intention is to inspire you to leave the couch and go make those dinners. Pin a beautiful waterfall? Go hike it. Pin 3 Easy Ways to Learn Spanish? Go learn it. But Pinterest is also a product that goes beyond is surface purpose.  I’d like to share with you how I’m using Pinterest in a very different way than you might think.First off, you should know that I began my career as a writer; a journalist turned UX Designer.  And so, I’m writing a book. It’s based on some of my experiences living in the Middle East but the characters are fiction. And while it’s based on a true story, the characters I created, especially the protagonist, are very different from myself. When I first started to write, I turned to my normal (embarrassing) methods of inspiration. Think soft jazz. But as I began to develop the main character, I wanted more inspiration. I wanted to visualize who she was and so I turned to Pinterest. Yes, it’s a visual tool to help us discover things but it’s also more. It can become a visual board  of worlds we create— worlds that exist to us in the everyday or worlds that we aspire to live in. I created my Pinterest account and started following boards that my character would be interested in.  The beauty of this approach has been watching my feed develop and grow through the eyes of my character. Seeing the recipes she would cook, the vacations she would plan or the way she would decorate her house has given me creative fuel in writing this character. Her main feed makes me feel like I'm peeking into a coffee date with her friends. It’s turned a one-dimensional exercise into a multilayered, rich visual experience and fuel for the creative fire. 
+
+<img class="img-responsive img-centered" src="/images/Kate.png" alt="">
+<div class="image-caption">Kate's Main Feed</div>
+<img class="img-responsive img-centered" src="/images/Katevsme.png" alt="">
+<div class="image-caption">For comparison, here's Kate's main feed at the top and mine at the bottom.</div>And that’s what’s so magical about Pinterest. Those moments when the product goes beyond and the users can interact with it on a deeper level.I wonder if Ben Silbermann ever thought Pinterest would be used as a storyboard for the characters and worlds artists create? As a designer, I cannot imagine a better feeling than watching someone use what I’ve created in a way that I myself could never have pictured. 

@@ -5,8 +5,73 @@
     <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Musings on Design</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Mar 2015 14:10:51 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2015 22:54:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>StyleLend App</title>
+      <link>http://localhost:1313/projects/sylelend-app/</link>
+      <pubDate>Sun, 10 May 2015 22:54:00 -0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/sylelend-app/</guid>
+      <description>&lt;p&gt;When I moved to San Francisco, I did so with half a closet. Mainly because I moved into an apartment with a closet the size of a hamster. It was great for simplifying but I often found myself without the right outfit for the right occasion. Enter &lt;a href=&#34;http://https://www.renttherunway.com/&#34; target=_blank&#34;&gt;Rent the Runway&lt;/a&gt;, a platform for renting designer dresses for any occasion&amp;ndash; from date night to weddings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inspiration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used Rent the Runway many times until I heard about &lt;a href=&#34;https://www.stylelend.com/&#34; target=_blank&#34;&gt;Style Lend&lt;/a&gt;, a startup with a similar concept except hyper local. I’ve used Style Lend a few times and while I enjoyed the experience, I wished for an app to make the rental process even faster and more streamlined. So, I decided to create an iOS app.*&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Persona&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I began by thinking about the user:&lt;/p&gt;
+
+&lt;p&gt;Julie is 28, lives in Soma and attends special events (like a cocktail party or wedding) once a month. Her closet space is sparse and she loves a good deal. She likes that Style Lend is less expensive than Rent the Runway and local, so she can rent a dress the day before an event.&lt;/p&gt;
+
+&lt;p&gt;Julie sometimes makes purchases on mobile. She would make purchases more often but will turn to desktop if the checkout process requires numerous fields.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;App Flow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/style guide.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s begin with the first screens. After signing in, Julie can choose from curated (seasonal) collections and browse dresses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen1-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;She can favorite dresses to view later or continue shopping.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;It was important to me to add multiple dress views and the ability to view dress details on one screen.&lt;/p&gt;
+
+&lt;p&gt;Next, Julie can customize her rental, a feature that I wanted to make was available at any point during the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen4 with calendars.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;When it came to designing the checkout process, I kept things very simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Unnecessary information (email, phone number) is not needed during this process- those are pieces of information that can be garnered from account settings. Instead, I focused on including only the necessary pieces of information to create a checkout process that is no more than two screens.&lt;/p&gt;
+
+&lt;p&gt;Once Julie has rented her dress, she can immediately track the order or edit it once again (perhaps she changes her mind).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Last Screen.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Last Screen.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;When Julie opens the app back up, a status message tells her where her dress is. If she clicks on the chevron on the top righthand corner, it will take her to a deep link that tracks her dress delivery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My goal for this app was to create a simple, clean, fashion-forward experience that enables users to browse and rent dresses on their phone. By focusing on only the necessary bits of information, I aimed to create an experience that users could follow through quickly and joyfully. After all, Style Lend is all about providing the perfect outfit. That certainly calls for a joyful app.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a video showing the interaction.
+&lt;iframe width=&#34;560&#34; height=&#34;420&#34; src=&#34;https://www.dropbox.com/s/wcdwwky6gbqecju/Paige%20%231.mov?dl=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;*Style Lend is launching their iOS app on May 11th, 2015. I created this app prior to Style Lend&amp;rsquo;s launch.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I do not work for Style Lend. I just really love their platform.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dell&#39;s Solar Powered Classroom: Ethonography in Kenya</title>
