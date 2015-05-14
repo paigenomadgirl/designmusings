@@ -2,7 +2,6 @@
 date = "2015-05-10T22:54:00-07:00"
 draft = true
 title = "StyleLend App"
-slug = "SyleLend-App"
 modallink = "stylelend"
 
 +++
