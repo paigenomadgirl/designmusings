@@ -2,7 +2,7 @@
 date = "2015-01-25T16:06:39-08:00"
 draft = false
 title = "Life’s Too Short To Wait For The Check: A UX Case Study of OpenTable’s New Payments Feature"
-slug = "Open-Table-UX-Case-Study"
+slug = "open-table-ux-case-study"
 
 +++
 

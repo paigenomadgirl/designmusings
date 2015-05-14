@@ -2,7 +2,7 @@
 date = "2014-11-28T13:42:29-08:00"
 draft = false
 title = "The Journey From Journalism to Design"
-slug = "Journey-From-Journalism-To-Design"
+slug = "journey-from-journalism-to-design"
 +++
 
 In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.

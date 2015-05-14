@@ -2,7 +2,7 @@
 date = "2014-11-28T13:58:43-08:00"
 draft = false
 title = "User Study Realness (The Grass Roots Edition)"
-slug = "User-Study-Realness"
+slug = "user-study-realness"
 
 +++
 

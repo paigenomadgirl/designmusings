@@ -2,7 +2,7 @@
 date = "2015-01-28T22:53:09-08:00"
 draft = false
 title = "What Inspires You?"
-slug = "Inspiring-UI"
+slug = "inspiring-ui"
 
 +++
 As a UX Designer, it's part of the job to look for inspiration. I hope I'll always be constantly inspired by the world around me and the brilliant work of talented artists and designers. 

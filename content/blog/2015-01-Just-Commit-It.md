@@ -2,7 +2,7 @@
 date = "2015-01-28T22:53:46-08:00"
 draft = false
 title = "Just Commit It Already: My Adventures In Coding"
-slug = "Just-Commit-It"
+slug = "just-commit-it"
 
 +++
 

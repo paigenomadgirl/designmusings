@@ -2,7 +2,7 @@
 date = "2015-01-22T09:37:56-08:00"
 draft = false
 title = "Don’t mind me staring at you, I’m just sketching"
-slug = "Learning-To-Sketch"
+slug = "learning-to-sketch"
 
 +++
 

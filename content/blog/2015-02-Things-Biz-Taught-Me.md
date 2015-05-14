@@ -2,7 +2,7 @@
 date = "2015-02-20T20:28:37-08:00"
 draft = false
 title = "The Thing About Having Fun That Twitter's Co-founder Taught Me"
-slug = "Things-Biz-Taught-Me"
+slug = "things-biz-taught-me"
 
 +++
 
