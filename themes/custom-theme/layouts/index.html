@@ -100,7 +100,7 @@
                 </div>
             </div>
             <div class="row">
-                {{ range where .Data.Pages.ByTitle "Section" "portfolio" }}
+                {{ range where .Data.Pages.ByDate.Reverse "Section" "portfolio" }}
                     {{ .Render "portfolio" }}
                 {{ end }}
             </div>

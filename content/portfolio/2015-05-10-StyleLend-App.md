@@ -1,5 +1,5 @@
 +++
-date = "2014-12-06T12:07:32-08:00"
+date = "2015-05-10T12:07:32-08:00"
 description = "A link about stuff"
 tags = ["personal", "blog"]
 thumbnail = "/images/StyleLendlogo.png"
