@@ -2,8 +2,7 @@
 date = "2015-03-20T22:31:24-07:00"
 draft = false
 title = "Being More"
-slug = "being-more"
-
+slug = "being-more-2"
 +++
 
 

@@ -3,7 +3,6 @@ date = "2015-03-18T11:43:15-07:00"
 draft = false
 title = "The Frustrating Filter"
 slug = "the-frustrating-filter-feature"
-
 +++
 
 What do you think this sign means?
