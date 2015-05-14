@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Musings on Design</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>http://paigebennett.com/tags/blog/</link>
     <description>Recent content in Blog on Musings on Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 10 May 2015 12:07:32 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://paigebennett.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Style Lend: Designing the App</title>
-      <link>http://localhost:1313/portfolio/2015-05-10-StyleLend-App/</link>
+      <link>http://paigebennett.com/portfolio/2015-05-10-StyleLend-App/</link>
       <pubDate>Sun, 10 May 2015 12:07:32 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/2015-05-10-StyleLend-App/</guid>
+      <guid>http://paigebennett.com/portfolio/2015-05-10-StyleLend-App/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethnography In The Middle East</title>
-      <link>http://localhost:1313/portfolio/ethnography-in-the-middle-east/</link>
+      <link>http://paigebennett.com/portfolio/ethnography-in-the-middle-east/</link>
       <pubDate>Sat, 28 Mar 2015 10:24:39 -0700</pubDate>
       
-      <guid>http://localhost:1313/portfolio/ethnography-in-the-middle-east/</guid>
+      <guid>http://paigebennett.com/portfolio/ethnography-in-the-middle-east/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Together10</title>
-      <link>http://localhost:1313/portfolio/together10/</link>
+      <link>http://paigebennett.com/portfolio/together10/</link>
       <pubDate>Sun, 22 Feb 2015 12:56:04 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/together10/</guid>
+      <guid>http://paigebennett.com/portfolio/together10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpotOn Part 1</title>
-      <link>http://localhost:1313/portfolio/SpotOn/</link>
+      <link>http://paigebennett.com/portfolio/SpotOn/</link>
       <pubDate>Sun, 22 Feb 2015 10:14:58 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/SpotOn/</guid>
+      <guid>http://paigebennett.com/portfolio/SpotOn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pinterest</title>
-      <link>http://localhost:1313/portfolio/pinterest/</link>
+      <link>http://paigebennett.com/portfolio/pinterest/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/pinterest/</guid>
+      <guid>http://paigebennett.com/portfolio/pinterest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solar Powered</title>
-      <link>http://localhost:1313/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</link>
+      <link>http://paigebennett.com/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</guid>
+      <guid>http://paigebennett.com/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpotOn Part 2</title>
-      <link>http://localhost:1313/portfolio/spotonpart2/</link>
+      <link>http://paigebennett.com/portfolio/spotonpart2/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/spotonpart2/</guid>
+      <guid>http://paigebennett.com/portfolio/spotonpart2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tights or Scarves</title>
-      <link>http://localhost:1313/portfolio/tightsorscarves/</link>
+      <link>http://paigebennett.com/portfolio/tightsorscarves/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/tightsorscarves/</guid>
+      <guid>http://paigebennett.com/portfolio/tightsorscarves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vint</title>
-      <link>http://localhost:1313/portfolio/vint/</link>
+      <link>http://paigebennett.com/portfolio/vint/</link>
       <pubDate>Sat, 06 Dec 2014 12:07:32 -0800</pubDate>
       
-      <guid>http://localhost:1313/portfolio/vint/</guid>
+      <guid>http://paigebennett.com/portfolio/vint/</guid>
       <description></description>
     </item>
     
