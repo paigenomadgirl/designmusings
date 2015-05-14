@@ -45,8 +45,10 @@
     <header style="background-image: url(../img/front-page-cover.jpg);">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">{{  .Site.Params.header.lead_in }}</div>
-                <div class="intro-heading">{{  .Site.Params.header.heading }}</div>
+                <div style="background-color: rgba(0, 0, 0, 0.7); border-radius: 5px; padding-top: 10px">
+                    <div class="intro-lead-in">{{  .Site.Params.header.lead_in }}</div>
+                    <div class="intro-heading">{{  .Site.Params.header.heading }}</div>
+                </div>
                 <a href="#about" class="page-scroll btn btn-xl">{{  .Site.Params.header.more_button }}</a>
             </div>
         </div>
