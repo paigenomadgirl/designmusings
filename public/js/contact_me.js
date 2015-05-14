@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "---something---",
+                url: "https://first-steps-with-go.herokuapp.com/submitData",
                 type: "POST",
                 crossDomain: true,
                 data: {
