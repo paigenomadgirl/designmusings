@@ -30,25 +30,23 @@ Let’s begin with the first screens. After signing in, Julie can choose from cu
 
 She can favorite dresses to view later or continue shopping. 
 
-<img class="img-responsive img-centered" src="/images/Screen4.png" alt="">
+<img class="img-responsive img-centered" src="/images/Screen4Edit.png" alt="">
 
 It was important to me to add multiple dress views and the ability to view dress details on one screen. 
 
 Next, Julie can customize her rental, a feature that I wanted to make was available at any point during the process. 
 
-<img class="img-responsive img-centered" src="/images/Screen4 with calendars.png" alt="">
+<img class="img-responsive img-centered" src="/images/Screen6Edit.png" alt="">
 
 When it came to designing the checkout process, I kept things very simple. 
 
-<img class="img-responsive img-centered" src="/images/Screen5.png" alt="">
+<img class="img-responsive img-centered" src="/images/Screen5Edit.png" alt="">
 
 Unnecessary information (email, phone number) is not needed during this process- those are pieces of information that can be garnered from account settings. Instead, I focused on including only the necessary pieces of information to create a checkout process that is no more than two screens.
 
 Once Julie has rented her dress, she can immediately track the order or edit it once again (perhaps she changes her mind). 
 
-<img class="img-responsive img-centered" src="/images/Last Screen.png" alt="">
-
-<img class="img-responsive img-centered" src="/images/Last Screen.png" alt="">
+<img class="img-responsive img-centered" src="/images/LastScreenEdit.png" alt="">
 
 When Julie opens the app back up, a status message tells her where her dress is. If she clicks on the chevron on the top righthand corner, it will take her to a deep link that tracks her dress delivery. 
 
@@ -56,8 +54,7 @@ When Julie opens the app back up, a status message tells her where her dress is.
 
 My goal for this app was to create a simple, clean, fashion-forward experience that enables users to browse and rent dresses on their phone. By focusing on only the necessary bits of information, I aimed to create an experience that users could follow through quickly and joyfully. After all, Style Lend is all about providing the perfect outfit. That certainly calls for a joyful app. 
 
-Here's a video showing the interaction. 
-<iframe width="560" height="420" src="https://www.dropbox.com/s/wcdwwky6gbqecju/Paige%20%231.mov?dl=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://youtu.be/dxrrTtvDSHQ" target=_blank">Here's</a> a video showing the interaction. 
 
 *Style Lend is launching their iOS app on May 11th, 2015. I created this app prior to Style Lend's launch.
  

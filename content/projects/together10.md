@@ -17,7 +17,7 @@ After getting to know the product, we designed and conducted tests with users th
 
 **Feedback & Pain Points**
 
-Here are some of the insides we received from the usability tests. 
+Here are some of the insights we received from the usability tests. 
 <img class="img-responsive img-centered" src="/images/Feedback1.png" alt="">
 <div class="image-caption">Some users were confused by the phone and thought Together10 was an app (it's not- yet)</div>
 
@@ -28,11 +28,11 @@ Here are some of the insides we received from the usability tests.
 
 *Longterm Change*
 
-Our longterm option is an overall restructuring of the homepage. 
-
 <img class="img-responsive img-centered" src="/images/Together10Wireframe.png" alt="">
 
-This redesign addresses user feedback and is aimed at clarifying how Together10 works.  
+Our longterm option is an overall restructuring of the homepage. We create a wireframe that highlights this change.
+
+The redesign addresses user feedback and is aimed at clarifying how Together10 works.  
 
 - Highlights a clear value statement below the call to action [“Sign Up”].
 
@@ -46,16 +46,14 @@ This redesign addresses user feedback and is aimed at clarifying how Together10 
 
 *Quick Wins*
 
-Of course, most startups don't have the time or resources to do a complete redesign. As a second option (one that could be shipped quickly), we recommended the following small changes. 
+Of course, most startups don't have the time or resources to do a complete redesign. As a second option (one that could be shipped quickly), we recommended several small, quick changes. 
+
+Here's an example of one suggested quick win.
 
 <img class="img-responsive img-centered" src="/images/QuickWin1.png" alt="">
-
-<img class="img-responsive img-centered" src="/images/QuickWin2.png" alt="">
-
-<img class="img-responsive img-centered" src="/images/QuickWin3.png" alt="">
 
 **Conculusions & Next Steps**
 
 We recommended that Together10 implement our designs and run an A/B test via Optimizely. After analyzing results from an A/B test, we also recommended that they establish a brand identity and language that carries throughout the Together10 page. 
 
-Together10 will be implementing these changes in the coming weeks and we will be designing an onboarding experience based on feedback. 
+Together10 will be implementing these changes in the coming weeks and my next step is to design an onboarding flow. 
