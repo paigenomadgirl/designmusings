@@ -28,8 +28,8 @@ Alee loves DIY projects and turns to Pinterest for inspiration. She curates the 
 Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she's interested in. 
 
 
-<a href="/images/AleePersona.jpg" data-lightbox="image-1" data-title="My caption"><img class="img-responsive img-centered img-responsive-small" src="/images/AleePersona.jpg" alt=""></a>
-<div class="image-caption">Alee Persona</div>
+<a href="/images/projects/pinterest/pinterest-alee-persona.jpg" data-lightbox="images-pinterest" data-title="Alee's Persona"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-alee-persona.jpg" alt=""></a>
+<div class="image-caption-center">Alee's Persona</div>
 
 **Process**
 
@@ -51,11 +51,11 @@ This feature will allow Alee to:
 
 Alee's motive for using Pinterest is to reference pins she likes. I decided that she would most likely either "heart" a pin or "pin" a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions. 
 
-<img class="img-responsive img-centered" src="/images/Pinterest Task Flow.jpg" alt="">
+<a href="/images/projects/pinterest/pinterest-task-flow.jpg" data-lightbox="images-pinterest" data-title="Task Flow"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-task-flow.jpg" alt=""></a>
 
 **UI Sketches**
 
-<img class="img-responsive img-centered" src="/images/WireFrames.jpg" alt="">
+<a href="/images/projects/pinterest/pinterest-wireframe-sticky-notes.jpg" data-lightbox="images-pinterest" data-title="Wireframes"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-wireframe-sticky-notes.jpg" alt=""></a>
 
 One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route. 
 
@@ -64,22 +64,22 @@ One thing I learned during this part of the process was that the categories need
 After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing. 
 I had used the filter icon that's part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content....not choose a category. Uh oh!
 
-<img class="img-responsive img-centered" src="/images/filter.jpg" alt="">
-<div class="image-caption">Does this filter or sort?</div>
+<img class="img-responsive img-centered" src="/images/projects/pinterest/pinterest-filter.jpg" alt="">
+<div class="image-caption-center" style="width: 200px">Does this filter or sort?</div>
 
 At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration. 
 
-<img class="img-responsive img-centered" src="/images/fitmob.jpg" alt="">
+<a href="/images/projects/pinterest/pinterest-fitmob-example.png" data-lightbox="images-pinterest" data-title="Fitmob Example"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-fitmob-example-small.png" alt=""></a>
 
 It's simple and direct. There's no doubting what this button does. 
 
 My wireframes will help explain:
 
-<img class="img-responsive img-centered" src="/images/Wireframes 1.jpg" alt="">
+<a href="/images/projects/pinterest/pinterest-wireframe-final-1.jpg" data-lightbox="images-pinterest" data-title="Wireframes Final"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-wireframe-final-1.jpg" alt=""></a>
 
-<img class="img-responsive img-centered" src="/images/Updatedwireframe.jpg" alt="">
+<a href="/images/projects/pinterest/pinterest-wireframe-final-2.jpg" data-lightbox="images-pinterest" data-title="Wireframes Final"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-wireframe-final-2.jpg" alt=""></a>
 
-<img class="img-responsive img-centered" src="/images/Wireframes 4.jpg" alt="">
+<a href="/images/projects/pinterest/pinterest-wireframe-final-3.jpg" data-lightbox="images-pinterest" data-title="Wireframes Final"><img class="img-responsive img-centered img-responsive-small" src="/images/projects/pinterest/pinterest-wireframe-final-3.jpg" alt=""></a>
 
 **Prototype**
 

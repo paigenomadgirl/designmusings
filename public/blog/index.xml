@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Musings on Design</title>
-    <link>http://paigebennett.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Musings on Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 20 Mar 2015 22:31:24 -0700</lastBuildDate>
-    <atom:link href="http://paigebennett.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How Pinterest Inspired My Novel</title>
-      <link>http://paigebennett.com/blog/being-more-2/</link>
+      <link>http://localhost:1313/blog/being-more-2/</link>
       <pubDate>Fri, 20 Mar 2015 22:31:24 -0700</pubDate>
       
-      <guid>http://paigebennett.com/blog/being-more-2/</guid>
+      <guid>http://localhost:1313/blog/being-more-2/</guid>
       <description>&lt;p&gt;Long before I became a UX Designer &amp;amp; User Researcher, I was a writer. As a child, I would write embarrassingly long narratives about imaginary worlds. Adolescent me would create dramatic stories about love and loss (mainly loss since I knew very little about love).&lt;/p&gt;
 
 &lt;p&gt;Post college, as a news reporter, my writings were short, concise and rarely emotional. Like many writers, with each writing season came a different means of inspiration. As a child it was my backyard, which seemed magical in my imagination. As a teenager, it was usually some angsty song (ahem, “Tearing Up My Heart”). And in the newsroom, inspiration came in the natural background noise of everyone freaking out.&lt;/p&gt;
@@ -52,19 +52,19 @@
     
     <item>
       <title>The Frustrating Filter</title>
-      <link>http://paigebennett.com/blog/the-frustrating-filter-feature/</link>
+      <link>http://localhost:1313/blog/the-frustrating-filter-feature/</link>
       <pubDate>Wed, 18 Mar 2015 11:43:15 -0700</pubDate>
       
-      <guid>http://paigebennett.com/blog/the-frustrating-filter-feature/</guid>
+      <guid>http://localhost:1313/blog/the-frustrating-filter-feature/</guid>
       <description>&lt;p&gt;What do you think this sign means?&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/calmel.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/calmel.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Even if you can’t read the words, the meaning is universal. Yield to the camel! In car vs. camel, they will always win.&lt;/p&gt;
 
 &lt;p&gt;So now let’s do another quiz. What does this icon mean?&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/filtericon.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/filtericon.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;If you said filter, you win. If you said sort, you still win because this icon is confusing.&lt;/p&gt;
@@ -75,19 +75,19 @@
 
 &lt;p&gt;Take a look at my sketches and the action bar. What would you think this button does?&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/WireFrames.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/WireFrames.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Right now, Android does not have a good alternative to the Filter button.&lt;/p&gt;
 
 &lt;p&gt;Here are what some other apps are using for a filter button.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/fitmob.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/fitmob.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;As a designer, I had two choices: 1. Use the recommended icon and risk confused users. 2. Use a button that is absolutely clear but not necessarily in keeping with the design.&lt;/p&gt;
 
 &lt;p&gt;So what did I choose?&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/actionbar.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/actionbar.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;I made my decision because this was clearer than the filter icon and while I think there is a better solution that we as Android designers should work towards, the user is more important than the design.&lt;/p&gt;
 
@@ -99,17 +99,17 @@
     
     <item>
       <title>Beloved Experiences</title>
-      <link>http://paigebennett.com/blog/beloved-experiences/</link>
+      <link>http://localhost:1313/blog/beloved-experiences/</link>
       <pubDate>Tue, 24 Feb 2015 15:38:05 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/beloved-experiences/</guid>
+      <guid>http://localhost:1313/blog/beloved-experiences/</guid>
       <description>&lt;p&gt;When is the last time you’ve had what you would describe as a “joyful experience” with a product? As a designer, I hope that people who use the products I create have a memorable, truly joyful experience.  (You see how I’m avoiding the word “delightful?” More on that in a separate post)&lt;/p&gt;
 
 &lt;p&gt;I’d like to share a few beloved experiences with you that will hopefully inspire your design approach.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Nostalgic App&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/timehop.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/timehop.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Just download it now if you haven&amp;rsquo;t already!&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://timehop.com/&#34; target=&#34;_blank&#34;&gt;Timehop&lt;/a&gt; is the one app that I am actually excited to open each day. Why? The nostaligia factor. Timehop shows you the things you’ve posted on social media this day one, two, three, etc. years ago.&lt;/p&gt;
@@ -120,13 +120,13 @@
 
 &lt;p&gt;&lt;strong&gt;The MidCentury Modern Planter&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/planter.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/planter.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Case Planters&lt;/div&gt;
 When you think of beloved experiences, think of both the virtual and physical products you interact with. For me, one of my most favorite products are these two planters I purchased last year from &lt;a href=&#34;http://modernica.net/case-study-cylinder-plant-pot-with-standbrlarge.html/&#34; target=&#34;_blank&#34;&gt;Modernica&lt;/a&gt;. Why do I love them? For one, their design speaks to me. I’m a MidCentury nut.  Two, the product does exactly what it describes. It holds my plants safely and doesn’t leak water. It’s a logical product that displays beauty.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Creative Medium&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/beloved.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/beloved.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;My Pinterest Main Feed&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;I love Pinterest…and I don’t mean for just cooking inspiration. I actually use &lt;a href=&#34;https://www.pinterest.com/&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; as a visual inspiration board for the stories I write. Here’s a secret - I’m writing a book currently. It’s based on real events but the characters are fictional. In order to get into the character’s head, I created a Pinterest profile and began following the types of pins that this character would care about. Before long, I created a visual board representing my character that now serves as inspiration when I write. This has made Pinterest much more than a vehicle for crockpot recipes. It’s make for a beloved (and creatively necessary) experience&lt;/p&gt;
@@ -137,10 +137,10 @@ When you think of beloved experiences, think of both the virtual and physical pr
     
     <item>
       <title>The Thing About Having Fun That Twitter&#39;s Co-founder Taught Me</title>
-      <link>http://paigebennett.com/blog/things-biz-taught-me/</link>
+      <link>http://localhost:1313/blog/things-biz-taught-me/</link>
       <pubDate>Fri, 20 Feb 2015 20:28:37 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/things-biz-taught-me/</guid>
+      <guid>http://localhost:1313/blog/things-biz-taught-me/</guid>
       <description>&lt;p&gt;&lt;em&gt;Success isn’t guaranteed but failure is certain if you aren’t emotionally invested in your work. -Biz, Things A Little Bird Told Me&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Each week, Tradecraft welcomes experts and inspiring entrepreneurs to share their insights with us during what we call a “Tradecraft teach.” A couple of weeks ago, I was elated to moderate a talk with Biz Stone.&lt;/p&gt;
@@ -152,10 +152,10 @@ When you think of beloved experiences, think of both the virtual and physical pr
     
     <item>
       <title>Just Commit It Already: My Adventures In Coding</title>
-      <link>http://paigebennett.com/blog/just-commit-it/</link>
+      <link>http://localhost:1313/blog/just-commit-it/</link>
       <pubDate>Wed, 28 Jan 2015 22:53:46 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/just-commit-it/</guid>
+      <guid>http://localhost:1313/blog/just-commit-it/</guid>
       <description>&lt;p&gt;I am a coder. It sounds weird to see that written out. Maybe that’s because it’s a rather new adventure in my life. Or maybe it’s because for years, I saw coding as swathed in a veil of mystery. Websites and apps just happened. Sure, there was someone on the other side making it happen but for the most part, it just seemed like magic.&lt;/p&gt;
 
 &lt;p&gt;I am not a good coder (yet). I am not an experienced coder. But I’m excited to learn.&lt;/p&gt;
@@ -166,26 +166,26 @@ When you think of beloved experiences, think of both the virtual and physical pr
     
     <item>
       <title>What Inspires You?</title>
-      <link>http://paigebennett.com/blog/inspiring-ui/</link>
+      <link>http://localhost:1313/blog/inspiring-ui/</link>
       <pubDate>Wed, 28 Jan 2015 22:53:09 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/inspiring-ui/</guid>
+      <guid>http://localhost:1313/blog/inspiring-ui/</guid>
       <description>&lt;p&gt;As a UX Designer, it&amp;rsquo;s part of the job to look for inspiration. I hope I&amp;rsquo;ll always be constantly inspired by the world around me and the brilliant work of talented artists and designers.&lt;/p&gt;
 
 &lt;p&gt;In that spirit, I&amp;rsquo;d like to share my &amp;lsquo;Inspiration Notebook&amp;rsquo; with you. This is compiled of different images of UIs that inspire me.&lt;/p&gt;
 
 &lt;p&gt;For example, I love Pinterest&amp;rsquo;s board display. The simple and elegant way my pictures are displayed convey a warm yet not overly-fussy tone.
-&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Pinterest.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Pinterest.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Here&amp;rsquo;s Loverly, a wedding planning app that I&amp;rsquo;m currently &lt;em&gt;very&lt;/em&gt; taken with.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Loverly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Loverly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Users can begin their search by selecting a color in the spetreme. It&amp;rsquo;s an interesting and unique way to present search.&lt;/p&gt;
 
 &lt;p&gt;Good Eggs is one of my favorite apps. It provides local foods delivered to your door. They recently redesigned their site and streamlined their categories.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/GoodEggs.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/GoodEggs.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Click on &amp;lsquo;Eggs &amp;amp; Diary.&amp;rsquo; Good Eggs always has a great cheese selection!&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;The result is a simple, delightful categories bar that makes it very clear which categories contain what types of food. I love it!&lt;/p&gt;
@@ -196,10 +196,10 @@ When you think of beloved experiences, think of both the virtual and physical pr
     
     <item>
       <title>Life’s Too Short To Wait For The Check: A UX Case Study of OpenTable’s New Payments Feature</title>
-      <link>http://paigebennett.com/blog/open-table-ux-case-study/</link>
+      <link>http://localhost:1313/blog/open-table-ux-case-study/</link>
       <pubDate>Sun, 25 Jan 2015 16:06:39 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/open-table-ux-case-study/</guid>
+      <guid>http://localhost:1313/blog/open-table-ux-case-study/</guid>
       <description>&lt;p&gt;What if paying for your meal could be effortless, fluid and simple? Just one click on your phone and boom — bill paid, out the door and onto the next adventure. This was the question that OpenTable’s design team dived into. The end result of their discovery is a feature that allows you to view and pay your check through the &lt;a href=&#34;http://www.opentable.com&#34; target=&#34;_blank&#34;&gt;OpenTable&lt;/a&gt; app.&lt;/p&gt;
 
 &lt;p&gt;Recently, Seth Andrezejewski, a User Experience Researcher for OpenTable, spoke at Tradecraft and shared a glimpse into the journey his team took to create this new feature.&lt;/p&gt;
@@ -210,37 +210,37 @@ When you think of beloved experiences, think of both the virtual and physical pr
     
     <item>
       <title>Don’t mind me staring at you, I’m just sketching</title>
-      <link>http://paigebennett.com/blog/learning-to-sketch/</link>
+      <link>http://localhost:1313/blog/learning-to-sketch/</link>
       <pubDate>Thu, 22 Jan 2015 09:37:56 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/learning-to-sketch/</guid>
+      <guid>http://localhost:1313/blog/learning-to-sketch/</guid>
       <description>&lt;p&gt;Drawing has always been a bit intimidating to me. I can see an idea or concept in my head but when it comes to putting pen to paper and communicating it visually, I would freeze up.&lt;/p&gt;
 
 &lt;p&gt;So when we were given the assignment (challenge?) to draw 100 sketches in 2 days, I was nervous. So nervous. But, I love observing and people watching, which is an integral part of sketching.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Allpictures.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Allpictures.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Over the past few days, I’ve opened my eyes to lines, shapes and flows. I’ve found more grace with my drawing ability.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Thing.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Thing.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;We were given exactly 100 cards, so if I mess up, I push on rather than trash the card and start over. It was surprisingly freeing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Interaction.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Interaction.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;People were the biggest challenge for me but I learned to focus more on their shapes than details.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Withlaptop.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Withlaptop.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Context. I sketched many of my fellow Tradecrafters interacting with their phones and computers.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;The more I sketched, the easier it became to do this- especially helpful when I tried to sketch movement.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Motion.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Motion.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Flow. A lady pushing a stroller, a man running in the Embarcadero.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Sketching a space from above proved to be an interesting challenge and it made me consider space between objects more closely. (It also inspired me to rearrange my furniture.)&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Space.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Space.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Space. Aerial view of my bedroom &amp;amp; living room.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;As hesitant as I felt on Monday about sketching, I really enjoyed this assignment. It gave me a little more confidence in drawing and helped me to see the space around me in a different light.&lt;/p&gt;
@@ -249,10 +249,10 @@ When you think of beloved experiences, think of both the virtual and physical pr
     
     <item>
       <title>The Elements of User Experience</title>
-      <link>http://paigebennett.com/blog/jesse-james-garret-inspiration/</link>
+      <link>http://localhost:1313/blog/jesse-james-garret-inspiration/</link>
       <pubDate>Fri, 28 Nov 2014 16:17:54 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/jesse-james-garret-inspiration/</guid>
+      <guid>http://localhost:1313/blog/jesse-james-garret-inspiration/</guid>
       <description>&lt;p&gt;In some ways, Jesse James Garrett introduced me into the (official) world of User Experience.
 His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first work on UX that I read. As such, I appreciated the simple, clear and relatable language that Garrett used to introduce newbies like me to the UX world.&lt;/p&gt;
 
@@ -278,7 +278,7 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
 
 &lt;p&gt;This was one of the most influential statements that Garrett made and I hope that it’s one I will always keep top of mind. Sometimes we can be so focused on fixing the problem that we don’t take a step back to consider how that solution could possibly cause a ripple effect throughout the design. It takes your team thinking about each plane to avoid this. Garrett provided this helpful diagram to show what this might look like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/diagram.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/diagram.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;“If you approach your product development process with the complete user experience in mind, you can come out of it with a product that’s an asset, not a liability.” Yes, Mr. Garrett. Yes indeed.&lt;/p&gt;
 </description>
@@ -286,10 +286,10 @@ His book, the &lt;em&gt;Elements of User Experience&lt;/em&gt;, was the first wo
     
     <item>
       <title>User Study Realness (The Grass Roots Edition)</title>
-      <link>http://paigebennett.com/blog/user-study-realness/</link>
+      <link>http://localhost:1313/blog/user-study-realness/</link>
       <pubDate>Fri, 28 Nov 2014 13:58:43 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/user-study-realness/</guid>
+      <guid>http://localhost:1313/blog/user-study-realness/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve done user studies for several years but I’m excited about getting the opportunity to implement user studies following the lean startup philosophy.&lt;/p&gt;
 
 &lt;p&gt;From Laura Klein’s book UX for Lean Startups, “Lean UX is solidly data driven.” In other words, you test first, assume never.&lt;/p&gt;
@@ -347,10 +347,10 @@ Next Steps:&lt;/p&gt;
     
     <item>
       <title>The Journey From Journalism to Design</title>
-      <link>http://paigebennett.com/blog/journey-from-journalism-to-design/</link>
+      <link>http://localhost:1313/blog/journey-from-journalism-to-design/</link>
       <pubDate>Fri, 28 Nov 2014 13:42:29 -0800</pubDate>
       
-      <guid>http://paigebennett.com/blog/journey-from-journalism-to-design/</guid>
+      <guid>http://localhost:1313/blog/journey-from-journalism-to-design/</guid>
       <description>&lt;p&gt;In the days before iPhones and internet, while other kids were playing teacher or house, I was reading the newspaper into a tape recorder, “anchoring” my own tv news show.&lt;/p&gt;
 
 &lt;p&gt;From the time I was young, I knew what I wanted to be when I grew up. It never wavered or changed, like other things in my life (such as that dark period before I loved avocados or when I hated wine), I never second guessed this dream.&lt;/p&gt;

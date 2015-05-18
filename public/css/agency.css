@@ -17,6 +17,13 @@ body {
     color: #fed136;
 }
 
+.image-caption-center {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
