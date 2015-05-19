@@ -23,12 +23,20 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/projects/2015-03-ethnography-in-the-middle-east/</loc>
+=======
+    <loc>http://localhost:1313/portfolio/ethnography-in-the-middle-east/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2015-03-28T10:24:39-07:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/portfolio/ethnography-in-the-middle-east/</loc>
+=======
+    <loc>http://localhost:1313/projects/2015-03-ethnography-in-the-middle-east/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2015-03-28T10:24:39-07:00</lastmod>
   </url>
   
@@ -53,7 +61,16 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/projects/together10/</loc>
+=======
+    <loc>http://localhost:1313/projects/spotonpart2/</loc>
+    <lastmod>2015-02-23T15:19:38-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/together10/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2015-02-22T12:57:02-08:00</lastmod>
   </url>
   
@@ -108,27 +125,47 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/portfolio/vint/</loc>
+=======
+    <loc>http://localhost:1313/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/portfolio/tightsorscarves/</loc>
+=======
+    <loc>http://localhost:1313/portfolio/pinterest/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/portfolio/spotonpart2/</loc>
+=======
+    <loc>http://localhost:1313/portfolio/tightsorscarves/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/portfolio/pinterest/</loc>
+=======
+    <loc>http://localhost:1313/portfolio/spotonpart2/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://paigebennett.com/portfolio/dell-s-solar-powered-classroom-ethnography-in-kenya/</loc>
+=======
+    <loc>http://localhost:1313/portfolio/vint/</loc>
+>>>>>>> 709822a... portfolio display changes
     <lastmod>2014-12-06T12:07:32-08:00</lastmod>
   </url>
   

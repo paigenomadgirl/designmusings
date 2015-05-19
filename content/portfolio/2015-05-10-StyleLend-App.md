@@ -10,5 +10,6 @@ blogsummary = "Style Lend: Personas, App Creation."
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "stylelend"
 category= "UX Design"
+portfolio_group = "ux"
 +++
 
