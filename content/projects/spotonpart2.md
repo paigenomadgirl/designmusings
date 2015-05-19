@@ -1,6 +1,6 @@
 +++
 date = "2015-02-23T15:19:38-08:00"
-draft = true
+draft = false
 title = "SpotOn Part 2: Finding A Parking Spot"
 modallink = "spoton2"
 +++
