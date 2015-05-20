@@ -56,7 +56,7 @@ I used Urban Sitter as my inspiration:
 
 <img class="img-responsive img-centered" src="/images/baby.jpg" alt="">
 
-<img class="img-responsive img-centered" src="/images/Cancel2.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/Cancel2new.jpg" alt="">
 
 (One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I've contacted Vint and they've since fixed the bug.)
 
@@ -66,7 +66,7 @@ I used Urban Sitter as my inspiration:
 
 None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.
 
-<img class="img-responsive img-centered" src="/images/Category2.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/Category2.png" alt="">
 
 **Pain Point #3: Confusing Function of the Vint Logo**
 
@@ -76,7 +76,7 @@ Users would click on the Vint logo expecting it to take them back a page. Instea
 
 If you compare the Vint logo to another app's logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:
 
-<img class="img-responsive img-centered" src="/images/gmail.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/gmail.png" alt="">
 
 I realize that Vint's design is in keeping with Andriod's design principles but the logo isn't needed- users know what app they're in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow. 
 
@@ -94,9 +94,9 @@ There are several other recommendations that I will be addressing in the near fu
 
 I really like how Pinterest does onboarding and recommend that Vint create a similar experience. 
 
-<img class="img-responsive img-centered" src="/images/Pinterest 1.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/Onboarding1.png" alt="">
 
-<img class="img-responsive img-centered" src="/images/Pinterest 4.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/Onboarding2.png" alt="">
 
 This design is also a little less intensive to create. 
 
