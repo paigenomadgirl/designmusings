@@ -191,14 +191,14 @@
     
     <item>
       <title>SpotOn Part 2: Finding A Parking Spot</title>
-      <link>http://localhost:1313/projects/spotonpart2/</link>
+      <link>http://paigebennett.com/projects/spotonpart2/</link>
       <pubDate>Mon, 23 Feb 2015 15:19:38 -0800</pubDate>
       
-      <guid>http://localhost:1313/projects/spotonpart2/</guid>
+      <guid>http://paigebennett.com/projects/spotonpart2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
 
 &lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers.
-In &lt;a href=&#34;http://localhost:1313/projects/SpotOn&#34; target=_blank&#34;&gt;Part 1&lt;/a&gt;, I shared how we helped SpotOn redesign the listers site. Now, I&amp;rsquo;ll show you how we redesigned the parkers site.&lt;/p&gt;
+In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#34;&gt;Part 1&lt;/a&gt;, I shared how we helped SpotOn redesign the listers site. Now, I&amp;rsquo;ll show you how we redesigned the parkers site.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
 
@@ -212,40 +212,40 @@ In &lt;a href=&#34;http://localhost:1313/projects/SpotOn&#34; target=_blank&#34;
 
 &lt;p&gt;We categorized each pain point as one of discoverability, information input, user orientation and feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Matrix.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Matrix.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Landing Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Parkerspage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Parkerspage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/ParkersLandingPage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/ParkersLandingPage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Spot Availability Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/spotpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/spotpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/spotpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/spotpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Parker&amp;rsquo;s Registration Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/regpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/regpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/regpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/regpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Quick Wins&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We recommended the following quick win because it required little resources and could be implemented quickly.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/quickwin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/quickwin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
 
@@ -253,7 +253,7 @@ In &lt;a href=&#34;http://localhost:1313/projects/SpotOn&#34; target=_blank&#34;
 
 &lt;p&gt;SpotOn will be implementing these recommendations over time and I&amp;rsquo;ll keep you updated as they move forward!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/SpotOn/&#34; target=_blank&#34;&gt;Click here&lt;/a&gt; for Part 1 of my work with SpotOn&amp;rsquo;s Listers page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/projects/SpotOn/&#34; target=_blank&#34;&gt;Click here&lt;/a&gt; for Part 1 of my work with SpotOn&amp;rsquo;s Listers page.&lt;/p&gt;
 </description>
     </item>
     

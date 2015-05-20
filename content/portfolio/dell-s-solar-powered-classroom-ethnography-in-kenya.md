@@ -10,5 +10,6 @@ blogsummary = "Dell's Solar Powered Classroom: Ethonography. Personas. Usability
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "dellsolar"
 category= "User Research"
+portfolio_group = "research"
 +++
 

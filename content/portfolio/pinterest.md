@@ -10,5 +10,6 @@ blogsummary = "Pinterest: Personas. New Feature Creation. Wireframes. Prototypes
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "pinterest"
 Category= "New Feature"
+portfolio_group = "ux"
 +++
 

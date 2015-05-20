@@ -10,5 +10,6 @@ blogsummary = "SpotOn: Usability Test. Design Recommendations."
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "spoton1"
 category= "App Redesign"
+portfolio_group = "ux"
 +++
 

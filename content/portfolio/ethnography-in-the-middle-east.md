@@ -10,6 +10,7 @@ blogsummary = "Ethnography In The Middle East Part 1: Ethnographic Analysis. Per
 sourceLink = "http://github.com/spf13/spf13.com"
 category = "User Research"
 modallink = "middleeast"
+portfolio_group = "research"
 +++
 
 

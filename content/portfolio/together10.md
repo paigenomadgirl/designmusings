@@ -10,5 +10,6 @@ blogsummary = "Together10: Messaging Study. A/B Testing. Design Recommendations.
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "together10"
 category= "Design Recommendations"
+portfolio_group = "ux"
 +++
 

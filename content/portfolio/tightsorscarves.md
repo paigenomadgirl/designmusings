@@ -10,5 +10,6 @@ blogsummary = "Tights or Scarves: Passion Project. App Creation, Design & Develo
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "tightsandscarves"
 category= "App Creation"
+portfolio_group = "ux"
 +++
 

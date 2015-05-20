@@ -10,5 +10,6 @@ blogsummary = "SpotOn Part 2: Personas. Usability Test. New Feature Creation. Wi
 sourceLink = "http://github.com/spf13/spf13.com"
 modallink = "spoton2"
 category= "App Redesign"
+portfolio_group = "ux"
 +++
 

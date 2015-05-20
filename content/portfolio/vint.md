@@ -8,4 +8,5 @@ blogLink = "vint"
 blogsummary = "Vint: Usability Test. User Flow. Design Recommendations."
 modallink = "vint"
 category= "Design Recommendations"
+portfolio_group = "ux"
 +++
