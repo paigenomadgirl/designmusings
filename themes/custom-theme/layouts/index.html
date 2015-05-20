@@ -104,11 +104,11 @@
                 {{ range (.Data.Pages.GroupByParam "portfolio_group" "Section" "portfolio").Reverse }}
                     <div class="row"> 
                         {{ if eq .Key "ux" }}
-                            <h2 class="portolio-secion-text-center">UI/UX Project</h2>
+                            <h2 class="portolio-secion-text-center">UX/UI Projects</h2>
                         {{ else if eq .Key "research" }}
-                            <h2 class="portolio-secion-text-center">User Research</h2>
+                            <h2 class="portolio-secion-text-center">User Research Projects</h2>
                         {{ else }}
-                            <h2 class="portolio-secion-text-center">Other</h2>
+                            <h2 class="portolio-secion-text-center">Other Projects</h2>
                         {{ end }}
                     </div>
 
