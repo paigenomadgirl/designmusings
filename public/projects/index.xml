@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Musings on Design</title>
-    <link>http://paigebennett.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Musings on Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 10 May 2015 22:54:00 -0700</lastBuildDate>
-    <atom:link href="http://paigebennett.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>StyleLend App</title>
-      <link>http://paigebennett.com/projects/2015-05-10-StyleLend-App/</link>
+      <link>http://localhost:1313/projects/2015-05-10-StyleLend-App/</link>
       <pubDate>Sun, 10 May 2015 22:54:00 -0700</pubDate>
       
-      <guid>http://paigebennett.com/projects/2015-05-10-StyleLend-App/</guid>
+      <guid>http://localhost:1313/projects/2015-05-10-StyleLend-App/</guid>
       <description>&lt;p&gt;When I moved to San Francisco, I did so with half a closet. Mainly because I moved into an apartment with a closet the size of a hamster. It was great for simplifying but I often found myself without the right outfit for the right occasion. Enter &lt;a href=&#34;http://https://www.renttherunway.com/&#34; target=_blank&#34;&gt;Rent the Runway&lt;/a&gt;, a platform for renting designer dresses for any occasion&amp;ndash; from date night to weddings.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Inspiration&lt;/strong&gt;&lt;/p&gt;
@@ -30,31 +30,31 @@
 
 &lt;p&gt;&lt;strong&gt;App Flow&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/style guide.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/style guide.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Let’s begin with the first screens. After signing in, Julie can choose from curated (seasonal) collections and browse dresses.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Screen1-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen1-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;She can favorite dresses to view later or continue shopping.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Screen4Edit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen4Edit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;It was important to me to add multiple dress views and the ability to view dress details on one screen.&lt;/p&gt;
 
 &lt;p&gt;Next, Julie can customize her rental, a feature that I wanted to make was available at any point during the process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Screen6Edit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen6Edit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;When it came to designing the checkout process, I kept things very simple.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Screen5Edit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Screen5Edit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Unnecessary information (email, phone number) is not needed during this process- those are pieces of information that can be garnered from account settings. Instead, I focused on including only the necessary pieces of information to create a checkout process that is no more than two screens.&lt;/p&gt;
 
 &lt;p&gt;Once Julie has rented her dress, she can immediately track the order or edit it once again (perhaps she changes her mind).&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/LastScreenEdit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/LastScreenEdit.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;When Julie opens the app back up, a status message tells her where her dress is. If she clicks on the chevron on the top righthand corner, it will take her to a deep link that tracks her dress delivery.&lt;/p&gt;
 
@@ -72,10 +72,10 @@
     
     <item>
       <title>Dell&#39;s Solar Powered Classroom: Ethonography in Kenya</title>
-      <link>http://paigebennett.com/projects/2015-03-dell-solar-kenya/</link>
+      <link>http://localhost:1313/projects/2015-03-dell-solar-kenya/</link>
       <pubDate>Sun, 29 Mar 2015 14:10:51 -0700</pubDate>
       
-      <guid>http://paigebennett.com/projects/2015-03-dell-solar-kenya/</guid>
+      <guid>http://localhost:1313/projects/2015-03-dell-solar-kenya/</guid>
       <description>&lt;p&gt;This project included enthopgraphy of schoolchildren in Nigeria to better understand the need for a solar powered &amp;ldquo;classroom in a box.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;I will be updating this post soon to highlight user research and the end product— a classroom powered by the sun.&lt;/p&gt;
@@ -92,13 +92,13 @@
     
     <item>
       <title>Ethnography In The Middle East</title>
-      <link>http://paigebennett.com/projects/2015-03-ethnography-in-the-middle-east/</link>
+      <link>http://localhost:1313/projects/2015-03-ethnography-in-the-middle-east/</link>
       <pubDate>Sat, 28 Mar 2015 10:24:39 -0700</pubDate>
       
-      <guid>http://paigebennett.com/projects/2015-03-ethnography-in-the-middle-east/</guid>
+      <guid>http://localhost:1313/projects/2015-03-ethnography-in-the-middle-east/</guid>
       <description>&lt;p&gt;For a few years, I lived and worked in the Middle East, developing a user strategy for a small startup. Much of my job was to study how cultural beliefs impact business decision-making and public speaking.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/oman/oman-where-i-lived.png&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;Map of Oman&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/oman/oman-where-i-lived.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/oman/oman-where-i-lived.png&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;Map of Oman&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/oman/oman-where-i-lived.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Here&amp;rsquo;s where I lived! The lovely city of Muscat in Oman.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;It was a fascinating time and shaped much of my understanding of how culture impacts how you use and interpret technology.&lt;/p&gt;
@@ -115,7 +115,7 @@
 
 &lt;p&gt;Here’s a tip: if you want to fail at doing business in the Middle East, rush into meetings and get down to business straight away.  The plucky expat who tries to talk about business immediately misses a very important aspect of the culture: trust.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/oman/oman-what.jpg&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;Business Later. Coffee Now&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/oman/oman-what.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/oman/oman-what.jpg&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;Business Later. Coffee Now&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/oman/oman-what.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&#34;image-caption&#34;&gt;Business meetings begin with asking about family and health. This is to establish/reiterate the need for trust of the individual (as family) in order to do business.&lt;/div&gt;
 
@@ -131,14 +131,14 @@
 
 &lt;p&gt;In Omani culture, problems are talked around versus talked about. This lessens the chance that someone might shame a business associate by pointing out conflict.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/oman/oman-problems.jpg&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;The concept simplified.&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/oman/oman-problems.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/oman/oman-problems.jpg&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;The concept simplified.&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/oman/oman-problems.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;The concept simplified.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Creating The Persona&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;After several weeks of research, it came time to create personas for the company we were building. Here’s one of the personas that I created:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/oman/oman-persona.png&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;This is one of 10 personas created within the first few weeks of research.&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/oman/oman-persona.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/oman/oman-persona.png&#34; data-lightbox=&#34;images-oman&#34; data-title=&#34;This is one of 10 personas created within the first few weeks of research.&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/oman/oman-persona.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption&#34;&gt;This is one of 10 personas created within the first few weeks of research.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
@@ -151,10 +151,10 @@
     
     <item>
       <title>Iteration #1: Tights or Scarves App</title>
-      <link>http://paigebennett.com/projects/tightsorscarves/</link>
+      <link>http://localhost:1313/projects/tightsorscarves/</link>
       <pubDate>Mon, 16 Mar 2015 12:55:51 -0800</pubDate>
       
-      <guid>http://paigebennett.com/projects/tightsorscarves/</guid>
+      <guid>http://localhost:1313/projects/tightsorscarves/</guid>
       <description>&lt;p&gt;San Francisco has a plethora of &lt;a href=&#34;hhttp://en.wikipedia.org/wiki/Microclimate&#34; target=&#34;_blank&#34;&gt;microclimates&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;On any given day, you could wakeup warm and sunny at home and work and arrive at work to be greeted by cold and fog. It’s just part of life in the Bay.&lt;/p&gt;
@@ -169,21 +169,21 @@
 
 &lt;p&gt;If you’re not familiar with whiteboarding, check out &lt;a href=&#34;https://medium.com/@mollyinglish/the-ninja-skill-for-ux-designers-25f314f8f76c&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; awesome Medium article about the process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/whiteboard.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/whiteboard.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Whiteboarding Out the App&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;I also did an exercise called six-ups, which challenges you to think of six different designs for one task.  It allowed me to take a step back and think of less conventional, more creative ways of presenting information in my app. It also gave me design options to chose from.&lt;/p&gt;
 
 &lt;p&gt;Here’s how it works. We ask you how you dress in different weather and what neighborhoods you live and work in. We then take your dress preferences and using a weather API, suggest clothing based upon the weather forecast and customized to each neighborhood.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/screenshots.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/screenshots.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;A Few Screens&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Everyday you open your app and depending on the weather forecast, Tights or Scarves shows you whether you’ll need tights, scarves, a coat and a few quirky suggestions to keep the experience delightful.&lt;/p&gt;
 
 &lt;p&gt;The premise is simple and hopefully will make dressing for SF weather easier and way more fun.&lt;/p&gt;
 
-&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;http://paigebennett.com/app/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have an Andriod and would like to try it out, you can download it &lt;a href=&#34;http://localhost:1313/app/tights-or-scarf-app-1.00.05.apk&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is an early build. It will be in the Play Store soon.&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -191,14 +191,14 @@
     
     <item>
       <title>SpotOn Part 2: Finding A Parking Spot</title>
-      <link>http://paigebennett.com/projects/spotonpart2/</link>
+      <link>http://localhost:1313/projects/spotonpart2/</link>
       <pubDate>Mon, 23 Feb 2015 15:19:38 -0800</pubDate>
       
-      <guid>http://paigebennett.com/projects/spotonpart2/</guid>
+      <guid>http://localhost:1313/projects/spotonpart2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
 
 &lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers.
-In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#34;&gt;Part 1&lt;/a&gt;, I shared how we helped SpotOn redesign the listers site. Now, I&amp;rsquo;ll show you how we redesigned the parkers site.&lt;/p&gt;
+In &lt;a href=&#34;http://localhost:1313/projects/SpotOn&#34; target=_blank&#34;&gt;Part 1&lt;/a&gt;, I shared how we helped SpotOn redesign the listers site. Now, I&amp;rsquo;ll show you how we redesigned the parkers site.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
 
@@ -212,40 +212,40 @@ In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#3
 
 &lt;p&gt;We categorized each pain point as one of discoverability, information input, user orientation and feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Matrix.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Matrix.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Landing Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Parkerspage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Parkerspage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/ParkersLandingPage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/ParkersLandingPage.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Spot Availability Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/spotpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/spotpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/spotpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/spotpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Parker&amp;rsquo;s Registration Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/regpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/regpage_before.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/regpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/regpage_after.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Quick Wins&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We recommended the following quick win because it required little resources and could be implemented quickly.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/quickwin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/quickwin.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
 
@@ -253,16 +253,16 @@ In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#3
 
 &lt;p&gt;SpotOn will be implementing these recommendations over time and I&amp;rsquo;ll keep you updated as they move forward!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/projects/SpotOn/&#34; target=_blank&#34;&gt;Click here&lt;/a&gt; for Part 1 of my work with SpotOn&amp;rsquo;s Listers page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/SpotOn/&#34; target=_blank&#34;&gt;Click here&lt;/a&gt; for Part 1 of my work with SpotOn&amp;rsquo;s Listers page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Together10: Messaging &amp; A/B Testing</title>
-      <link>http://paigebennett.com/projects/together10/</link>
+      <link>http://localhost:1313/projects/together10/</link>
       <pubDate>Sun, 22 Feb 2015 12:57:02 -0800</pubDate>
       
-      <guid>http://paigebennett.com/projects/together10/</guid>
+      <guid>http://localhost:1313/projects/together10/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://together10.com/&#34; target=&#34;_blank&#34;&gt;Together10&lt;/a&gt; is a beta site that sends parents daily, quick lessons to explore with their children. It&amp;rsquo;s a service created with the busy parent in mind. Each lesson takes 10 minutes or less to complete and is designed around what Together10 calls the &amp;ldquo;Together10 Advantage.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Opportunity&lt;/strong&gt;&lt;/p&gt;
@@ -277,17 +277,17 @@ In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#3
 
 &lt;p&gt;Here are some of the insights we received from the usability tests.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Feedback1.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Feedback1.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Some users were confused by the phone and thought Together10 was an app (it&amp;rsquo;s not- yet)&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Feedback2.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Feedback2.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;As users scroll down the page, their confusion over Together10&amp;rsquo;s purpose was reflected most in this section.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Longterm Change&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Together10Wireframe.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Together10Wireframe.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Our longterm option is an overall restructuring of the homepage. We create a wireframe that highlights this change.&lt;/p&gt;
 
@@ -311,7 +311,7 @@ In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#3
 
 &lt;p&gt;Here&amp;rsquo;s an example of one suggested quick win.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/QuickWin1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/QuickWin1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conculusions &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
 
@@ -323,10 +323,10 @@ In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#3
     
     <item>
       <title>SpotOn Part 1: Listing A Spot</title>
-      <link>http://paigebennett.com/projects/SpotOn/</link>
+      <link>http://localhost:1313/projects/SpotOn/</link>
       <pubDate>Sun, 22 Feb 2015 10:13:55 -0800</pubDate>
       
-      <guid>http://paigebennett.com/projects/SpotOn/</guid>
+      <guid>http://localhost:1313/projects/SpotOn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://spotonparking.com/&#34; target=_blank&#34;&gt;SpotOn&lt;/a&gt; is a new startup that helps marry frustrated drivers looking for parking with people who have driveways not always. Example: I only use my driveway in the evenings. With SpotOn, I can list the spot and rent it out for X amount of money hourly or monthly. If I&amp;rsquo;m a driver and have been searching for parking for the past hour, I can see an available spot near me thanks to SpotOn.&lt;/p&gt;
 
 &lt;p&gt;If you live in San Francisco (or any big city) you can imagine how a service like this could be a lifesaver for city dwellers.&lt;/p&gt;
@@ -336,7 +336,7 @@ In &lt;a href=&#34;http://paigebennett.com/projects/SpotOn&#34; target=_blank&#3
 &lt;p&gt;SpotOn has two site experiences: Listers &amp;amp; Parkers. They wanted to tackle the Listers side first.
 They built a prototype and wanted to validate the design before shipping. Tradecraft came onboard to help.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/SpotOnMeeting.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/SpotOnMeeting.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Reviewing The Prototype&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
@@ -352,48 +352,48 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;We analyzed the user tests, noting patterns and pain points. Each issue can be categorized as one of discoverability, information input/editing, user orientation or feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/OpportunityMatrix.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/OpportunityMatrix.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Each red dot represents a user&amp;rsquo;s pain point&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Usability Analysis &amp;amp; Design Recommendations&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Landing Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/BeforeLandingPage.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/BeforeLandingPage.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;This is what the site &lt;em&gt;used&lt;/em&gt; to look like&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/AfterLandingPage.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AfterLandingPage.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Minimal changes to create an optimal user experience. Overall, the landing page was a quick win.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Implemented Changes&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/SpotOnLandingPage.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/SpotOnLandingPage.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Now, users have a clearer understanding of the different spot types.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Lister&amp;rsquo;s Registration Page Pain Points&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Once a user decides they want to list a spot, they have to create a profile. Here&amp;rsquo;s what our usability test showed users thought of the process.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/BeforeListers2&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/BeforeListers2&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;We found that users had the most issues with creating a spot profile.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Design Recommendations&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/AfterListers1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AfterListers1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/AfterListers4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/AfterListers4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Implemented Changes&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Listers1.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Listers1.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;The information box lets users know immediately what they will need to create their profile.&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Listers2.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Listers2.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Here, you can that SpotOn implemented our recommendations for simplifying the process.&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Listers4.png&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Listers4.png&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption&#34;&gt;Users can easily block off dates for spot availability.&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion &amp;amp; Next Steps&lt;/strong&gt;&lt;/p&gt;
@@ -402,16 +402,16 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;Beyond this recommendation, SpotOn also implemented our recommendations for quick wins.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/projects/spotonpart2/&#34; target=&#34;_blank&#34;&gt;Click here&lt;/a&gt; for Part 2 of my work with SpotOn&amp;rsquo;s Parkers page.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/spotonpart2/&#34; target=&#34;_blank&#34;&gt;Click here&lt;/a&gt; for Part 2 of my work with SpotOn&amp;rsquo;s Parkers page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pinterest: Persona to Prototype</title>
-      <link>http://paigebennett.com/projects/2015-14-pinterest/</link>
+      <link>http://localhost:1313/projects/2015-14-pinterest/</link>
       <pubDate>Mon, 15 Dec 2014 17:55:14 -0800</pubDate>
       
-      <guid>http://paigebennett.com/projects/2015-14-pinterest/</guid>
+      <guid>http://localhost:1313/projects/2015-14-pinterest/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com&#34; target=&#34;_blank&#34;&gt;Pinterest&lt;/a&gt; is a website and mobile app that allows users to create visual bookmarks of everything ranging from meals to wedding inspiration to home decor. After launching in the first prototype in 2010, Pinterest has become so popular that &amp;ldquo;pinning&amp;rdquo; something is now woven into modern lexicon. But sometimes it can be hard to filter through pins on your main feed and find content that you&amp;rsquo;re truly interested in.&lt;/p&gt;
 
 &lt;p&gt;You currate your main feed by following pinners you like. Currently, there is no way to currate your main feed further by searching and displaying a certain cateogory from the pins of people you follow. Instead, Pinterest pulls in all pins from their entire network.&lt;/p&gt;
@@ -434,7 +434,7 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;Alee wants to be able to see specific categories of pins that pinners she follows have shared. With this function, Alee can take her curated content and curate it further, creating a main feed that features only those categories she&amp;rsquo;s interested in.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-alee-persona.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Alee&#39;s Persona&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-alee-persona.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-alee-persona.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Alee&#39;s Persona&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-alee-persona.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
 &lt;div class=&#34;image-caption-center&#34;&gt;Alee&amp;rsquo;s Persona&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
@@ -459,11 +459,11 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 
 &lt;p&gt;Alee&amp;rsquo;s motive for using Pinterest is to reference pins she likes. I decided that she would most likely either &amp;ldquo;heart&amp;rdquo; a pin or &amp;ldquo;pin&amp;rdquo; a pin to one of her DIY boards. Thus, my task flow shows her journey with Pinterest ending in either of these two actions.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-task-flow.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Task Flow&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-task-flow.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-task-flow.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Task Flow&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-task-flow.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;UI Sketches&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-sticky-notes.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-sticky-notes.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-sticky-notes.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-sticky-notes.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;One thing I learned during this part of the process was that the categories needed to be a pop up box, as opposed to a separate window. Sketching out 6 different ways to display categories helped clarify that this was the more effective route.&lt;/p&gt;
 
@@ -472,22 +472,22 @@ recommendations, quick wins and recommended next steps for SpotOn Parking.&lt;/p
 &lt;p&gt;After creating my wireframes, I did a short usability study with a few people and noticed something immediately: the filter button was confusing.
 I had used the filter icon that&amp;rsquo;s part of Andriod design convention. However, the feedback I received was that users thought the button was meant to sort content&amp;hellip;.not choose a category. Uh oh!&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-filter.jpg&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-filter.jpg&#34; alt=&#34;&#34;&gt;
 &lt;div class=&#34;image-caption-center&#34; style=&#34;width: 200px&#34;&gt;Does this filter or sort?&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;At first, I thought to use the same categories icon that Pinterest has on its site. However, this icon on mobile can be confusing. After looking at how other Android apps displayed their filter button, I used Fitmob as inspiration.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-fitmob-example.png&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-fitmob-example-small.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-fitmob-example.png&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Fitmob Example&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-fitmob-example-small.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s simple and direct. There&amp;rsquo;s no doubting what this button does.&lt;/p&gt;
 
 &lt;p&gt;My wireframes will help explain:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-final-1.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes Final&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-final-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-final-1.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes Final&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-final-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-final-2.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes Final&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-final-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-final-2.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes Final&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-final-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-final-3.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes Final&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://paigebennett.com/images/projects/pinterest/pinterest-wireframe-final-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-final-3.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Wireframes Final&#34;&gt;&lt;img class=&#34;img-responsive img-centered img-responsive-small&#34; src=&#34;http://localhost:1313/images/projects/pinterest/pinterest-wireframe-final-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Prototype&lt;/strong&gt;&lt;/p&gt;
 
@@ -517,10 +517,10 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
     
     <item>
       <title>Vint: A Usability Study</title>
-      <link>http://paigebennett.com/projects/vint/</link>
+      <link>http://localhost:1313/projects/vint/</link>
       <pubDate>Sat, 06 Dec 2014 19:29:32 -0800</pubDate>
       
-      <guid>http://paigebennett.com/projects/vint/</guid>
+      <guid>http://localhost:1313/projects/vint/</guid>
       <description>&lt;p&gt;My wedding is 4 months away, about the time when brides start panicking about things like invitations, caterers and the fit of their wedding dress. Me, I’m more concerned about the last issue&amp;ndash; my wedding dress (and fitting nicely into it).&lt;/p&gt;
 
 &lt;p&gt;That concern is largely want made new fitness app Vint catch my eye last week. &lt;a href=&#34;https://www.joinvint.com/&#34; target=&#34;_blank&#34;&gt;Vint&lt;/a&gt; touts itself as a “peer to peer fitness marketplace.” I was drawn to the app because of the ability to book a personal trainer in my area for less than what I would have to pay for in a gym. Since my exercise choices are largely based on time (early mornings) and location, I was excited about Vint and what it could do to help me reach my wedding fitness goal.&lt;/p&gt;
@@ -533,7 +533,7 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;&lt;strong&gt;Users&lt;/strong&gt;: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos &lt;a href=&#34;https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Cafe.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/images/projects/pinterest/pinterest-Cafe.jpg&#34; data-lightbox=&#34;images-pinterest&#34; data-title=&#34;Usability Testing (in the wild)&#34;&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Cafe.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I began by asking them the following filter questions:&lt;/p&gt;
 
@@ -557,7 +557,7 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;: While every user experienced some specific difficulty with the app, there were 3 pain points that stood out as causing users the most frustration.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Painpoints.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/Painpoints.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pain Point #1: Canceling a Session&lt;/strong&gt;&lt;/p&gt;
 
@@ -571,11 +571,9 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;&lt;strong&gt;My Recommendation&lt;/strong&gt;: One of my users referenced what she called her favorite app- Urban Sitter. She said she would have liked to see Vint display recent bookings (with a cancel option) on the main page.&lt;/p&gt;
 
-&lt;p&gt;I used Urban Sitter as my inspiration:&lt;/p&gt;
+&lt;p&gt;I used the &lt;a href=&#34;https://www.urbansitter.com/mobile&#34; target=&#34;_blank&#34;&gt;app&lt;/a&gt; Urban Sitter as my inspiration.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/baby.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Cancel2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Cancel2new.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;(One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I&amp;rsquo;ve contacted Vint and they&amp;rsquo;ve since fixed the bug.)&lt;/p&gt;
 
@@ -585,7 +583,7 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Category2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Category2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pain Point #3: Confusing Function of the Vint Logo&lt;/strong&gt;&lt;/p&gt;
 
@@ -595,15 +593,15 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;If you compare the Vint logo to another app&amp;rsquo;s logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/gmail.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/gmail.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;I realize that Vint&amp;rsquo;s design is in keeping with Andriod&amp;rsquo;s design principles but the logo isn&amp;rsquo;t needed- users know what app they&amp;rsquo;re in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Backbutton.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Backbutton.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This is similar to Airbnb&amp;rsquo;s app:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Airbnb.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Airbnb.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;(It&amp;rsquo;s worth noting that when you click on the Vint logo while on the main page, it will exit you out of the app. This happened to every user I interviewed and their reaction was a mixture of surprise, confusion and dismay.)&lt;/p&gt;
 
@@ -613,11 +611,9 @@ I had used the filter icon that&amp;rsquo;s part of Andriod design convention. H
 
 &lt;p&gt;I really like how Pinterest does onboarding and recommend that Vint create a similar experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Pinterest 1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Onboarding1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://paigebennett.com/images/Pinterest 4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;This design is also a little less intensive to create.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;img-responsive img-centered&#34; src=&#34;http://localhost:1313/images/projects/vint/Onboarding2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;So stay tuned for Vint: Part deux (and updates on how that wedding dress fits).&lt;/p&gt;
 

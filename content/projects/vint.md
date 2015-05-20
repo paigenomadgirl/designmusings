@@ -18,7 +18,8 @@ Now to be honest, my first few interactions with the app were a bit frustrating.
 
 **Users**: I targeted my local Laundromat (captive audience), my Lyft driver Paul and the nice people at Workshop Café. In total, I interviewed 6 people and recorded my time with them. You can view the videos <a href="https://www.dropbox.com/sh/qxuw8nq9v6cabq9/AACWB_ikpNnqZ83eI9rFUn3Wa?dl=0" target="_blank">here</a>.
 
-<img class="img-responsive img-centered" src="/images/Cafe.jpg" alt="">
+
+<a href="/images/projects/pinterest/pinterest-Cafe.jpg" data-lightbox="images-pinterest" data-title="Usability Testing (in the wild)"><img class="img-responsive img-centered" src="/images/projects/vint/Cafe.jpg" alt=""></a>
 
 I began by asking them the following filter questions:
 
@@ -52,11 +53,9 @@ To cancel a session, you must visit your profile page to view and cancel your bo
 
 **My Recommendation**: One of my users referenced what she called her favorite app- Urban Sitter. She said she would have liked to see Vint display recent bookings (with a cancel option) on the main page.
 
-I used Urban Sitter as my inspiration:
+I used the <a href="https://www.urbansitter.com/mobile" target="_blank">app</a> Urban Sitter as my inspiration. 
 
-<img class="img-responsive img-centered" src="/images/baby.jpg" alt="">
-
-<img class="img-responsive img-centered" src="/images/Cancel2new.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/projects/vint/Cancel2new.png" alt="">
 
 (One fun bug we found was with the booking procces itself. After booking, error message would pop up saying that the booking was not successful. This caused users to try a second time, which produced no error message. Even though they received an error message, the first booking had gone through, which means users were stuck with two bookings. I've contacted Vint and they've since fixed the bug.)
 
@@ -66,7 +65,7 @@ I used Urban Sitter as my inspiration:
 
 None of the users I spoke with noticed the exercise categories, dates and times at the bottom of each instructors picture on the main page. Three users remarked how they wished there were categories but none noticed the categorization that was present.
 
-<img class="img-responsive img-centered" src="/images/Category2.png" alt="">
+<img class="img-responsive img-centered" src="/images/projects/vint/Category2.png" alt="">
 
 **Pain Point #3: Confusing Function of the Vint Logo**
 
@@ -76,15 +75,15 @@ Users would click on the Vint logo expecting it to take them back a page. Instea
 
 If you compare the Vint logo to another app's logo (in this case, Gmail), you can see that the Vint logo is larger. This might have added to the difficulty users had in noticing the back arrow:
 
-<img class="img-responsive img-centered" src="/images/gmail.png" alt="">
+<img class="img-responsive img-centered" src="/images/projects/vint/gmail.png" alt="">
 
 I realize that Vint's design is in keeping with Andriod's design principles but the logo isn't needed- users know what app they're in. Instead, I am leaning on material design and recommending that they remove the logo and increase the size of the back arrow. 
 
-<img class="img-responsive img-centered" src="/images/Backbutton.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/projects/vint/Backbutton.png" alt="">
 
 This is similar to Airbnb's app:
 
-<img class="img-responsive img-centered" src="/images/Airbnb.jpg" alt="">
+<img class="img-responsive img-centered" src="/images/projects/vint/Airbnb.png" alt="">
 
 (It's worth noting that when you click on the Vint logo while on the main page, it will exit you out of the app. This happened to every user I interviewed and their reaction was a mixture of surprise, confusion and dismay.) 
 
@@ -94,11 +93,9 @@ There are several other recommendations that I will be addressing in the near fu
 
 I really like how Pinterest does onboarding and recommend that Vint create a similar experience. 
 
-<img class="img-responsive img-centered" src="/images/Onboarding1.png" alt="">
+<img class="img-responsive img-centered" src="/images/projects/vint/Onboarding1.png" alt="">
 
-<img class="img-responsive img-centered" src="/images/Onboarding2.png" alt="">
-
-This design is also a little less intensive to create. 
+<img class="img-responsive img-centered" src="/images/projects/vint/Onboarding2.png" alt=""> 
 
 So stay tuned for Vint: Part deux (and updates on how that wedding dress fits). 
 
